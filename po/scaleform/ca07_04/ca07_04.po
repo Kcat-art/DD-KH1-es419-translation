@@ -1,0 +1,153 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kurohyou Scaleform\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-419\n"
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=1
+#. kurohyou:frames=100,154
+msgctxt "kurohyou-scaleform|ca07_04|row=1|frames=100,154"
+msgid "おう！ いたか？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=2
+#. kurohyou:frames=154,169
+msgctxt "kurohyou-scaleform|ca07_04|row=2|frames=154,169"
+msgid "竹中は？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=3
+#. kurohyou:frames=178,215
+msgctxt "kurohyou-scaleform|ca07_04|row=3|frames=178,215"
+msgid "あそこだ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=4
+#. kurohyou:frames=215,274
+msgctxt "kurohyou-scaleform|ca07_04|row=4|frames=215,274"
+msgid "なんか若いヤツらと話してるな"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=5
+#. kurohyou:frames=287,302
+msgctxt "kurohyou-scaleform|ca07_04|row=5|frames=287,302"
+msgid "行ってくる"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=6
+#. kurohyou:frames=302,354
+msgctxt "kurohyou-scaleform|ca07_04|row=6|frames=302,354"
+msgid "ま… 待て龍也"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=7
+#. kurohyou:frames=354,407
+msgctxt "kurohyou-scaleform|ca07_04|row=7|frames=354,407"
+msgid "いきなりはマズいだろ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=8
+#. kurohyou:frames=407,452
+msgctxt "kurohyou-scaleform|ca07_04|row=8|frames=407,452"
+msgid "ちょっと様子みようぜ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=9
+#. kurohyou:frames=454,519
+msgctxt "kurohyou-scaleform|ca07_04|row=9|frames=454,519"
+msgid "俺には時間がねぇんだよ！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=10
+#. kurohyou:frames=519,591
+msgctxt "kurohyou-scaleform|ca07_04|row=10|frames=519,591"
+msgid "こんな表通りで騒ぎが起きて"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=11
+#. kurohyou:frames=591,660
+msgctxt "kurohyou-scaleform|ca07_04|row=11|frames=591,660"
+msgid "他にも警察が来たら終わりだぞ！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=12
+#. kurohyou:frames=660,708
+msgctxt "kurohyou-scaleform|ca07_04|row=12|frames=660,708"
+msgid "冷静になれ… 龍也"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=13
+#. kurohyou:frames=716,774
+msgctxt "kurohyou-scaleform|ca07_04|row=13|frames=716,774"
+msgid "ちっ！ 分かったよ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=14
+#. kurohyou:frames=967,1005
+msgctxt "kurohyou-scaleform|ca07_04|row=14|frames=967,1005"
+msgid "動いたぜ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=15
+#. kurohyou:frames=1023,1080
+msgctxt "kurohyou-scaleform|ca07_04|row=15|frames=1023,1080"
+msgid "とにかく後を つけてみるか"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_04/ca07_04.csv
+#. kurohyou:row=16
+#. kurohyou:frames=-1,-1
+#. kurohyou:untimed-event=1
+msgctxt "kurohyou-scaleform|ca07_04|row=16|frames=-1,-1"
+msgid "……"
+msgstr ""
+

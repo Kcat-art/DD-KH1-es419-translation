@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kurohyou Scaleform\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-419\n"
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_07/ca05_07.csv
+#. kurohyou:row=1
+#. kurohyou:frames=-1,-1
+#. kurohyou:untimed-event=1
+msgctxt "kurohyou-scaleform|ca05_07|row=1|frames=-1,-1"
+msgid "（…… 天馬？,どうしてこんなこんなところに）"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_07/ca05_07.csv
+#. kurohyou:row=2
+#. kurohyou:frames=194,237
+msgctxt "kurohyou-scaleform|ca05_07|row=2|frames=194,237"
+msgid "いまさら 関係ねぇ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_07/ca05_07.csv
+#. kurohyou:row=3
+#. kurohyou:frames=252,287
+msgctxt "kurohyou-scaleform|ca05_07|row=3|frames=252,287"
+msgid "またせたな"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_07/ca05_07.csv
+#. kurohyou:row=4
+#. kurohyou:frames=377,443
+msgctxt "kurohyou-scaleform|ca05_07|row=4|frames=377,443"
+msgid "なぜ 天馬が二岡組のヤツと…"
+msgstr ""
+

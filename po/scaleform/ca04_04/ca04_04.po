@@ -1,0 +1,107 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kurohyou Scaleform\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-419\n"
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_04/ca04_04.csv
+#. kurohyou:row=1
+#. kurohyou:frames=72,135
+msgctxt "kurohyou-scaleform|ca04_04|row=1|frames=72,135"
+msgid "やめてくれ…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_04/ca04_04.csv
+#. kurohyou:row=2
+#. kurohyou:frames=173,253
+msgctxt "kurohyou-scaleform|ca04_04|row=2|frames=173,253"
+msgid "何でもするから… 何でも"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_04/ca04_04.csv
+#. kurohyou:row=3
+#. kurohyou:frames=255,290
+msgctxt "kurohyou-scaleform|ca04_04|row=3|frames=255,290"
+msgid "何もいらねぇ…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_04/ca04_04.csv
+#. kurohyou:row=4
+#. kurohyou:frames=293,328
+msgctxt "kurohyou-scaleform|ca04_04|row=4|frames=293,328"
+msgid "そ… そうだ…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_04/ca04_04.csv
+#. kurohyou:row=5
+#. kurohyou:frames=328,401
+msgctxt "kurohyou-scaleform|ca04_04|row=5|frames=328,401"
+msgid "お前まだ保護観だろ？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_04/ca04_04.csv
+#. kurohyou:row=6
+#. kurohyou:frames=401,435
+msgctxt "kurohyou-scaleform|ca04_04|row=6|frames=401,435"
+msgid "あの事件で…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_04/ca04_04.csv
+#. kurohyou:row=7
+#. kurohyou:frames=460,486
+msgctxt "kurohyou-scaleform|ca04_04|row=7|frames=460,486"
+msgid "で… でも…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_04/ca04_04.csv
+#. kurohyou:row=8
+#. kurohyou:frames=486,541
+msgctxt "kurohyou-scaleform|ca04_04|row=8|frames=486,541"
+msgid "俺 知ってるぜ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_04/ca04_04.csv
+#. kurohyou:row=9
+#. kurohyou:frames=541,622
+msgctxt "kurohyou-scaleform|ca04_04|row=9|frames=541,622"
+msgid "あの空手野郎の首,へし折ったヤツ…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_04/ca04_04.csv
+#. kurohyou:row=10
+#. kurohyou:frames=623,637
+msgctxt "kurohyou-scaleform|ca04_04|row=10|frames=623,637"
+msgid "何!?"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_04/ca04_04.csv
+#. kurohyou:row=11
+#. kurohyou:frames=656,714
+msgctxt "kurohyou-scaleform|ca04_04|row=11|frames=656,714"
+msgid "こら！ 何やってるんだ？"
+msgstr ""
+

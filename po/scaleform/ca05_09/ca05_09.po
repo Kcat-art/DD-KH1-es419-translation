@@ -1,0 +1,531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kurohyou Scaleform\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-419\n"
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=1
+#. kurohyou:frames=192,243
+msgctxt "kurohyou-scaleform|ca05_09|row=1|frames=192,243"
+msgid "やはり天馬…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=2
+#. kurohyou:frames=243,286
+msgctxt "kurohyou-scaleform|ca05_09|row=2|frames=243,286"
+msgid "あいつ… 俺を利用して…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=3
+#. kurohyou:frames=306,349
+msgctxt "kurohyou-scaleform|ca05_09|row=3|frames=306,349"
+msgid "龍也くん…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=4
+#. kurohyou:frames=349,391
+msgctxt "kurohyou-scaleform|ca05_09|row=4|frames=349,391"
+msgid "龍也くん……"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=5
+#. kurohyou:frames=391,417
+msgctxt "kurohyou-scaleform|ca05_09|row=5|frames=391,417"
+msgid "龍也!!"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=6
+#. kurohyou:frames=-1,-1
+#. kurohyou:untimed-event=1
+msgctxt "kurohyou-scaleform|ca05_09|row=6|frames=-1,-1"
+msgid "！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=7
+#. kurohyou:frames=477,595
+msgctxt "kurohyou-scaleform|ca05_09|row=7|frames=477,595"
+msgid "本当は…ドクターストップ,出したいところだけど"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=8
+#. kurohyou:frames=595,633
+msgctxt "kurohyou-scaleform|ca05_09|row=8|frames=595,633"
+msgid "…戦うの？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=9
+#. kurohyou:frames=645,663
+msgctxt "kurohyou-scaleform|ca05_09|row=9|frames=645,663"
+msgid "ああ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=10
+#. kurohyou:frames=675,717
+msgctxt "kurohyou-scaleform|ca05_09|row=10|frames=675,717"
+msgid "今回は欠場したら？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=11
+#. kurohyou:frames=731,783
+msgctxt "kurohyou-scaleform|ca05_09|row=11|frames=731,783"
+msgid "欠場したら連勝記録は？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=12
+#. kurohyou:frames=801,876
+msgctxt "kurohyou-scaleform|ca05_09|row=12|frames=801,876"
+msgid "まぁ… それは,そこでストップだけど…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=13
+#. kurohyou:frames=906,924
+msgctxt "kurohyou-scaleform|ca05_09|row=13|frames=906,924"
+msgid "ダメだ!!"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=14
+#. kurohyou:frames=947,1001
+msgctxt "kurohyou-scaleform|ca05_09|row=14|frames=947,1001"
+msgid "わ… わかったわよ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=15
+#. kurohyou:frames=1001,1054
+msgctxt "kurohyou-scaleform|ca05_09|row=15|frames=1001,1054"
+msgid "じゃぁ こっちの足も出して"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=16
+#. kurohyou:frames=1152,1241
+msgctxt "kurohyou-scaleform|ca05_09|row=16|frames=1152,1241"
+msgid "両足にサポーター 巻いとけば"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=17
+#. kurohyou:frames=1241,1270
+msgctxt "kurohyou-scaleform|ca05_09|row=17|frames=1241,1270"
+msgid "怪我はバレないわ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=18
+#. kurohyou:frames=1371,1434
+msgctxt "kurohyou-scaleform|ca05_09|row=18|frames=1371,1434"
+msgid "いや… バレてるんだ…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=19
+#. kurohyou:frames=1543,1642
+msgctxt "kurohyou-scaleform|ca05_09|row=19|frames=1543,1642"
+msgid "九鬼のド阿呆には,負けられへんのやぞ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=20
+#. kurohyou:frames=1642,1718
+msgctxt "kurohyou-scaleform|ca05_09|row=20|frames=1642,1718"
+msgid "二岡組のメンツが,かかっとるんや"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=21
+#. kurohyou:frames=1725,1791
+msgctxt "kurohyou-scaleform|ca05_09|row=21|frames=1725,1791"
+msgid "組長！ 大丈夫っすよ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=22
+#. kurohyou:frames=1791,1863
+msgctxt "kurohyou-scaleform|ca05_09|row=22|frames=1791,1863"
+msgid "絶対に勝てますよ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=23
+#. kurohyou:frames=1863,1938
+msgctxt "kurohyou-scaleform|ca05_09|row=23|frames=1863,1938"
+msgid "こっちは良い情報,ゲット済みだし…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=24
+#. kurohyou:frames=2020,2174
+msgctxt "kurohyou-scaleform|ca05_09|row=24|frames=2020,2174"
+msgid "いいか？ 龍也,負ければ お前は終わりなんだぞ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=25
+#. kurohyou:frames=2186,2230
+msgctxt "kurohyou-scaleform|ca05_09|row=25|frames=2186,2230"
+msgid "１０連勝だ…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=26
+#. kurohyou:frames=2230,2264
+msgctxt "kurohyou-scaleform|ca05_09|row=26|frames=2230,2264"
+msgid "忘れるな"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=27
+#. kurohyou:frames=2308,2342
+msgctxt "kurohyou-scaleform|ca05_09|row=27|frames=2308,2342"
+msgid "いいか？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=28
+#. kurohyou:frames=2342,2411
+msgctxt "kurohyou-scaleform|ca05_09|row=28|frames=2342,2411"
+msgid "俺は テメェの道具じゃねんだ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=29
+#. kurohyou:frames=2411,2494
+msgctxt "kurohyou-scaleform|ca05_09|row=29|frames=2411,2494"
+msgid "いつか必ず,落とし前つけてやる"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=30
+#. kurohyou:frames=2494,2539
+msgctxt "kurohyou-scaleform|ca05_09|row=30|frames=2494,2539"
+msgid "だが その前に…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=31
+#. kurohyou:frames=2539,2632
+msgctxt "kurohyou-scaleform|ca05_09|row=31|frames=2539,2632"
+msgid "汚ねぇ手ぇ使って,勝とうとする連中を"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=32
+#. kurohyou:frames=2632,2682
+msgctxt "kurohyou-scaleform|ca05_09|row=32|frames=2632,2682"
+msgid "ぜってえにぶっ殺してやる"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=33
+#. kurohyou:frames=2700,2738
+msgctxt "kurohyou-scaleform|ca05_09|row=33|frames=2700,2738"
+msgid "汚い手？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=34
+#. kurohyou:frames=2817,2970
+msgctxt "kurohyou-scaleform|ca05_09|row=34|frames=2817,2970"
+msgid "レディース ＆ ジェントルメーン！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=35
+#. kurohyou:frames=2970,3067
+msgctxt "kurohyou-scaleform|ca05_09|row=35|frames=2970,3067"
+msgid "さあ 今夜は 正真正銘の"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=36
+#. kurohyou:frames=3067,3173
+msgctxt "kurohyou-scaleform|ca05_09|row=36|frames=3067,3173"
+msgid "ドッグファイトをお楽しみ頂こう"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=37
+#. kurohyou:frames=3203,3317
+msgctxt "kurohyou-scaleform|ca05_09|row=37|frames=3203,3317"
+msgid "ＯＮ ＴＨＥ ＴＡＩＬ！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=38
+#. kurohyou:frames=3317,3353
+msgctxt "kurohyou-scaleform|ca05_09|row=38|frames=3317,3353"
+msgid "琉球を制覇した"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=39
+#. kurohyou:frames=3353,3402
+msgctxt "kurohyou-scaleform|ca05_09|row=39|frames=3353,3402"
+msgid "ストリートファイター"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=40
+#. kurohyou:frames=3402,3593
+msgctxt "kurohyou-scaleform|ca05_09|row=40|frames=3402,3593"
+msgid "マッドドッグ 真壁隼人!!"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=41
+#. kurohyou:frames=3695,3818
+msgctxt "kurohyou-scaleform|ca05_09|row=41|frames=3695,3818"
+msgid "ＯＮ ＴＨＥ ＨＥＡＤ！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=42
+#. kurohyou:frames=3818,3888
+msgctxt "kurohyou-scaleform|ca05_09|row=42|frames=3818,3888"
+msgid "我が神室町が生んだ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=43
+#. kurohyou:frames=3888,4007
+msgctxt "kurohyou-scaleform|ca05_09|row=43|frames=3888,4007"
+msgid "目下 ４連勝中のマッドドラゴン"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=44
+#. kurohyou:frames=4007,4146
+msgctxt "kurohyou-scaleform|ca05_09|row=44|frames=4007,4146"
+msgid "～ＴＡ･ＴＳＵ･ＹＡ!!"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=45
+#. kurohyou:frames=4214,4341
+msgctxt "kurohyou-scaleform|ca05_09|row=45|frames=4214,4341"
+msgid "足の調子でも悪いのかい？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=46
+#. kurohyou:frames=4348,4414
+msgctxt "kurohyou-scaleform|ca05_09|row=46|frames=4348,4414"
+msgid "うっせぇ 豚野郎"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=47
+#. kurohyou:frames=4414,4442
+msgctxt "kurohyou-scaleform|ca05_09|row=47|frames=4414,4442"
+msgid "テメェの居場所は"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=48
+#. kurohyou:frames=4442,4504
+msgctxt "kurohyou-scaleform|ca05_09|row=48|frames=4442,4504"
+msgid "リングじゃねぇ 養豚場だ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=49
+#. kurohyou:frames=4507,4570
+msgctxt "kurohyou-scaleform|ca05_09|row=49|frames=4507,4570"
+msgid "ウェへへへ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=50
+#. kurohyou:frames=4570,4662
+msgctxt "kurohyou-scaleform|ca05_09|row=50|frames=4570,4662"
+msgid "いつまで吠えてられるかな？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=51
+#. kurohyou:frames=4709,4768
+msgctxt "kurohyou-scaleform|ca05_09|row=51|frames=4709,4768"
+msgid "その後は テメェだ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=52
+#. kurohyou:frames=4768,4783
+msgctxt "kurohyou-scaleform|ca05_09|row=52|frames=4768,4783"
+msgid "…天馬"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=53
+#. kurohyou:frames=4794,4896
+msgctxt "kurohyou-scaleform|ca05_09|row=53|frames=4794,4896"
+msgid "さあ 狂犬 ＶＳ 狂龍"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=54
+#. kurohyou:frames=4896,4936
+msgctxt "kurohyou-scaleform|ca05_09|row=54|frames=4896,4936"
+msgid "ルールは無用"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=55
+#. kurohyou:frames=4936,4989
+msgctxt "kurohyou-scaleform|ca05_09|row=55|frames=4936,4989"
+msgid "予測は不能"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=56
+#. kurohyou:frames=4989,5038
+msgctxt "kurohyou-scaleform|ca05_09|row=56|frames=4989,5038"
+msgid "アルティメイト,ストリートファイターの"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=57
+#. kurohyou:frames=5038,5100
+msgctxt "kurohyou-scaleform|ca05_09|row=57|frames=5038,5100"
+msgid "称号をかけた戦い"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_09/ca05_09.csv
+#. kurohyou:row=58
+#. kurohyou:frames=5100,5168
+msgctxt "kurohyou-scaleform|ca05_09|row=58|frames=5100,5168"
+msgid "カモーン！ ベイベー!!"
+msgstr ""
+

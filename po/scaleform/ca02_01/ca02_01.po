@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kurohyou Scaleform\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-419\n"
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca02_01/ca02_01.csv
+#. kurohyou:row=1
+#. kurohyou:frames=34,114
+msgctxt "kurohyou-scaleform|ca02_01|row=1|frames=34,114"
+msgid "テメェらみたいな大人がな…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca02_01/ca02_01.csv
+#. kurohyou:row=2
+#. kurohyou:frames=118,193
+msgctxt "kurohyou-scaleform|ca02_01|row=2|frames=118,193"
+msgid "ま… 待て！ 待ってくれ！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca02_01/ca02_01.csv
+#. kurohyou:row=3
+#. kurohyou:frames=208,274
+msgctxt "kurohyou-scaleform|ca02_01|row=3|frames=208,274"
+msgid "一番 ムカツクんだよ！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca02_01/ca02_01.csv
+#. kurohyou:row=4
+#. kurohyou:frames=730,886
+msgctxt "kurohyou-scaleform|ca02_01|row=4|frames=730,886"
+msgid "ハァハァ… 夢じゃねぇ…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca02_01/ca02_01.csv
+#. kurohyou:row=5
+#. kurohyou:frames=912,1004
+msgctxt "kurohyou-scaleform|ca02_01|row=5|frames=912,1004"
+msgid "ココが 俺の現実だ…"
+msgstr ""
+

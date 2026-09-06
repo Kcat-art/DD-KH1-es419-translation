@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kurohyou Scaleform\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-419\n"
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_08/ca05_08.csv
+#. kurohyou:row=1
+#. kurohyou:frames=19,47
+msgctxt "kurohyou-scaleform|ca05_08|row=1|frames=19,47"
+msgid "テメェ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_08/ca05_08.csv
+#. kurohyou:row=2
+#. kurohyou:frames=47,135
+msgctxt "kurohyou-scaleform|ca05_08|row=2|frames=47,135"
+msgid "その話マジだろうな？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_08/ca05_08.csv
+#. kurohyou:row=3
+#. kurohyou:frames=139,232
+msgctxt "kurohyou-scaleform|ca05_08|row=3|frames=139,232"
+msgid "ちゃんと この目で見たんすよ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_08/ca05_08.csv
+#. kurohyou:row=4
+#. kurohyou:frames=232,306
+msgctxt "kurohyou-scaleform|ca05_08|row=4|frames=232,306"
+msgid "絶対 間違いないっすよ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_08/ca05_08.csv
+#. kurohyou:row=5
+#. kurohyou:frames=306,374
+msgctxt "kurohyou-scaleform|ca05_08|row=5|frames=306,374"
+msgid "アイツ… アイツ…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_08/ca05_08.csv
+#. kurohyou:row=6
+#. kurohyou:frames=374,418
+msgctxt "kurohyou-scaleform|ca05_08|row=6|frames=374,418"
+msgid "足を痛めてんだ！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_08/ca05_08.csv
+#. kurohyou:row=7
+#. kurohyou:frames=-1,-1
+#. kurohyou:untimed-event=1
+msgctxt "kurohyou-scaleform|ca05_08|row=7|frames=-1,-1"
+msgid "！"
+msgstr ""
+

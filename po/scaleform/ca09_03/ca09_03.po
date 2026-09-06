@@ -1,0 +1,108 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kurohyou Scaleform\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-419\n"
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca09_03/ca09_03.csv
+#. kurohyou:row=1
+#. kurohyou:frames=-1,-1
+#. kurohyou:untimed-event=1
+msgctxt "kurohyou-scaleform|ca09_03|row=1|frames=-1,-1"
+msgid "なるほど ガラスを破れば中に入れる。,近所に通報されないように静かにやらないとな"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca09_03/ca09_03.csv
+#. kurohyou:row=2
+#. kurohyou:frames=425,458
+msgctxt "kurohyou-scaleform|ca09_03|row=2|frames=425,458"
+msgid "なんだ？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca09_03/ca09_03.csv
+#. kurohyou:row=3
+#. kurohyou:frames=458,505
+msgctxt "kurohyou-scaleform|ca09_03|row=3|frames=458,505"
+msgid "戸田の愛人か…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca09_03/ca09_03.csv
+#. kurohyou:row=4
+#. kurohyou:frames=505,605
+msgctxt "kurohyou-scaleform|ca09_03|row=4|frames=505,605"
+msgid "水商売の女って感じだな"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca09_03/ca09_03.csv
+#. kurohyou:row=5
+#. kurohyou:frames=605,711
+msgctxt "kurohyou-scaleform|ca09_03|row=5|frames=605,711"
+msgid "でも ワザワザこんなところに,挟んであるってのも怪しいな"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca09_03/ca09_03.csv
+#. kurohyou:row=6
+#. kurohyou:frames=711,751
+msgctxt "kurohyou-scaleform|ca09_03|row=6|frames=711,751"
+msgid "とりあえず頂いとくか"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca09_03/ca09_03.csv
+#. kurohyou:row=7
+#. kurohyou:frames=814,904
+msgctxt "kurohyou-scaleform|ca09_03|row=7|frames=814,904"
+msgid "この女の名前が,『アン』だったりして…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca09_03/ca09_03.csv
+#. kurohyou:row=8
+#. kurohyou:frames=904,976
+msgctxt "kurohyou-scaleform|ca09_03|row=8|frames=904,976"
+msgid "そんなに都合良く,いかねぇな…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca09_03/ca09_03.csv
+#. kurohyou:row=9
+#. kurohyou:frames=976,1052
+msgctxt "kurohyou-scaleform|ca09_03|row=9|frames=976,1052"
+msgid "でも 大事な手がかりだ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca09_03/ca09_03.csv
+#. kurohyou:row=10
+#. kurohyou:frames=1052,1125
+msgctxt "kurohyou-scaleform|ca09_03|row=10|frames=1052,1125"
+msgid "水商売の女だとしたら…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca09_03/ca09_03.csv
+#. kurohyou:row=11
+#. kurohyou:frames=1125,1176
+msgctxt "kurohyou-scaleform|ca09_03|row=11|frames=1125,1176"
+msgid "ここは 由理香の力を借りるか…"
+msgstr ""
+

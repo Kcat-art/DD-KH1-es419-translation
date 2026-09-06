@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kurohyou Scaleform\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-419\n"
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=1
+#. kurohyou:frames=47,85
+msgctxt "kurohyou-scaleform|ca10_02|row=1|frames=47,85"
+msgid "ありがとう"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=2
+#. kurohyou:frames=85,137
+msgctxt "kurohyou-scaleform|ca10_02|row=2|frames=85,137"
+msgid "何かあったら また連絡する"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=3
+#. kurohyou:frames=326,373
+msgctxt "kurohyou-scaleform|ca10_02|row=3|frames=326,373"
+msgid "こっちは落ちついた"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=4
+#. kurohyou:frames=373,413
+msgctxt "kurohyou-scaleform|ca10_02|row=4|frames=373,413"
+msgid "でも時間は無い"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=5
+#. kurohyou:frames=413,431
+msgctxt "kurohyou-scaleform|ca10_02|row=5|frames=413,431"
+msgid "そっちはどうだ？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=6
+#. kurohyou:frames=447,518
+msgctxt "kurohyou-scaleform|ca10_02|row=6|frames=447,518"
+msgid "戸田の女から 話を聞けた"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=7
+#. kurohyou:frames=527,543
+msgctxt "kurohyou-scaleform|ca10_02|row=7|frames=527,543"
+msgid "本当か？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=8
+#. kurohyou:frames=561,624
+msgctxt "kurohyou-scaleform|ca10_02|row=8|frames=561,624"
+msgid "そう言えば 戸田さん"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=9
+#. kurohyou:frames=624,655
+msgctxt "kurohyou-scaleform|ca10_02|row=9|frames=624,655"
+msgid "私に ワインを"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=10
+#. kurohyou:frames=655,699
+msgctxt "kurohyou-scaleform|ca10_02|row=10|frames=655,699"
+msgid "プレゼントしてくれたわ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=11
+#. kurohyou:frames=705,737
+msgctxt "kurohyou-scaleform|ca10_02|row=11|frames=705,737"
+msgid "ワイン？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=12
+#. kurohyou:frames=749,830
+msgctxt "kurohyou-scaleform|ca10_02|row=12|frames=749,830"
+msgid "私が産まれた年のワインを"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=13
+#. kurohyou:frames=830,865
+msgctxt "kurohyou-scaleform|ca10_02|row=13|frames=830,865"
+msgid "わざわざ取り寄せて"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=14
+#. kurohyou:frames=865,914
+msgctxt "kurohyou-scaleform|ca10_02|row=14|frames=865,914"
+msgid "店に持ってきてくれたの"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=15
+#. kurohyou:frames=959,1007
+msgctxt "kurohyou-scaleform|ca10_02|row=15|frames=959,1007"
+msgid "これをワインセラーで"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=16
+#. kurohyou:frames=1007,1072
+msgctxt "kurohyou-scaleform|ca10_02|row=16|frames=1007,1072"
+msgid "保管しておいてくれって"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=17
+#. kurohyou:frames=1072,1155
+msgctxt "kurohyou-scaleform|ca10_02|row=17|frames=1072,1155"
+msgid "…で 私の誕生日がきたら"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=18
+#. kurohyou:frames=1155,1201
+msgctxt "kurohyou-scaleform|ca10_02|row=18|frames=1155,1201"
+msgid "一緒に飲もうって"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=19
+#. kurohyou:frames=1201,1246
+msgctxt "kurohyou-scaleform|ca10_02|row=19|frames=1201,1246"
+msgid "誕生日いつ？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=20
+#. kurohyou:frames=1258,1323
+msgctxt "kurohyou-scaleform|ca10_02|row=20|frames=1258,1323"
+msgid "まだ ずっと先よ…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=21
+#. kurohyou:frames=1333,1384
+msgctxt "kurohyou-scaleform|ca10_02|row=21|frames=1333,1384"
+msgid "嬉しかったけど"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=22
+#. kurohyou:frames=1384,1435
+msgctxt "kurohyou-scaleform|ca10_02|row=22|frames=1384,1435"
+msgid "“ずいぶん早いのね”って"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=23
+#. kurohyou:frames=1435,1492
+msgctxt "kurohyou-scaleform|ca10_02|row=23|frames=1435,1492"
+msgid "私が言ったのを覚えてるわ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=24
+#. kurohyou:frames=1501,1541
+msgctxt "kurohyou-scaleform|ca10_02|row=24|frames=1501,1541"
+msgid "ワインの名前は？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=25
+#. kurohyou:frames=1562,1668
+msgctxt "kurohyou-scaleform|ca10_02|row=25|frames=1562,1668"
+msgid "『シャトー・シャノワール八五年』"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=26
+#. kurohyou:frames=1668,1728
+msgctxt "kurohyou-scaleform|ca10_02|row=26|frames=1668,1728"
+msgid "私の名前で札が掛かってる"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=27
+#. kurohyou:frames=1788,1810
+msgctxt "kurohyou-scaleform|ca10_02|row=27|frames=1788,1810"
+msgid "あっ！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=28
+#. kurohyou:frames=1818,1836
+msgctxt "kurohyou-scaleform|ca10_02|row=28|frames=1818,1836"
+msgid "ん？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=29
+#. kurohyou:frames=1862,1986
+msgctxt "kurohyou-scaleform|ca10_02|row=29|frames=1862,1986"
+msgid "『オレが来るまで,  誰にも触らせるな』って"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=30
+#. kurohyou:frames=2039,2091
+msgctxt "kurohyou-scaleform|ca10_02|row=30|frames=2039,2091"
+msgid "ミレニアムタワーのクラブ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=31
+#. kurohyou:frames=2091,2141
+msgctxt "kurohyou-scaleform|ca10_02|row=31|frames=2091,2141"
+msgid "『アレキサンダー』"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=32
+#. kurohyou:frames=2141,2214
+msgctxt "kurohyou-scaleform|ca10_02|row=32|frames=2141,2214"
+msgid "『シャトー・シャノワール八五年』だな"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=33
+#. kurohyou:frames=2214,2239
+msgctxt "kurohyou-scaleform|ca10_02|row=33|frames=2214,2239"
+msgid "今から向かう！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=34
+#. kurohyou:frames=2244,2319
+msgctxt "kurohyou-scaleform|ca10_02|row=34|frames=2244,2319"
+msgid "やめろ 街は危険だ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=35
+#. kurohyou:frames=2319,2390
+msgctxt "kurohyou-scaleform|ca10_02|row=35|frames=2319,2390"
+msgid "捜査一課が お前を追っている"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=36
+#. kurohyou:frames=2390,2430
+msgctxt "kurohyou-scaleform|ca10_02|row=36|frames=2390,2430"
+msgid "そして どういう訳か"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=37
+#. kurohyou:frames=2430,2502
+msgctxt "kurohyou-scaleform|ca10_02|row=37|frames=2430,2502"
+msgid "鷲尾とも全く連絡が付かない"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=38
+#. kurohyou:frames=2502,2556
+msgctxt "kurohyou-scaleform|ca10_02|row=38|frames=2502,2556"
+msgid "嫌な予感がするんだ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca10_02/ca10_02.csv
+#. kurohyou:row=39
+#. kurohyou:frames=-1,-1
+#. kurohyou:untimed-event=1
+msgctxt "kurohyou-scaleform|ca10_02|row=39|frames=-1,-1"
+msgid "上等じゃねぇか。オッサン 待ってろ"
+msgstr ""
+

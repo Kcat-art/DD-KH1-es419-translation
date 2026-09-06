@@ -1,0 +1,72 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kurohyou Scaleform\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-419\n"
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_03/ca07_03.csv
+#. kurohyou:row=1
+#. kurohyou:frames=141,191
+msgctxt "kurohyou-scaleform|ca07_03|row=1|frames=141,191"
+msgid "九鬼組の連中は"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_03/ca07_03.csv
+#. kurohyou:row=2
+#. kurohyou:frames=191,284
+msgctxt "kurohyou-scaleform|ca07_03|row=2|frames=191,284"
+msgid "俺が九鬼を襲ったと,思っているのか…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_03/ca07_03.csv
+#. kurohyou:row=3
+#. kurohyou:frames=284,396
+msgctxt "kurohyou-scaleform|ca07_03|row=3|frames=284,396"
+msgid "誰かが俺を,罠に陥れようとしているのか…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_03/ca07_03.csv
+#. kurohyou:row=4
+#. kurohyou:frames=396,498
+msgctxt "kurohyou-scaleform|ca07_03|row=4|frames=396,498"
+msgid "このままだと,戸田殺しも九鬼襲撃も"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_03/ca07_03.csv
+#. kurohyou:row=5
+#. kurohyou:frames=498,582
+msgctxt "kurohyou-scaleform|ca07_03|row=5|frames=498,582"
+msgid "全て俺のせいにされちまうぜ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_03/ca07_03.csv
+#. kurohyou:row=6
+#. kurohyou:frames=582,649
+msgctxt "kurohyou-scaleform|ca07_03|row=6|frames=582,649"
+msgid "何とかして真犯人を捕まえねぇと…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca07_03/ca07_03.csv
+#. kurohyou:row=7
+#. kurohyou:frames=-1,-1
+#. kurohyou:untimed-event=1
+msgctxt "kurohyou-scaleform|ca07_03|row=7|frames=-1,-1"
+msgid "戸田殺しと九鬼襲撃。,どちらから調べるべきだ？"
+msgstr ""
+

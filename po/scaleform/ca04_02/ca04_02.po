@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kurohyou Scaleform\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-419\n"
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_02/ca04_02.csv
+#. kurohyou:row=1
+#. kurohyou:frames=53,98
+msgctxt "kurohyou-scaleform|ca04_02|row=1|frames=53,98"
+msgid "右京龍也君だね？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_02/ca04_02.csv
+#. kurohyou:row=2
+#. kurohyou:frames=130,151
+msgctxt "kurohyou-scaleform|ca04_02|row=2|frames=130,151"
+msgid "誰だ？"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_02/ca04_02.csv
+#. kurohyou:row=3
+#. kurohyou:frames=170,216
+msgctxt "kurohyou-scaleform|ca04_02|row=3|frames=170,216"
+msgid "誰だ… ってのは"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_02/ca04_02.csv
+#. kurohyou:row=4
+#. kurohyou:frames=216,273
+msgctxt "kurohyou-scaleform|ca04_02|row=4|frames=216,273"
+msgid "ずいぶん冷たいじゃないか"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_02/ca04_02.csv
+#. kurohyou:row=5
+#. kurohyou:frames=294,315
+msgctxt "kurohyou-scaleform|ca04_02|row=5|frames=294,315"
+msgid "竹中!?"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_02/ca04_02.csv
+#. kurohyou:row=6
+#. kurohyou:frames=340,370
+msgctxt "kurohyou-scaleform|ca04_02|row=6|frames=340,370"
+msgid "連絡だけは"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_02/ca04_02.csv
+#. kurohyou:row=7
+#. kurohyou:frames=370,458
+msgctxt "kurohyou-scaleform|ca04_02|row=7|frames=370,458"
+msgid "取れるようにして欲しいね"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_02/ca04_02.csv
+#. kurohyou:row=8
+#. kurohyou:frames=458,571
+msgctxt "kurohyou-scaleform|ca04_02|row=8|frames=458,571"
+msgid "久しぶりに近況を教えてくれないか"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_02/ca04_02.csv
+#. kurohyou:row=9
+#. kurohyou:frames=571,628
+msgctxt "kurohyou-scaleform|ca04_02|row=9|frames=571,628"
+msgid "色々聞きたいことがある"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_02/ca04_02.csv
+#. kurohyou:row=10
+#. kurohyou:frames=630,656
+msgctxt "kurohyou-scaleform|ca04_02|row=10|frames=630,656"
+msgid "クソっ！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_02/ca04_02.csv
+#. kurohyou:row=11
+#. kurohyou:frames=684,723
+msgctxt "kurohyou-scaleform|ca04_02|row=11|frames=684,723"
+msgid "オイ待てよ！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_02/ca04_02.csv
+#. kurohyou:row=12
+#. kurohyou:frames=729,788
+msgctxt "kurohyou-scaleform|ca04_02|row=12|frames=729,788"
+msgid "…面倒だ！"
+msgstr ""
+

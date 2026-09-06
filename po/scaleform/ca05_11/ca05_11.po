@@ -1,0 +1,80 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kurohyou Scaleform\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-419\n"
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_11/ca05_11.csv
+#. kurohyou:row=1
+#. kurohyou:frames=114,166
+msgctxt "kurohyou-scaleform|ca05_11|row=1|frames=114,166"
+msgid "テメェ この野郎"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_11/ca05_11.csv
+#. kurohyou:row=2
+#. kurohyou:frames=166,234
+msgctxt "kurohyou-scaleform|ca05_11|row=2|frames=166,234"
+msgid "ガセネタつかませやがって"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_11/ca05_11.csv
+#. kurohyou:row=3
+#. kurohyou:frames=234,285
+msgctxt "kurohyou-scaleform|ca05_11|row=3|frames=234,285"
+msgid "二岡組なめてんじゃねぇぞ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_11/ca05_11.csv
+#. kurohyou:row=4
+#. kurohyou:frames=285,312
+msgctxt "kurohyou-scaleform|ca05_11|row=4|frames=285,312"
+msgid "オラァ！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_11/ca05_11.csv
+#. kurohyou:row=5
+#. kurohyou:frames=347,409
+msgctxt "kurohyou-scaleform|ca05_11|row=5|frames=347,409"
+msgid "うぐぁ！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_11/ca05_11.csv
+#. kurohyou:row=6
+#. kurohyou:frames=409,465
+msgctxt "kurohyou-scaleform|ca05_11|row=6|frames=409,465"
+msgid "テメェら 何してやがる！"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_11/ca05_11.csv
+#. kurohyou:row=7
+#. kurohyou:frames=559,618
+msgctxt "kurohyou-scaleform|ca05_11|row=7|frames=559,618"
+msgid "ちょうど良い"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca05_11/ca05_11.csv
+#. kurohyou:row=8
+#. kurohyou:frames=618,693
+msgctxt "kurohyou-scaleform|ca05_11|row=8|frames=618,693"
+msgid "お前も ぶっ殺してやる!!"
+msgstr ""
+

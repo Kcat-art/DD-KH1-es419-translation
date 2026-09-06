@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kurohyou Scaleform\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: es-419\n"
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_06/ca04_06.csv
+#. kurohyou:row=1
+#. kurohyou:frames=212,278
+msgctxt "kurohyou-scaleform|ca04_06|row=1|frames=212,278"
+msgid "竹中が… 天馬と…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_06/ca04_06.csv
+#. kurohyou:row=2
+#. kurohyou:frames=278,318
+msgctxt "kurohyou-scaleform|ca04_06|row=2|frames=278,318"
+msgid "マズイ"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_06/ca04_06.csv
+#. kurohyou:row=3
+#. kurohyou:frames=318,374
+msgctxt "kurohyou-scaleform|ca04_06|row=3|frames=318,374"
+msgid "まさか あいつ,俺を売る気じゃ…"
+msgstr ""
+
+#. y4:line_status=todo
+#. y4:msg_type=subtitle
+#. kurohyou:source_csv=scaleform/ca04_06/ca04_06.csv
+#. kurohyou:row=4
+#. kurohyou:frames=-1,-1
+#. kurohyou:untimed-event=1
+msgctxt "kurohyou-scaleform|ca04_06|row=4|frames=-1,-1"
+msgid "もう… 試合の時間か…"
+msgstr ""
+
