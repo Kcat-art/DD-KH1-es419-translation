@@ -1,0 +1,18 @@
+{
+  "version": 3,
+  "source_root": "texturas/original",
+  "duplicate_strategy": "sha256_exact_file",
+  "total": 1092,
+  "physical_total": 1092,
+  "duplicate_files": 0,
+  "duplicate_groups": 0,
+  "completed": 6,
+  "translated": 6,
+  "no_translation_needed": 0,
+  "reviewed": 0,
+  "pending": 1086,
+  "progress_percent": 0.55,
+  "review_percent": 0.00,
+  "no_translation_needed_paths": [],
+  "reviewed_paths": []
+}
