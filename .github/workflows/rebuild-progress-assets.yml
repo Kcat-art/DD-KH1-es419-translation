@@ -1,0 +1,108 @@
+name: Rebuild progress assets
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'po/**/*.po'
+      - 'texturas/traducidas/**'
+      - 'texturas/progreso.json'
+      - 'Readme.md'
+      - 'tools/progress/build_progress_assets.py'
+      - '.github/workflows/rebuild-progress-assets.yml'
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: rebuild-progress-assets-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  rebuild-progress:
+    runs-on: ubuntu-latest
+
+    if: github.actor != 'github-actions[bot]'
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate progress assets
+        run: |
+          python -u tools/progress/build_progress_assets.py
+
+      - name: Update Readme progress section
+        shell: bash
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          readme_path = Path("Readme.md")
+
+          progress_path = Path(
+              "assets/progress/readme_progress.md"
+          )
+
+          progress = progress_path.read_text(
+              encoding="utf-8"
+          ).strip()
+
+          readme = readme_path.read_text(
+              encoding="utf-8"
+          )
+
+          start = "<!-- PROGRESS_SECTION_START -->"
+          end = "<!-- PROGRESS_SECTION_END -->"
+
+          a = readme.find(start)
+          b = readme.find(end)
+
+          if a < 0 or b < a:
+              raise SystemExit(
+                  "No se encontraron los marcadores "
+                  "PROGRESS_SECTION_START/END "
+                  "en Readme.md"
+              )
+
+          new_readme = (
+              readme[:a]
+              + start
+              + "\n"
+              + progress
+              + "\n"
+              + end
+              + readme[b + len(end):]
+          )
+
+          readme_path.write_text(
+              new_readme,
+              encoding="utf-8"
+          )
+          PY
+
+      - name: Commit generated progress assets
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add assets/progress Readme.md
+
+          if git diff --cached --quiet; then
+            echo "No hay cambios de progreso."
+            exit 0
+          fi
+
+          git commit -m "Update progress assets"
+          git push
