@@ -4,6 +4,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: es-419\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=Kcat0
+
 #. y4:line_status=todo
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=0
@@ -37,7 +40,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E431960|cmd=0002|off=1F0"
 msgid "もう……龍也くんは\nそんなこと知りたいんですか？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -47,7 +51,7 @@ msgstr ""
 #. kurohyou:text_offset=0x458
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E431960|speaker_off=458"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -208,7 +212,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E431961|cmd=0002|off=1F0"
 msgid "コンプレックスですか？\n手が小さいことでしょうか"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -218,7 +223,7 @@ msgstr ""
 #. kurohyou:text_offset=0x408
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E431961|speaker_off=408"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -358,7 +363,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E431969|cmd=0003|off=1FC"
 msgid "わたしの実家の近所には\nアメリカ人の家族が住んでいて\nそこの子供たちと友だちになったんです"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -368,7 +374,7 @@ msgstr ""
 #. kurohyou:text_offset=0x49C
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E431969|speaker_off=49C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -550,7 +556,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196A|cmd=0002|off=1E8"
 msgid "飲み物ですか……？\n甘いコーヒーですね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -560,7 +567,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3C4
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196A|speaker_off=3C4"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -658,7 +665,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196B|cmd=0002|off=1F0"
 msgid "わたしは結構、<KSEQ_ADVANCE_NEXT>耳の形が気になったりします\nうまくは言えませんが\n好きな形と嫌いな形があるんです"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -668,7 +676,7 @@ msgstr ""
 #. kurohyou:text_offset=0x414
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196B|speaker_off=414"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -808,7 +816,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196C|cmd=0002|off=1F0"
 msgid "わたし、<KSEQ_ADVANCE_NEXT>マリンスポーツ以外は興味なくて\n野球もサッカーも、<KSEQ_ADVANCE_NEXT>あんまり\nルールをよく知らないんです……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -818,7 +827,7 @@ msgstr ""
 #. kurohyou:text_offset=0x414
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196C|speaker_off=414"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -958,7 +967,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196D|cmd=0002|off=1F0"
 msgid "わたしは最近の曲をよく知らないので\n昔の演歌とかをよく歌いますね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -968,7 +978,7 @@ msgstr ""
 #. kurohyou:text_offset=0x418
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196D|speaker_off=418"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1108,7 +1118,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196E|cmd=0002|off=1F0"
 msgid "人間以外の動物？\nそれなら、<KSEQ_ADVANCE_NEXT>わたしはウミガメになりたいです"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -1118,7 +1129,7 @@ msgstr ""
 #. kurohyou:text_offset=0x4A8
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196E|speaker_off=4A8"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1321,7 +1332,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196F|cmd=0002|off=1F0"
 msgid "そうですね……\n何でも束縛してくる人でしょうか"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -1331,7 +1343,7 @@ msgstr ""
 #. kurohyou:text_offset=0x408
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196F|speaker_off=408"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1741,7 +1753,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=9C89D6C6|cmd=0002|off=1E0"
 msgid "これ、<KSEQ_ADVANCE_NEXT>わたしの名刺です\n捨てたりなんかしないでくださいね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -1751,7 +1764,7 @@ msgstr ""
 #. kurohyou:text_offset=0x388
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=9C89D6C6|speaker_off=388"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1828,7 +1841,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A3F4BEB9|cmd=0004|off=218"
 msgid "とっても楽しかったです♪"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -1838,7 +1852,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3D8
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A3F4BEB9|speaker_off=3D8"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1915,7 +1929,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A3F4BEBA|cmd=0003|off=20C"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>いつも来てくれて\nどうもありがとう"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -1925,7 +1940,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3F0
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A3F4BEBA|speaker_off=3F0"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -2065,7 +2080,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A3F4BEBB|cmd=0004|off=218"
 msgid "もっとずっと話していたいけど\n続きはまた今度ね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -2075,7 +2091,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3FC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A3F4BEBB|speaker_off=3FC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -2227,7 +2243,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A4045185|cmd=0002|off=208"
 msgid "ふふふっ♪"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -2237,7 +2254,7 @@ msgstr ""
 #. kurohyou:text_offset=0x6F0
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A4045185|speaker_off=6F0"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -2794,7 +2811,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A4045186|cmd=0002|off=208"
 msgid "ホントは、<KSEQ_ADVANCE_NEXT>会社を作る夢をちょっと\nあきらめかけてたこともあったんです……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -2804,7 +2822,7 @@ msgstr ""
 #. kurohyou:text_offset=0x6BC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A4045186|speaker_off=6BC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -3382,7 +3400,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=AF1E7379|cmd=0001|off=234"
 msgid "さすが、<KSEQ_ADVANCE_NEXT>龍也くん！\nわたし、<KSEQ_ADVANCE_NEXT>それ大好きなんです！"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -3392,7 +3411,7 @@ msgstr ""
 #. kurohyou:text_offset=0x7D4
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=AF1E7379|speaker_off=7D4"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -4036,7 +4055,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=AF1E7379|cmd=0045|off=444"
 msgid "ああ"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -4046,7 +4066,7 @@ msgstr ""
 #. kurohyou:text_offset=0x624
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294A8|speaker_off=624"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -4510,7 +4530,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AA|cmd=0002|off=208"
 msgid "何というか、<KSEQ_ADVANCE_NEXT>あのお客さんと龍也くんて\nどこか似てる気がするんです"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -4520,7 +4541,7 @@ msgstr ""
 #. kurohyou:text_offset=0x5F8
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AA|speaker_off=5F8"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -4930,7 +4951,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AB|cmd=0002|off=208"
 msgid "さっきのお客さん\n神室町のお店にとっても詳しいんです"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -4940,7 +4962,7 @@ msgstr ""
 #. kurohyou:text_offset=0x634
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AB|speaker_off=634"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -5350,7 +5372,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AC|cmd=0002|off=208"
 msgid "あのお客さんって\n自分のお店を持ってるそうなんです\nいろんな経営アドバイスをしてもらいました"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -5360,7 +5383,7 @@ msgstr ""
 #. kurohyou:text_offset=0x620
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AC|speaker_off=620"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -5812,7 +5835,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AD|cmd=0002|off=208"
 msgid "ふふふっ"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -5822,7 +5846,7 @@ msgstr ""
 #. kurohyou:text_offset=0x644
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AD|speaker_off=644"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -6253,7 +6277,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AF|cmd=0002|off=208"
 msgid "実はね、<KSEQ_ADVANCE_NEXT>あのお客さんに\n旅行に行かないかって誘われちゃった"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -6263,7 +6288,7 @@ msgstr ""
 #. kurohyou:text_offset=0x5D0
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AF|speaker_off=5D0"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -6652,7 +6677,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C6393614|cmd=0002|off=208"
 msgid "前に、<KSEQ_ADVANCE_NEXT>個人投資家の人と\n知り合ったって言ったでしょ？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -6662,7 +6688,7 @@ msgstr ""
 #. kurohyou:text_offset=0x690
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C6393614|speaker_off=690"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -7198,7 +7224,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C6393617|cmd=0002|off=208"
 msgid "龍也くん……\n聞いてくれますか？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -7208,7 +7235,7 @@ msgstr ""
 #. kurohyou:text_offset=0x690
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C6393617|speaker_off=690"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -7744,7 +7771,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=DC24348B|cmd=0003|off=1EC"
 msgid "ねぇ、<KSEQ_ADVANCE_NEXT>龍也くん、<KSEQ_ADVANCE_NEXT>ちょっと待って……\nあのねぇ……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -7754,7 +7782,7 @@ msgstr ""
 #. kurohyou:text_offset=0x4AC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E433D5B8|speaker_off=4AC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -7941,7 +7969,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E433D5BA|choice_cmd=0003|line=1"
 msgid "延長しない"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -7951,7 +7980,7 @@ msgstr ""
 #. kurohyou:text_offset=0x338
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E433D5BA|speaker_off=338"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -7995,7 +8024,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E433D5BA|cmd=0006|off=210"
 msgid "（今日は、<KSEQ_ADVANCE_NEXT>こんなところだな\n　そろそろ行くか）"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8005,7 +8035,7 @@ msgstr ""
 #. kurohyou:text_offset=0x40C
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E433D5BB|speaker_off=40C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -8183,7 +8213,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E46060E9|choice_cmd=0004|line=1"
 msgid "ダメだろ"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8193,7 +8224,7 @@ msgstr ""
 #. kurohyou:text_offset=0x430
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E46060E9|speaker_off=430"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -8345,7 +8376,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E46060EB|cmd=0002|off=1F0"
 msgid "ホントに？\nありがと～"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8355,7 +8387,7 @@ msgstr ""
 #. kurohyou:text_offset=0x400
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E46060EB|speaker_off=400"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -8453,7 +8485,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E46060EC|cmd=0002|off=1F0"
 msgid "えぇ～\nダメですか～？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8463,7 +8496,7 @@ msgstr ""
 #. kurohyou:text_offset=0x400
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E46060EC|speaker_off=400"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -8540,7 +8573,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E59AB155|cmd=0001|off=1B4"
 msgid "すいませ～ん……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8550,7 +8584,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3C4
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E765F9E1|speaker_off=3C4"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -8573,7 +8607,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E765F9E1|cmd=0003|off=214"
 msgid "（美佳のやつ……\n　ずいぶん楽しそうじゃねぇか）"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8583,7 +8618,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3C4
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E765F9E2|speaker_off=3C4"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -8693,7 +8728,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743F8|cmd=0002|off=1E8"
 msgid "いただいちゃっていいんですか～？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8703,7 +8739,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3EC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743F8|speaker_off=3EC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -8747,7 +8783,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743F8|cmd=0004|off=200"
 msgid "ありがとうございます～"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8757,7 +8794,7 @@ msgstr ""
 #. kurohyou:text_offset=0x34C
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743F9|speaker_off=34C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -8780,7 +8817,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743F9|cmd=0001|off=1B4"
 msgid "（また今度にしよう）"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8790,7 +8828,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3EC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743FA|speaker_off=3EC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -8914,7 +8952,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743FD|cmd=0002|off=1E8"
 msgid "それをわたしに？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8924,7 +8963,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3F8
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743FD|speaker_off=3F8"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -9061,7 +9100,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743FE|choice_cmd=0006|line=2"
 msgid "ちょっと……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9071,7 +9111,7 @@ msgstr ""
 #. kurohyou:text_offset=0x604
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743FE|speaker_off=604"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -9316,7 +9356,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743FF|cmd=0002|off=1F0"
 msgid "いただいちゃっていいんですか～？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9326,7 +9367,7 @@ msgstr ""
 #. kurohyou:text_offset=0x430
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743FF|speaker_off=430"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -9478,7 +9519,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6A|cmd=0002|off=1E8"
 msgid "美佳さんて将来、<KSEQ_ADVANCE_NEXT>起業するのが夢なんだって～\nスゴくない!?\nあたしも雇ってもらおうかなぁ～"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9488,7 +9530,7 @@ msgstr ""
 #. kurohyou:text_offset=0x388
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6A|speaker_off=388"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -9544,7 +9586,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6B|cmd=0002|off=1E8"
 msgid "美佳さんが飼ってるネコってね\n名前がツナって言うんだって～\n変な名前だよね～"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9554,7 +9597,7 @@ msgstr ""
 #. kurohyou:text_offset=0x37C
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6B|speaker_off=37C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -9610,7 +9653,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6C|cmd=0002|off=1E8"
 msgid "あのね、<KSEQ_ADVANCE_NEXT>美佳さんて、<KSEQ_ADVANCE_NEXT>さんぴん茶っていうのを\n水筒に入れて持ち歩いてんだよ\nなんか健康にいいんだって～"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9620,7 +9664,7 @@ msgstr ""
 #. kurohyou:text_offset=0x37C
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6C|speaker_off=37C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -9676,7 +9720,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6D|cmd=0002|off=1E8"
 msgid "ねぇねぇ、<KSEQ_ADVANCE_NEXT>美佳さんてねぇ\nフライドチキンが大好きでいっつも食べてんの\nなのにどうしてあんなに細いんだろ～？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9686,7 +9731,7 @@ msgstr ""
 #. kurohyou:text_offset=0x37C
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6D|speaker_off=37C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -9742,7 +9787,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6E|cmd=0002|off=1E8"
 msgid "ねぇねぇ、<KSEQ_ADVANCE_NEXT>知ってる？\n美佳さんて、<KSEQ_ADVANCE_NEXT>沖縄で暮らしてたのに\nにがうりが嫌いなんだよ"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9752,7 +9798,7 @@ msgstr ""
 #. kurohyou:text_offset=0x37C
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6E|speaker_off=37C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -9937,7 +9983,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=1198F295|cmd=0002|off=208"
 msgid "龍也くんは、<KSEQ_ADVANCE_NEXT>この辺に住んでるんですか？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9947,7 +9994,7 @@ msgstr ""
 #. kurohyou:text_offset=0x67C
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=1198F295|speaker_off=67C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -10483,7 +10530,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=1198F296|cmd=0002|off=208"
 msgid "龍也くんって、<KSEQ_ADVANCE_NEXT>見た目シブい感じですけど\n歳はかなり若いですよね？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -10493,7 +10541,7 @@ msgstr ""
 #. kurohyou:text_offset=0x678
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=1198F296|speaker_off=678"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -10996,7 +11044,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=1198F296|cmd=0029|off=34C"
 msgid "ふふふ\nそうですね、<KSEQ_ADVANCE_NEXT>仲良くしましょうね♪"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -11006,7 +11055,7 @@ msgstr ""
 #. kurohyou:text_offset=0x718
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=1ECAEC11|speaker_off=718"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -12013,7 +12062,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=2555C038|cmd=0002|off=210"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>ごめんなさい\nちょっと失礼します"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12023,7 +12073,7 @@ msgstr ""
 #. kurohyou:text_offset=0x4EC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=2555C038|speaker_off=4EC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -12133,7 +12183,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=2555C03A|cmd=0002|off=210"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>ちょっと待っててね\nすぐ戻ってくるから"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12143,7 +12194,7 @@ msgstr ""
 #. kurohyou:text_offset=0x4EC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=2555C03A|speaker_off=4EC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -12253,7 +12304,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=2555C03B|cmd=0002|off=210"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>ごめんなさい\n指名が入っちゃいました"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12263,7 +12315,7 @@ msgstr ""
 #. kurohyou:text_offset=0x4EC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=2555C03B|speaker_off=4EC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -12373,7 +12425,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B30|cmd=0002|off=1F0"
 msgid "わたしは、<KSEQ_ADVANCE_NEXT>宇宙飛行士になりたかったですね\nそして、<KSEQ_ADVANCE_NEXT>月に住むウサギに会いたかったです"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12383,7 +12436,7 @@ msgstr ""
 #. kurohyou:text_offset=0x430
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B30|speaker_off=430"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -12544,7 +12597,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B31|cmd=0002|off=1F0"
 msgid "もちろんです！\nいい相手が見つかればですけどね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12554,7 +12608,7 @@ msgstr ""
 #. kurohyou:text_offset=0x43C
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B31|speaker_off=43C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -12715,7 +12769,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B32|cmd=0002|off=1F0"
 msgid "えっ!?\n急にそんなことを言われても……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12725,7 +12780,7 @@ msgstr ""
 #. kurohyou:text_offset=0x464
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B32|speaker_off=464"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -12886,7 +12941,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B34|cmd=0002|off=1F0"
 msgid "わたしは断然、<KSEQ_ADVANCE_NEXT>男がいいです\nカワイイ女の子と付き合ってみたいです"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12896,7 +12952,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3FC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B34|speaker_off=3FC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -13015,7 +13071,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B35|cmd=0002|off=1F0"
 msgid "そうですね\n南極へ行ってみたいかな！"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -13025,7 +13082,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3FC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B35|speaker_off=3FC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -13165,7 +13222,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B36|cmd=0003|off=1FC"
 msgid "龍也くんは？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -13175,7 +13233,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3F0
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B36|speaker_off=3F0"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -13273,7 +13331,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B37|cmd=0002|off=1F0"
 msgid "……何ですか、<KSEQ_ADVANCE_NEXT>その質問？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -13283,7 +13342,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3F8
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B37|speaker_off=3F8"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -13423,7 +13482,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B3A|cmd=0002|off=1F0"
 msgid "難しい質問ですね……\nたぶん怖くて、<KSEQ_ADVANCE_NEXT>ずっと泣いてると思います"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -13433,7 +13493,7 @@ msgstr ""
 #. kurohyou:text_offset=0x458
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B3A|speaker_off=458"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -13594,7 +13654,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B3B|cmd=0002|off=1F0"
 msgid "え～っ！\nそんなこと言いたくありません！\nノーコメントです！"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -13604,7 +13665,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3EC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B3B|speaker_off=3EC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -13723,7 +13784,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=33F77A00|cmd=0002|off=220"
 msgid "ああ、<KSEQ_ADVANCE_NEXT>そうだ\nさっき、<KSEQ_ADVANCE_NEXT>わたしを指名してくれた\nお客さんいたじゃないですか"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -13733,7 +13795,7 @@ msgstr ""
 #. kurohyou:text_offset=0x4CC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=33F77A00|speaker_off=4CC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -13999,7 +14061,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=36FFD728|cmd=0005|off=214"
 msgid "そして、<KSEQ_ADVANCE_NEXT>大きな太陽が黄金色に輝きながら\n水平線に溶けるように消えていくんです"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -14009,7 +14072,7 @@ msgstr ""
 #. kurohyou:text_offset=0x588
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=36FFD728|speaker_off=588"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -14338,7 +14401,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=36FFD729|cmd=0002|off=1F0"
 msgid "来てくれたんですね！"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -14348,7 +14412,7 @@ msgstr ""
 #. kurohyou:text_offset=0x46C
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=36FFD729|speaker_off=46C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -14509,7 +14573,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=36FFD72B|cmd=0003|off=1F4"
 msgid "……実はですね、<KSEQ_ADVANCE_NEXT>これから仕事が終わったら\nわたしの会社設立に協力してくださる\n個人投資家の方と会う約束をしてるんです"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -14519,7 +14584,7 @@ msgstr ""
 #. kurohyou:text_offset=0x5AC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=36FFD72B|speaker_off=5AC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -14974,7 +15039,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5B4C28|cmd=0001|off=224"
 msgid "わたしのこと\n本当に気にしてくれてるんですか？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -14984,7 +15050,7 @@ msgstr ""
 #. kurohyou:text_offset=0x8A4
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5B4C28|speaker_off=8A4"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -15805,7 +15871,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5B4C29|cmd=0001|off=224"
 msgid "わたしのこと\n本当に気にしてくれてるんですか？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -15815,7 +15882,7 @@ msgstr ""
 #. kurohyou:text_offset=0x864
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5B4C29|speaker_off=864"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -16594,7 +16661,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5B4C2A|cmd=0001|off=224"
 msgid "わたしのこと\n本当に気にしてくれてるんですか？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -16604,7 +16672,7 @@ msgstr ""
 #. kurohyou:text_offset=0x840
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5B4C2A|speaker_off=840"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -17320,7 +17388,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5B4C2F|cmd=0001|off=1C4"
 msgid "あのお客さんね、<KSEQ_ADVANCE_NEXT>いつもいっぱい\nフードメニューを注文してくれるんですよ\nわたし、<KSEQ_ADVANCE_NEXT>ちょっとおなか空いちゃいました……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -17330,7 +17399,7 @@ msgstr ""
 #. kurohyou:text_offset=0x390
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5B4C2F|speaker_off=390"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -17449,7 +17518,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5D42EC|cmd=0002|off=208"
 msgid "龍也くんの好きな食べ物って、<KSEQ_ADVANCE_NEXT>なんですか？\n沖縄料理とかは好きですか？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -17459,7 +17529,7 @@ msgstr ""
 #. kurohyou:text_offset=0x6B8
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5D42EC|speaker_off=6B8"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -18016,7 +18086,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5D42EE|cmd=0002|off=208"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>わたしの第一印象って\nどんな感じだったんでしょうか？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -18026,7 +18097,7 @@ msgstr ""
 #. kurohyou:text_offset=0x6B4
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5D42EE|speaker_off=6B4"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -18550,7 +18621,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5D42EE|cmd=0030|off=358"
 msgid "ふふふ\nそんなに楽しみにしてるなら\n今度作って持ってきてあげちゃおうかな♪"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -18560,7 +18632,7 @@ msgstr ""
 #. kurohyou:text_offset=0x69C
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5D42EF|speaker_off=69C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -19150,7 +19222,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4518A7A8|cmd=0002|off=210"
 msgid "おもしろい話が聞けて、<KSEQ_ADVANCE_NEXT>楽しかったです\nそれでは、<KSEQ_ADVANCE_NEXT>私のほうはこれで失礼しますね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -19160,7 +19233,7 @@ msgstr ""
 #. kurohyou:text_offset=0x558
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4518A7A8|speaker_off=558"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -19270,7 +19343,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4518A7A9|cmd=0002|off=210"
 msgid "美佳さんが戻ってきましたよ\n私のほうは失礼させていただきますね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -19280,7 +19354,7 @@ msgstr ""
 #. kurohyou:text_offset=0x558
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4518A7A9|speaker_off=558"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -19390,7 +19464,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4518A7AB|cmd=0002|off=210"
 msgid "それじゃ、<KSEQ_ADVANCE_NEXT>私はここら辺で失礼しま～す\nこの後も楽しんでいってくださいね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -19400,7 +19475,7 @@ msgstr ""
 #. kurohyou:text_offset=0x558
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4518A7AB|speaker_off=558"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -19510,7 +19585,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3D2|cmd=0002|off=1F0"
 msgid "そうですね……\nわたしは別に整形しなくてもいいです"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -19520,7 +19596,7 @@ msgstr ""
 #. kurohyou:text_offset=0x408
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3D2|speaker_off=408"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -19660,7 +19736,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3D3|cmd=0002|off=1F0"
 msgid "よくわかりませんが……\nわたしの性格上、<KSEQ_ADVANCE_NEXT>全然使わない気がします……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -19670,7 +19747,7 @@ msgstr ""
 #. kurohyou:text_offset=0x430
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3D3|speaker_off=430"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -19831,7 +19908,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3D8|cmd=0002|off=1F0"
 msgid "そうですね……\n成立するような、<KSEQ_ADVANCE_NEXT>しないような……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -19841,7 +19919,7 @@ msgstr ""
 #. kurohyou:text_offset=0x424
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3D8|speaker_off=424"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -19981,7 +20059,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3D9|cmd=0002|off=1F0"
 msgid "それは、<KSEQ_ADVANCE_NEXT>いっぱいありますよ\nお父さん、<KSEQ_ADVANCE_NEXT>お母さん、<KSEQ_ADVANCE_NEXT>おじいちゃん……\nネコのツナ、<KSEQ_ADVANCE_NEXT>親友のサッちゃん、<KSEQ_ADVANCE_NEXT>それから……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -19991,7 +20070,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3C8
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3D9|speaker_off=3C8"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -20089,7 +20168,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DB|cmd=0002|off=1F0"
 msgid "そうですね\n悪ガキって感じでしょうか"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20099,7 +20179,7 @@ msgstr ""
 #. kurohyou:text_offset=0x408
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DB|speaker_off=408"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -20239,7 +20319,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DC|cmd=0003|off=1FC"
 msgid "神社で慎ましく厳かに式を挙げたいです"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20249,7 +20330,7 @@ msgstr ""
 #. kurohyou:text_offset=0x430
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DC|speaker_off=430"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -20410,7 +20491,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DD|cmd=0003|off=1FC"
 msgid "それじゃあ、<KSEQ_ADVANCE_NEXT>龍也くんは？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20420,7 +20502,7 @@ msgstr ""
 #. kurohyou:text_offset=0x418
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DD|speaker_off=418"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -20539,7 +20621,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DE|cmd=0002|off=1F0"
 msgid "それなら……原始時代ですね\n恐竜を見てみたいですし"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20549,7 +20632,7 @@ msgstr ""
 #. kurohyou:text_offset=0x408
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DE|speaker_off=408"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -20668,7 +20751,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DF|cmd=0002|off=1F0"
 msgid "えっ!?\nブッチャケてもいいんですか？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20678,7 +20762,7 @@ msgstr ""
 #. kurohyou:text_offset=0x458
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DF|speaker_off=458"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -20839,7 +20923,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4AE9DB59|cmd=0002|off=230"
 msgid "ごめんなさい！\n龍也くん、<KSEQ_ADVANCE_NEXT>他に指名入っちゃったの！\nちょっとだけ行ってきますね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20849,7 +20934,7 @@ msgstr ""
 #. kurohyou:text_offset=0x684
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4AE9DB59|speaker_off=684"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -20989,7 +21074,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4AE9DB5A|cmd=0002|off=1F0"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>ごめんなさい\nまた、<KSEQ_ADVANCE_NEXT>あのお客さんから指名入っちゃった……\nちょっと行ってきますね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20999,7 +21085,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3A4
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4AE9DB5A|speaker_off=3A4"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -21076,7 +21162,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A4098|cmd=0003|off=1EC"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>こんばんは♪\n今日もカッコイイですね！"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -21086,7 +21173,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3AC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A4098|speaker_off=3AC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -21142,7 +21229,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A4099|cmd=0003|off=1EC"
 msgid "こんばんは、<KSEQ_ADVANCE_NEXT>龍也くん\n今日もよろしくね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -21152,7 +21240,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3AC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A4099|speaker_off=3AC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -21208,7 +21296,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A409C|cmd=0003|off=1EC"
 msgid "はじめまして、<KSEQ_ADVANCE_NEXT>美佳です\nよろしくお願いしますね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -21218,7 +21307,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3AC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A409C|speaker_off=3AC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -21274,7 +21363,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A409E|cmd=0003|off=1EC"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>いらっしゃいませ\nよろしくお願いします"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -21284,7 +21374,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3AC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A409E|speaker_off=3AC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -21400,7 +21490,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A409F|choice_cmd=0004|line=2"
 msgid "ちょっと……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -21410,7 +21501,7 @@ msgstr ""
 #. kurohyou:text_offset=0x888
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A409F|speaker_off=888"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -21622,7 +21713,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A409F|cmd=0018|off=5B0"
 msgid "…………"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -21632,7 +21724,7 @@ msgstr ""
 #. kurohyou:text_offset=0x6BC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=643DD9DD|speaker_off=6BC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -22243,7 +22335,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=643DD9DE|cmd=0003|off=214"
 msgid "一人娘がいつまでもお嫁に行かないなんて\nやっぱり心配ですよね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -22253,7 +22346,7 @@ msgstr ""
 #. kurohyou:text_offset=0x6A0
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=643DD9DE|speaker_off=6A0"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -22747,7 +22840,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=643DD9DF|cmd=0002|off=208"
 msgid "この前、<KSEQ_ADVANCE_NEXT>友だちに誘われて\nとっても当たるって評判の占い師のところに\n行ってきたんです"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -22757,7 +22851,7 @@ msgstr ""
 #. kurohyou:text_offset=0x718
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=643DD9DF|speaker_off=718"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -23314,7 +23408,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=6988DF44|cmd=0002|off=1F0"
 msgid "はい\nお会計はこちらになります"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -23324,7 +23419,7 @@ msgstr ""
 #. kurohyou:text_offset=0x38C
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=6988DF44|speaker_off=38C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -23380,7 +23475,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=71313BCD|cmd=0002|off=210"
 msgid "あ、<KSEQ_ADVANCE_NEXT>そろそろ美佳さん戻ってくるみたいよ\nそれじゃ、<KSEQ_ADVANCE_NEXT>またね♪"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -23390,7 +23486,7 @@ msgstr ""
 #. kurohyou:text_offset=0x5DC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=71313BCD|speaker_off=5DC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -23563,7 +23659,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=71313BCE|cmd=0002|off=210"
 msgid "あ、<KSEQ_ADVANCE_NEXT>そろそろ美佳さん戻ってくるみたいよ\nそれじゃ、<KSEQ_ADVANCE_NEXT>またね♪"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -23573,7 +23670,7 @@ msgstr ""
 #. kurohyou:text_offset=0x5E8
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=71313BCE|speaker_off=5E8"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -23767,7 +23864,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=71313BCF|cmd=0002|off=210"
 msgid "あ、<KSEQ_ADVANCE_NEXT>そろそろ美佳さん戻ってくるみたいよ\nそれじゃ、<KSEQ_ADVANCE_NEXT>またね♪"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -23777,7 +23875,7 @@ msgstr ""
 #. kurohyou:text_offset=0x5DC
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=71313BCF|speaker_off=5DC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -23917,7 +24015,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=71313BCF|cmd=0013|off=294"
 msgid "はい\n龍也くんも一緒に盛り上げてくださいよ？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -23927,7 +24026,7 @@ msgstr ""
 #. kurohyou:text_offset=0x6E8
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=7A40014C|speaker_off=6E8"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -24496,7 +24595,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=7A40014D|cmd=0002|off=208"
 msgid "龍也くんって、<KSEQ_ADVANCE_NEXT>動物好きですか？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -24506,7 +24606,7 @@ msgstr ""
 #. kurohyou:text_offset=0x6E4
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=7A40014D|speaker_off=6E4"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -25084,7 +25184,8 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=7A40014F|cmd=0002|off=208"
 msgid "ふふふ\n今日のわたしは、<KSEQ_ADVANCE_NEXT>とっても調子いいんです♪"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -25094,7 +25195,7 @@ msgstr ""
 #. kurohyou:text_offset=0x708
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=7A40014F|speaker_off=708"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue

@@ -4,6 +4,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: es-419\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=Kcat0
+
 #. y4:line_status=todo
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=0
@@ -37,7 +40,8 @@ msgctxt "kurohyou|cabaclu|SEQ103E|elpk=29B2DF56|cmd=0005|off=244"
 msgid "龍也くん……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ103E
@@ -47,7 +51,7 @@ msgstr ""
 #. kurohyou:text_offset=0x1294
 msgctxt "kurohyou|cabaclu|SEQ103E|elpk=29B2DF56|speaker_off=1294"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue

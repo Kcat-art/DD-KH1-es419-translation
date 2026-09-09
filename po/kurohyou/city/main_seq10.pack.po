@@ -4,7 +4,11 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: es-419\n"
 
-#. y4:line_status=todo
+#. y4:file_status=untranslated
+#. y4:last_translator=Kcat0
+
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq10.pack
@@ -14,7 +18,7 @@ msgstr ""
 #. kurohyou:text_offset=0x458
 msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE0|speaker_off=458"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -295,7 +299,8 @@ msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE1|cmd=0009|off=274"
 msgid "待ってたぞ、<KSEQ_ADVANCE_NEXT>龍也\n<KSEQ_COLOR:FF8050>アレキサンダー<KSEQ_RESET>はここにあるんだな"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq10.pack
@@ -305,7 +310,7 @@ msgstr ""
 #. kurohyou:text_offset=0x730
 msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE1|speaker_off=730"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -630,7 +635,8 @@ msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE2|cmd=0011|off=264"
 msgid "俺と沙紀は別の道で行く\nお前も急ぐんだ\nいいな？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq10.pack
@@ -640,7 +646,7 @@ msgstr ""
 #. kurohyou:text_offset=0x5FC
 msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE2|speaker_off=5FC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -804,7 +810,8 @@ msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE7|choice_cmd=0003|line=1"
 msgid "ちょっと待ってくれ"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq10.pack
@@ -814,7 +821,7 @@ msgstr ""
 #. kurohyou:text_offset=0x46C
 msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE7|speaker_off=46C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -968,7 +975,8 @@ msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE7|cmd=0027|off=2AC"
 msgid "……わかった\nコンディションを整えて来い\n準備ができたら、<KSEQ_ADVANCE_NEXT>俺に言うんだぞ"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq10.pack
@@ -978,7 +986,7 @@ msgstr ""
 #. kurohyou:text_offset=0xE04
 msgctxt "kurohyou|city|main_seq10.pack|elpk=27DD9CB7|speaker_off=E04"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue

@@ -4,6 +4,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: es-419\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=Kcat0
+
 #. y4:line_status=todo
 #. y4:msg_type=system_text
 #. kurohyou:container=globals.bin
@@ -2963,7 +2966,8 @@ msgctxt "kurohyou|globals|stja|hash=8CEB60F9"
 msgid "プラチナの皿"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=system_text
 #. kurohyou:container=globals.bin
 #. kurohyou:elpk_resource=EC992FCF
@@ -2972,7 +2976,7 @@ msgstr ""
 #. kurohyou:text_offset=0x14A86
 msgctxt "kurohyou|globals|stja|hash=8CEB60FA"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=system_text
@@ -33642,7 +33646,8 @@ msgctxt "kurohyou|globals|stja|hash=14F4889D"
 msgid "　【極めし者】について"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=system_text
 #. kurohyou:container=globals.bin
 #. kurohyou:elpk_resource=EC992FCF
@@ -33651,7 +33656,7 @@ msgstr ""
 #. kurohyou:text_offset=0xB008
 msgctxt "kurohyou|globals|stja|hash=151548B8"
 msgid "沙耶"
-msgstr ""
+msgstr "Saya"
 
 #. y4:line_status=todo
 #. y4:msg_type=system_text
@@ -34907,7 +34912,8 @@ msgctxt "kurohyou|globals|stja|hash=1C5917F8"
 msgid "九鬼組若衆"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=system_text
 #. kurohyou:container=globals.bin
 #. kurohyou:elpk_resource=EC992FCF
@@ -34916,7 +34922,7 @@ msgstr ""
 #. kurohyou:text_offset=0x12D4A
 msgctxt "kurohyou|globals|stja|hash=1C5917FD"
 msgid "九鬼組構成員"
-msgstr ""
+msgstr "Miembro de la familia Kuki"
 
 #. y4:line_status=todo
 #. y4:msg_type=system_text
