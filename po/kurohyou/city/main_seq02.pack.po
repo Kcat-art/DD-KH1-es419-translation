@@ -6,6 +6,7 @@ msgstr ""
 
 #. y4:file_status=untranslated
 #. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
 #. y4:line_status=translated
 #. y4:translated_by=Kcat0
@@ -41,8 +42,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756B0|cmd=0007|off=1A4"
 msgid "お前、<KSEQ_ADVANCE_NEXT>ＪｅｗｅＬで騒ぎを\n起こしたんだってな？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq02.pack
@@ -214,8 +216,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756B0|cmd=0028|off=2A0"
 msgid "チッ……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq02.pack
@@ -345,8 +348,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756B9|cmd=0009|off=1E4"
 msgid "起きたか\n九鬼のオヤジから届け物がある"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq02.pack
@@ -768,8 +772,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756BA|cmd=0004|off=168"
 msgid "今日は試合じゃないだろ\nどうしたんだ？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq02.pack
@@ -954,8 +959,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756BA|cmd=0026|off=270"
 msgid "そうかよ\nでも、<KSEQ_ADVANCE_NEXT>そろそろ試合が始まるから\n早めに戻ってくるんだぞ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq02.pack
@@ -988,8 +994,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756BB|cmd=0006|off=1A0"
 msgid "<KSEQ_COLOR:FF8050>ＪｅｗｅＬ<KSEQ_RESET>って店だったな……\n警官に気をつけながら行かねぇとな"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq02.pack
@@ -1055,8 +1062,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756BE|cmd=0003|off=174"
 msgid "いらっしゃいませ\n遊んで行かれますか？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq02.pack
@@ -1173,8 +1181,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756BE|cmd=0010|off=1C8"
 msgid "ああ、<KSEQ_ADVANCE_NEXT>案内してくれ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq02.pack
@@ -1587,8 +1596,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=3A35BED0|cmd=0006|off=1E0"
 msgid "神室町に行けば、<KSEQ_ADVANCE_NEXT>薬局もあるし\nケガによく効く薬とか\n体力を回復してくれる薬も売ってるから"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq02.pack
@@ -1878,8 +1888,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=3A35BED0|cmd=0043|off=39C"
 msgid "試合の準備はできたの？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq02.pack

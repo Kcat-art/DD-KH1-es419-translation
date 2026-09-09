@@ -6,9 +6,11 @@ msgstr ""
 
 #. y4:file_status=untranslated
 #. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq09.pack
@@ -177,8 +179,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=AE3D3E72|cmd=0003|off=174"
 msgid "龍也くん……\n試合に行くの？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq09.pack
@@ -342,8 +345,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=AE3D3E72|cmd=0027|off=294"
 msgid "うん……わかった\nもう試合の時間だから\n準備ができたら、<KSEQ_ADVANCE_NEXT>私に声をかけてね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq09.pack
@@ -397,8 +401,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=AE3D3E73|cmd=0006|off=130"
 msgid "（やるしかねぇ……\n　さて……<KSEQ_COLOR:FF8050>ロッカールーム<KSEQ_RESET>に行くか）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq09.pack
@@ -2288,8 +2293,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=C03A1FFB|cmd=0106|off=6D8"
 msgid "（よし……準備を整えてから\n　<KSEQ_COLOR:FF8050>ロッカールーム<KSEQ_RESET>に行くか）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq09.pack
@@ -2439,8 +2445,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=2F59DC31|cmd=0003|off=174"
 msgid "いらっしゃいませ\n遊んで行かれますか？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq09.pack
@@ -2578,8 +2585,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=2F59DC31|cmd=0011|off=1D4"
 msgid "ああ、<KSEQ_ADVANCE_NEXT>案内してくれ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq09.pack
@@ -2612,8 +2620,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=2F59DC32|cmd=0004|off=128"
 msgid "（由理香に会いに行くか……\n　アイツの店は<KSEQ_COLOR:FF8050>ＪｅｗｅＬ<KSEQ_RESET>だったな）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq09.pack
@@ -2646,8 +2655,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=2F59DC34|cmd=0005|off=13C"
 msgid "（ちょいと、<KSEQ_ADVANCE_NEXT>荒っぽいこと……か\n　やってみる価値はあるだろ\n　よし……<KSEQ_COLOR:FF8050>趙楽<KSEQ_RESET>に行くか）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq09.pack
@@ -3047,8 +3057,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=2F59DC36|cmd=0026|off=2A8"
 msgid "（竹中のオッサン……ヤバイ橋、<KSEQ_ADVANCE_NEXT>渡ってそうだな\n　<KSEQ_COLOR:FF8050>劇場前のクラブセガ<KSEQ_RESET>……\n　さっさと行ってやらねぇとな）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq09.pack
@@ -3243,8 +3254,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=2F59DC3F|cmd=0012|off=2E0"
 msgid "よぉ、<KSEQ_ADVANCE_NEXT>お前……右京龍也やろ？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq09.pack

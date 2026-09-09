@@ -6,6 +6,7 @@ msgstr ""
 
 #. y4:file_status=untranslated
 #. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
 #. y4:line_status=todo
 #. y4:msg_type=speaker_name
@@ -40,8 +41,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E431960|cmd=0002|off=1F0"
 msgid "もう……龍也くんは\nそんなこと知りたいんですか？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -212,8 +214,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E431961|cmd=0002|off=1F0"
 msgid "コンプレックスですか？\n手が小さいことでしょうか"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -363,8 +366,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E431969|cmd=0003|off=1FC"
 msgid "わたしの実家の近所には\nアメリカ人の家族が住んでいて\nそこの子供たちと友だちになったんです"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -556,8 +560,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196A|cmd=0002|off=1E8"
 msgid "飲み物ですか……？\n甘いコーヒーですね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -665,8 +670,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196B|cmd=0002|off=1F0"
 msgid "わたしは結構、<KSEQ_ADVANCE_NEXT>耳の形が気になったりします\nうまくは言えませんが\n好きな形と嫌いな形があるんです"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -816,8 +822,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196C|cmd=0002|off=1F0"
 msgid "わたし、<KSEQ_ADVANCE_NEXT>マリンスポーツ以外は興味なくて\n野球もサッカーも、<KSEQ_ADVANCE_NEXT>あんまり\nルールをよく知らないんです……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -967,8 +974,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196D|cmd=0002|off=1F0"
 msgid "わたしは最近の曲をよく知らないので\n昔の演歌とかをよく歌いますね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -1118,8 +1126,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196E|cmd=0002|off=1F0"
 msgid "人間以外の動物？\nそれなら、<KSEQ_ADVANCE_NEXT>わたしはウミガメになりたいです"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -1332,8 +1341,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=8E43196F|cmd=0002|off=1F0"
 msgid "そうですね……\n何でも束縛してくる人でしょうか"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -1753,8 +1763,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=9C89D6C6|cmd=0002|off=1E0"
 msgid "これ、<KSEQ_ADVANCE_NEXT>わたしの名刺です\n捨てたりなんかしないでくださいね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -1841,8 +1852,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A3F4BEB9|cmd=0004|off=218"
 msgid "とっても楽しかったです♪"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -1929,8 +1941,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A3F4BEBA|cmd=0003|off=20C"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>いつも来てくれて\nどうもありがとう"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -2080,8 +2093,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A3F4BEBB|cmd=0004|off=218"
 msgid "もっとずっと話していたいけど\n続きはまた今度ね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -2243,8 +2257,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A4045185|cmd=0002|off=208"
 msgid "ふふふっ♪"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -2811,8 +2826,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=A4045186|cmd=0002|off=208"
 msgid "ホントは、<KSEQ_ADVANCE_NEXT>会社を作る夢をちょっと\nあきらめかけてたこともあったんです……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -3400,8 +3416,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=AF1E7379|cmd=0001|off=234"
 msgid "さすが、<KSEQ_ADVANCE_NEXT>龍也くん！\nわたし、<KSEQ_ADVANCE_NEXT>それ大好きなんです！"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -4055,8 +4072,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=AF1E7379|cmd=0045|off=444"
 msgid "ああ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -4530,8 +4548,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AA|cmd=0002|off=208"
 msgid "何というか、<KSEQ_ADVANCE_NEXT>あのお客さんと龍也くんて\nどこか似てる気がするんです"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -4951,8 +4970,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AB|cmd=0002|off=208"
 msgid "さっきのお客さん\n神室町のお店にとっても詳しいんです"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -5372,8 +5392,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AC|cmd=0002|off=208"
 msgid "あのお客さんって\n自分のお店を持ってるそうなんです\nいろんな経営アドバイスをしてもらいました"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -5835,8 +5856,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AD|cmd=0002|off=208"
 msgid "ふふふっ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -6277,8 +6299,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C5A294AF|cmd=0002|off=208"
 msgid "実はね、<KSEQ_ADVANCE_NEXT>あのお客さんに\n旅行に行かないかって誘われちゃった"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -6677,8 +6700,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C6393614|cmd=0002|off=208"
 msgid "前に、<KSEQ_ADVANCE_NEXT>個人投資家の人と\n知り合ったって言ったでしょ？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -7224,8 +7248,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=C6393617|cmd=0002|off=208"
 msgid "龍也くん……\n聞いてくれますか？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -7771,8 +7796,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=DC24348B|cmd=0003|off=1EC"
 msgid "ねぇ、<KSEQ_ADVANCE_NEXT>龍也くん、<KSEQ_ADVANCE_NEXT>ちょっと待って……\nあのねぇ……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -7969,8 +7995,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E433D5BA|choice_cmd=0003|line=1"
 msgid "延長しない"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8024,8 +8051,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E433D5BA|cmd=0006|off=210"
 msgid "（今日は、<KSEQ_ADVANCE_NEXT>こんなところだな\n　そろそろ行くか）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8213,8 +8241,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E46060E9|choice_cmd=0004|line=1"
 msgid "ダメだろ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8376,8 +8405,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E46060EB|cmd=0002|off=1F0"
 msgid "ホントに？\nありがと～"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8485,8 +8515,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E46060EC|cmd=0002|off=1F0"
 msgid "えぇ～\nダメですか～？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8573,8 +8604,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E59AB155|cmd=0001|off=1B4"
 msgid "すいませ～ん……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8607,8 +8639,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=E765F9E1|cmd=0003|off=214"
 msgid "（美佳のやつ……\n　ずいぶん楽しそうじゃねぇか）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8728,8 +8761,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743F8|cmd=0002|off=1E8"
 msgid "いただいちゃっていいんですか～？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8783,8 +8817,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743F8|cmd=0004|off=200"
 msgid "ありがとうございます～"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8817,8 +8852,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743F9|cmd=0001|off=1B4"
 msgid "（また今度にしよう）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -8952,8 +8988,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743FD|cmd=0002|off=1E8"
 msgid "それをわたしに？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9100,8 +9137,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743FE|choice_cmd=0006|line=2"
 msgid "ちょっと……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9356,8 +9394,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=ECD743FF|cmd=0002|off=1F0"
 msgid "いただいちゃっていいんですか～？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9519,8 +9558,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6A|cmd=0002|off=1E8"
 msgid "美佳さんて将来、<KSEQ_ADVANCE_NEXT>起業するのが夢なんだって～\nスゴくない!?\nあたしも雇ってもらおうかなぁ～"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9586,8 +9626,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6B|cmd=0002|off=1E8"
 msgid "美佳さんが飼ってるネコってね\n名前がツナって言うんだって～\n変な名前だよね～"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9653,8 +9694,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6C|cmd=0002|off=1E8"
 msgid "あのね、<KSEQ_ADVANCE_NEXT>美佳さんて、<KSEQ_ADVANCE_NEXT>さんぴん茶っていうのを\n水筒に入れて持ち歩いてんだよ\nなんか健康にいいんだって～"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9720,8 +9762,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6D|cmd=0002|off=1E8"
 msgid "ねぇねぇ、<KSEQ_ADVANCE_NEXT>美佳さんてねぇ\nフライドチキンが大好きでいっつも食べてんの\nなのにどうしてあんなに細いんだろ～？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9787,8 +9830,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=FE242E6E|cmd=0002|off=1E8"
 msgid "ねぇねぇ、<KSEQ_ADVANCE_NEXT>知ってる？\n美佳さんて、<KSEQ_ADVANCE_NEXT>沖縄で暮らしてたのに\nにがうりが嫌いなんだよ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -9983,8 +10027,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=1198F295|cmd=0002|off=208"
 msgid "龍也くんは、<KSEQ_ADVANCE_NEXT>この辺に住んでるんですか？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -10530,8 +10575,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=1198F296|cmd=0002|off=208"
 msgid "龍也くんって、<KSEQ_ADVANCE_NEXT>見た目シブい感じですけど\n歳はかなり若いですよね？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -11044,8 +11090,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=1198F296|cmd=0029|off=34C"
 msgid "ふふふ\nそうですね、<KSEQ_ADVANCE_NEXT>仲良くしましょうね♪"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12062,8 +12109,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=2555C038|cmd=0002|off=210"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>ごめんなさい\nちょっと失礼します"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12183,8 +12231,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=2555C03A|cmd=0002|off=210"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>ちょっと待っててね\nすぐ戻ってくるから"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12304,8 +12353,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=2555C03B|cmd=0002|off=210"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>ごめんなさい\n指名が入っちゃいました"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12425,8 +12475,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B30|cmd=0002|off=1F0"
 msgid "わたしは、<KSEQ_ADVANCE_NEXT>宇宙飛行士になりたかったですね\nそして、<KSEQ_ADVANCE_NEXT>月に住むウサギに会いたかったです"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12597,8 +12648,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B31|cmd=0002|off=1F0"
 msgid "もちろんです！\nいい相手が見つかればですけどね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12769,8 +12821,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B32|cmd=0002|off=1F0"
 msgid "えっ!?\n急にそんなことを言われても……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -12941,8 +12994,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B34|cmd=0002|off=1F0"
 msgid "わたしは断然、<KSEQ_ADVANCE_NEXT>男がいいです\nカワイイ女の子と付き合ってみたいです"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -13071,8 +13125,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B35|cmd=0002|off=1F0"
 msgid "そうですね\n南極へ行ってみたいかな！"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -13222,8 +13277,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B36|cmd=0003|off=1FC"
 msgid "龍也くんは？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -13331,8 +13387,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B37|cmd=0002|off=1F0"
 msgid "……何ですか、<KSEQ_ADVANCE_NEXT>その質問？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -13482,8 +13539,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B3A|cmd=0002|off=1F0"
 msgid "難しい質問ですね……\nたぶん怖くて、<KSEQ_ADVANCE_NEXT>ずっと泣いてると思います"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -13654,8 +13712,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=275A2B3B|cmd=0002|off=1F0"
 msgid "え～っ！\nそんなこと言いたくありません！\nノーコメントです！"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -13784,8 +13843,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=33F77A00|cmd=0002|off=220"
 msgid "ああ、<KSEQ_ADVANCE_NEXT>そうだ\nさっき、<KSEQ_ADVANCE_NEXT>わたしを指名してくれた\nお客さんいたじゃないですか"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -14061,8 +14121,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=36FFD728|cmd=0005|off=214"
 msgid "そして、<KSEQ_ADVANCE_NEXT>大きな太陽が黄金色に輝きながら\n水平線に溶けるように消えていくんです"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -14401,8 +14462,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=36FFD729|cmd=0002|off=1F0"
 msgid "来てくれたんですね！"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -14573,8 +14635,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=36FFD72B|cmd=0003|off=1F4"
 msgid "……実はですね、<KSEQ_ADVANCE_NEXT>これから仕事が終わったら\nわたしの会社設立に協力してくださる\n個人投資家の方と会う約束をしてるんです"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -15039,8 +15102,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5B4C28|cmd=0001|off=224"
 msgid "わたしのこと\n本当に気にしてくれてるんですか？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -15871,8 +15935,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5B4C29|cmd=0001|off=224"
 msgid "わたしのこと\n本当に気にしてくれてるんですか？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -16661,8 +16726,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5B4C2A|cmd=0001|off=224"
 msgid "わたしのこと\n本当に気にしてくれてるんですか？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -17388,8 +17454,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5B4C2F|cmd=0001|off=1C4"
 msgid "あのお客さんね、<KSEQ_ADVANCE_NEXT>いつもいっぱい\nフードメニューを注文してくれるんですよ\nわたし、<KSEQ_ADVANCE_NEXT>ちょっとおなか空いちゃいました……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -17518,8 +17585,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5D42EC|cmd=0002|off=208"
 msgid "龍也くんの好きな食べ物って、<KSEQ_ADVANCE_NEXT>なんですか？\n沖縄料理とかは好きですか？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -18086,8 +18154,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5D42EE|cmd=0002|off=208"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>わたしの第一印象って\nどんな感じだったんでしょうか？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -18621,8 +18690,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=3B5D42EE|cmd=0030|off=358"
 msgid "ふふふ\nそんなに楽しみにしてるなら\n今度作って持ってきてあげちゃおうかな♪"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -19222,8 +19292,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4518A7A8|cmd=0002|off=210"
 msgid "おもしろい話が聞けて、<KSEQ_ADVANCE_NEXT>楽しかったです\nそれでは、<KSEQ_ADVANCE_NEXT>私のほうはこれで失礼しますね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -19343,8 +19414,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4518A7A9|cmd=0002|off=210"
 msgid "美佳さんが戻ってきましたよ\n私のほうは失礼させていただきますね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -19464,8 +19536,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4518A7AB|cmd=0002|off=210"
 msgid "それじゃ、<KSEQ_ADVANCE_NEXT>私はここら辺で失礼しま～す\nこの後も楽しんでいってくださいね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -19585,8 +19658,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3D2|cmd=0002|off=1F0"
 msgid "そうですね……\nわたしは別に整形しなくてもいいです"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -19736,8 +19810,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3D3|cmd=0002|off=1F0"
 msgid "よくわかりませんが……\nわたしの性格上、<KSEQ_ADVANCE_NEXT>全然使わない気がします……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -19908,8 +19983,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3D8|cmd=0002|off=1F0"
 msgid "そうですね……\n成立するような、<KSEQ_ADVANCE_NEXT>しないような……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20059,8 +20135,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3D9|cmd=0002|off=1F0"
 msgid "それは、<KSEQ_ADVANCE_NEXT>いっぱいありますよ\nお父さん、<KSEQ_ADVANCE_NEXT>お母さん、<KSEQ_ADVANCE_NEXT>おじいちゃん……\nネコのツナ、<KSEQ_ADVANCE_NEXT>親友のサッちゃん、<KSEQ_ADVANCE_NEXT>それから……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20168,8 +20245,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DB|cmd=0002|off=1F0"
 msgid "そうですね\n悪ガキって感じでしょうか"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20319,8 +20397,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DC|cmd=0003|off=1FC"
 msgid "神社で慎ましく厳かに式を挙げたいです"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20491,8 +20570,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DD|cmd=0003|off=1FC"
 msgid "それじゃあ、<KSEQ_ADVANCE_NEXT>龍也くんは？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20621,8 +20701,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DE|cmd=0002|off=1F0"
 msgid "それなら……原始時代ですね\n恐竜を見てみたいですし"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20751,8 +20832,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4755D3DF|cmd=0002|off=1F0"
 msgid "えっ!?\nブッチャケてもいいんですか？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -20923,8 +21005,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4AE9DB59|cmd=0002|off=230"
 msgid "ごめんなさい！\n龍也くん、<KSEQ_ADVANCE_NEXT>他に指名入っちゃったの！\nちょっとだけ行ってきますね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -21074,8 +21157,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=4AE9DB5A|cmd=0002|off=1F0"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>ごめんなさい\nまた、<KSEQ_ADVANCE_NEXT>あのお客さんから指名入っちゃった……\nちょっと行ってきますね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -21162,8 +21246,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A4098|cmd=0003|off=1EC"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>こんばんは♪\n今日もカッコイイですね！"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -21229,8 +21314,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A4099|cmd=0003|off=1EC"
 msgid "こんばんは、<KSEQ_ADVANCE_NEXT>龍也くん\n今日もよろしくね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -21296,8 +21382,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A409C|cmd=0003|off=1EC"
 msgid "はじめまして、<KSEQ_ADVANCE_NEXT>美佳です\nよろしくお願いしますね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -21363,8 +21450,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A409E|cmd=0003|off=1EC"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>いらっしゃいませ\nよろしくお願いします"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -21490,8 +21578,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A409F|choice_cmd=0004|line=2"
 msgid "ちょっと……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -21713,8 +21802,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A409F|cmd=0018|off=5B0"
 msgid "…………"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -22335,8 +22425,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=643DD9DE|cmd=0003|off=214"
 msgid "一人娘がいつまでもお嫁に行かないなんて\nやっぱり心配ですよね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -22840,8 +22931,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=643DD9DF|cmd=0002|off=208"
 msgid "この前、<KSEQ_ADVANCE_NEXT>友だちに誘われて\nとっても当たるって評判の占い師のところに\n行ってきたんです"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -23408,8 +23500,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=6988DF44|cmd=0002|off=1F0"
 msgid "はい\nお会計はこちらになります"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -23475,8 +23568,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=71313BCD|cmd=0002|off=210"
 msgid "あ、<KSEQ_ADVANCE_NEXT>そろそろ美佳さん戻ってくるみたいよ\nそれじゃ、<KSEQ_ADVANCE_NEXT>またね♪"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -23659,8 +23753,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=71313BCE|cmd=0002|off=210"
 msgid "あ、<KSEQ_ADVANCE_NEXT>そろそろ美佳さん戻ってくるみたいよ\nそれじゃ、<KSEQ_ADVANCE_NEXT>またね♪"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -23864,8 +23959,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=71313BCF|cmd=0002|off=210"
 msgid "あ、<KSEQ_ADVANCE_NEXT>そろそろ美佳さん戻ってくるみたいよ\nそれじゃ、<KSEQ_ADVANCE_NEXT>またね♪"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -24015,8 +24111,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=71313BCF|cmd=0013|off=294"
 msgid "はい\n龍也くんも一緒に盛り上げてくださいよ？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -24595,8 +24692,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=7A40014D|cmd=0002|off=208"
 msgid "龍也くんって、<KSEQ_ADVANCE_NEXT>動物好きですか？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N
@@ -25184,8 +25282,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=7A40014F|cmd=0002|off=208"
 msgid "ふふふ\n今日のわたしは、<KSEQ_ADVANCE_NEXT>とっても調子いいんです♪"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101N

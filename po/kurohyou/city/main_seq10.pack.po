@@ -6,9 +6,11 @@ msgstr ""
 
 #. y4:file_status=untranslated
 #. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq10.pack
@@ -299,8 +301,9 @@ msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE1|cmd=0009|off=274"
 msgid "待ってたぞ、<KSEQ_ADVANCE_NEXT>龍也\n<KSEQ_COLOR:FF8050>アレキサンダー<KSEQ_RESET>はここにあるんだな"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq10.pack
@@ -635,8 +638,9 @@ msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE2|cmd=0011|off=264"
 msgid "俺と沙紀は別の道で行く\nお前も急ぐんだ\nいいな？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq10.pack
@@ -810,8 +814,9 @@ msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE7|choice_cmd=0003|line=1"
 msgid "ちょっと待ってくれ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq10.pack
@@ -975,8 +980,9 @@ msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE7|cmd=0027|off=2AC"
 msgid "……わかった\nコンディションを整えて来い\n準備ができたら、<KSEQ_ADVANCE_NEXT>俺に言うんだぞ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq10.pack

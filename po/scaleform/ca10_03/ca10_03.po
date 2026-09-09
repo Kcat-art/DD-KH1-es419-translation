@@ -8,6 +8,7 @@ msgstr ""
 
 #. y4:file_status=untranslated
 #. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -27,8 +28,9 @@ msgctxt "kurohyou-scaleform|ca10_03|row=2|frames=298,337"
 msgid "連絡つかねぇな"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca10_03/ca10_03.csv
 #. kurohyou:row=3

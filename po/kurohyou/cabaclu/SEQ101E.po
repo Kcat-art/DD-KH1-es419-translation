@@ -6,6 +6,7 @@ msgstr ""
 
 #. y4:file_status=untranslated
 #. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
 #. y4:line_status=todo
 #. y4:msg_type=speaker_name
@@ -40,8 +41,9 @@ msgctxt "kurohyou|cabaclu|SEQ101E|elpk=29B2DF56|cmd=0005|off=244"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>お待たせしました！\nどうやら、<KSEQ_ADVANCE_NEXT>まだ高山さんは\n来ていないみたいですね……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=SEQ101E

@@ -6,6 +6,7 @@ msgstr ""
 
 #. y4:file_status=untranslated
 #. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
 #. y4:line_status=translated
 #. y4:translated_by=Kcat0
@@ -62,8 +63,9 @@ msgctxt "kurohyou|city|main_seq01.pack|elpk=D15AB3E9|cmd=0005|off=18C"
 msgid "まだ、<KSEQ_ADVANCE_NEXT>アゴがガクガクしてやがる\nわかってんだろうな……\n二度と逃げようだなんて思うんじゃねぇぞ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq01.pack
@@ -479,8 +481,9 @@ msgctxt "kurohyou|city|main_seq01.pack|elpk=D15AB3E9|cmd=0042|off=348"
 msgid "もうすぐ試合だ\nさっさと準備をしろ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq01.pack
@@ -886,8 +889,9 @@ msgctxt "kurohyou|city|main_seq01.pack|elpk=D15AB3EB|cmd=0016|off=2A8"
 msgid "なんだ、<KSEQ_ADVANCE_NEXT>お前？　見ねぇ顔だな\nお前も売られてきたのか？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq01.pack
@@ -2031,8 +2035,9 @@ msgctxt "kurohyou|city|main_seq01.pack|elpk=D15AB3EB|cmd=0101|off=6A4"
 msgid "（……<KSEQ_COLOR:FF8050>ロッカールーム<KSEQ_RESET>へ行くか）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq01.pack
@@ -2404,8 +2409,9 @@ msgctxt "kurohyou|city|main_seq01.pack|elpk=D15AB3EC|cmd=0041|off=384"
 msgid "<KSEQ_COLOR:FF8050>簡易宿泊所<KSEQ_RESET>では、<KSEQ_ADVANCE_NEXT>セーブや\nアイテムの整理をすることができます"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq01.pack
@@ -2564,8 +2570,9 @@ msgctxt "kurohyou|city|main_seq01.pack|elpk=D15AB3EE|cmd=0013|off=1D4"
 msgid "（……とりあえず<KSEQ_COLOR:FF8050>家<KSEQ_RESET>に戻るか）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq01.pack
@@ -2632,8 +2639,9 @@ msgctxt "kurohyou|city|main_seq01.pack|elpk=E8F07B51|cmd=0003|off=14C"
 msgid "…………"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq01.pack
@@ -2790,8 +2798,9 @@ msgctxt "kurohyou|city|main_seq01.pack|elpk=E8F07B51|cmd=0012|off=1B8"
 msgid "（よし！\n　これで、<KSEQ_ADVANCE_NEXT>ここから逃げ出せるはずだ!!）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq01.pack
@@ -2906,8 +2915,9 @@ msgctxt "kurohyou|city|main_seq01.pack|elpk=E8F07B53|cmd=0017|off=204"
 msgid "ボタンを押すと\n神室町の<KSEQ_COLOR:FF8050>全体マップ<KSEQ_RESET>を開くことができます"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq01.pack
@@ -3396,8 +3406,9 @@ msgctxt "kurohyou|city|main_seq01.pack|elpk=E8F07B56|cmd=0010|off=288"
 msgid "クソガキがっ！\n見つけたぞ、<KSEQ_ADVANCE_NEXT>コラァッ!!"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq01.pack
@@ -3472,8 +3483,9 @@ msgctxt "kurohyou|city|main_seq01.pack|elpk=E8F07B56|cmd=0020|off=300"
 msgid "（あと少しだ……\n　<KSEQ_COLOR:FF8050>天下一通りのアーケード<KSEQ_RESET>から出たら\n　俺はこの神室町から逃げ出せる！）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq01.pack
@@ -3685,8 +3697,9 @@ msgctxt "kurohyou|city|main_seq01.pack|elpk=E8F07B57|cmd=0026|off=330"
 msgid "街中に九鬼組構成員が大量配置されました\n追ってくる九鬼組構成員に捕まらないよう\nマップに表示された<KSEQ_COLOR:FF8050>目的地<KSEQ_RESET>まで逃げてください"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq01.pack

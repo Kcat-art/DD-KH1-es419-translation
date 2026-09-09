@@ -6,9 +6,11 @@ msgstr ""
 
 #. y4:file_status=untranslated
 #. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq07.pack
@@ -116,8 +118,9 @@ msgctxt "kurohyou|city|main_seq07.pack|elpk=D66BF9C3|cmd=0008|off=218"
 msgid "覚悟しとけよ……右京龍也……\n組の連中が黙っちゃいねぇからな……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq07.pack
@@ -256,8 +259,9 @@ msgctxt "kurohyou|city|main_seq07.pack|elpk=D66BF9C4|cmd=0032|off=350"
 msgid "マジだり～"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq07.pack
@@ -2342,8 +2346,9 @@ msgctxt "kurohyou|city|main_seq07.pack|elpk=D66BF9C5|cmd=0160|off=A40"
 msgid "（よし、<KSEQ_ADVANCE_NEXT><KSEQ_COLOR:FF8050>ミレニアムタワー<KSEQ_RESET>\n　に行くか）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq07.pack
@@ -2556,8 +2561,9 @@ msgctxt "kurohyou|city|main_seq07.pack|elpk=D66BF9C6|cmd=0023|off=26C"
 msgid "あぁ、<KSEQ_ADVANCE_NEXT>ちょっと話をしてくる\n天馬はここで待っててくれ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq07.pack
@@ -2670,8 +2676,9 @@ msgctxt "kurohyou|city|main_seq07.pack|elpk=D66BF9C7|cmd=0030|off=398"
 msgid "（しまった!!\n　尾行に失敗した\n　竹中のヤロウを見失っちまったか……）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq07.pack
@@ -4649,8 +4656,9 @@ msgctxt "kurohyou|city|main_seq07.pack|elpk=554F5C1C|cmd=0014|off=280"
 msgid "是！"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq07.pack
@@ -4978,8 +4986,9 @@ msgctxt "kurohyou|city|main_seq07.pack|elpk=554F5C1D|cmd=0005|off=1D4"
 msgid "張って男……龍也くんを殺す気でいる\n試合なんかじゃない……公開処刑になるわ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq07.pack
@@ -5368,8 +5377,9 @@ msgctxt "kurohyou|city|main_seq07.pack|elpk=6DC364BD|cmd=0013|off=2EC"
 msgid "う、<KSEQ_ADVANCE_NEXT>うん……まぁね"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq07.pack
@@ -6814,8 +6824,9 @@ msgctxt "kurohyou|city|main_seq07.pack|elpk=6DC364BD|cmd=0099|off=6F4"
 msgid "わかった、<KSEQ_ADVANCE_NEXT>わかったから～\nだから、<KSEQ_ADVANCE_NEXT>脇をなぞるなって……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq07.pack

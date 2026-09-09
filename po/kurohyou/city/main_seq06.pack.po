@@ -6,6 +6,7 @@ msgstr ""
 
 #. y4:file_status=untranslated
 #. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
 
 #. y4:line_status=translated
 #. y4:translated_by=Kcat0
@@ -41,8 +42,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=9C278460|cmd=0013|off=1A4"
 msgid "悪いことは言わん\n黙ってドラゴンヒート１０連勝に\n集中することだ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq06.pack
@@ -75,8 +77,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=9C278460|cmd=0014|off=1B0"
 msgid "チッ……"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq06.pack
@@ -733,8 +736,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=9C278461|cmd=0076|off=550"
 msgid "（サイの河原の入口は確か……\n　<KSEQ_COLOR:FF8050>児童公園<KSEQ_RESET>だったな）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq06.pack
@@ -884,8 +888,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=9C278462|cmd=0020|off=2E0"
 msgid "かっかっか、<KSEQ_ADVANCE_NEXT>兄ちゃん若ぇウチから\n旦那にデケェ借り作っちまったみてぇだな～"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq06.pack
@@ -1872,8 +1877,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=9C278465|cmd=0005|off=1FC"
 msgid "どうしたんだよ龍也！\n竹中に見つかるとマズイのか!?"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq06.pack
@@ -1990,8 +1996,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=9C278465|cmd=0010|off=238"
 msgid "よし！\nじゃあ、<KSEQ_ADVANCE_NEXT><KSEQ_COLOR:FF8050>喫茶アルプス<KSEQ_RESET>で合流だ\nわかったな"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq06.pack
@@ -2171,8 +2178,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=9C278467|cmd=0020|off=1F8"
 msgid "（<KSEQ_COLOR:FF8050>九鬼組事務所<KSEQ_RESET>に行くか……\n　どういうことなのか、<KSEQ_ADVANCE_NEXT>九鬼に聞かねぇと）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq06.pack
@@ -2511,8 +2519,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=9C27846C|cmd=0024|off=288"
 msgid "ああ、<KSEQ_ADVANCE_NEXT>案内してくれ\n千秋、<KSEQ_ADVANCE_NEXT>指名で"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq06.pack
@@ -2779,8 +2788,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=1D442228|cmd=0006|off=1E0"
 msgid "今日の試合、<KSEQ_ADVANCE_NEXT>楽しみにしているぞ\n１０連勝……してくれよ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq06.pack
@@ -2910,8 +2920,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=1D442229|cmd=0003|off=144"
 msgid "遅かったな\n何してたんだ？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq06.pack
@@ -3045,8 +3056,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=1D44222B|choice_cmd=0004|line=1"
 msgid "もうちょっと待ってくれ"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq06.pack
@@ -3343,8 +3355,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=1D44222B|cmd=0036|off=3F8"
 msgid "ううん、<KSEQ_ADVANCE_NEXT>しょうがないよ\n日向が相手だもん\n準備ができたら、<KSEQ_ADVANCE_NEXT>また声をかけて"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq06.pack
@@ -3431,8 +3444,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=33FB90A5|cmd=0012|off=1F8"
 msgid "（くっ……捕まっちまった！）"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq06.pack
