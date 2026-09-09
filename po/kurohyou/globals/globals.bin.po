@@ -30,7 +30,8 @@ msgctxt "kurohyou|globals|stja|hash=8015F171"
 msgid "%d回"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=system_text
 #. kurohyou:container=globals.bin
 #. kurohyou:elpk_resource=EC992FCF
@@ -39,7 +40,7 @@ msgstr ""
 #. kurohyou:text_offset=0xCB26
 msgctxt "kurohyou|globals|stja|hash=8015F172"
 msgid "%.3fkm"
-msgstr ""
+msgstr "%.3fkm"
 
 #. y4:line_status=todo
 #. y4:msg_type=system_text
