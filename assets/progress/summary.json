@@ -1,0 +1,67 @@
+{
+  "files_total": 104,
+  "files_translated": 0,
+  "files_reviewed": 0,
+  "entries_total": 32716,
+  "entries_translated": 1128,
+  "entries_reviewed": 999,
+  "entries_hidden": 0,
+  "hidden_terms_count": 0,
+  "pct_translated": 3.45,
+  "pct_reviewed": 3.05,
+  "textures_total": 1092,
+  "textures_translated": 6,
+  "textures_reviewed": 0,
+  "textures_no_translation_needed": 0,
+  "textures_completed": 6,
+  "textures_pending": 1086,
+  "pct_textures": 0.55,
+  "pct_textures_reviewed": 0.0,
+  "pct_global": 3.21,
+  "areas": {
+    "Cabaret": {
+      "files_total": 14,
+      "files_translated": 0,
+      "files_reviewed": 0,
+      "total": 10737,
+      "translated": 775,
+      "reviewed": 669,
+      "hidden": 0,
+      "pct_translated": 7.22,
+      "pct_reviewed": 6.23
+    },
+    "Historia / Ciudad": {
+      "files_total": 11,
+      "files_translated": 0,
+      "files_reviewed": 0,
+      "total": 9514,
+      "translated": 347,
+      "reviewed": 327,
+      "hidden": 0,
+      "pct_translated": 3.65,
+      "pct_reviewed": 3.44
+    },
+    "Globales": {
+      "files_total": 1,
+      "files_translated": 0,
+      "files_reviewed": 0,
+      "total": 5422,
+      "translated": 3,
+      "reviewed": 1,
+      "hidden": 0,
+      "pct_translated": 0.06,
+      "pct_reviewed": 0.02
+    },
+    "Cinemáticas": {
+      "files_total": 78,
+      "files_translated": 0,
+      "files_reviewed": 0,
+      "total": 7043,
+      "translated": 3,
+      "reviewed": 2,
+      "hidden": 0,
+      "pct_translated": 0.04,
+      "pct_reviewed": 0.03
+    }
+  }
+}
