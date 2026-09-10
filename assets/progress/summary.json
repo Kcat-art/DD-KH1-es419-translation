@@ -3,12 +3,12 @@
   "files_translated": 0,
   "files_reviewed": 0,
   "entries_total": 32716,
-  "entries_translated": 1129,
-  "entries_reviewed": 999,
+  "entries_translated": 1150,
+  "entries_reviewed": 1001,
   "entries_hidden": 0,
   "hidden_terms_count": 0,
-  "pct_translated": 3.45,
-  "pct_reviewed": 3.05,
+  "pct_translated": 3.52,
+  "pct_reviewed": 3.06,
   "textures_total": 1092,
   "textures_translated": 6,
   "textures_reviewed": 0,
@@ -17,7 +17,7 @@
   "textures_pending": 1086,
   "pct_textures": 0.55,
   "pct_textures_reviewed": 0.0,
-  "pct_global": 3.21,
+  "pct_global": 3.24,
   "areas": {
     "Cabaret": {
       "files_total": 14,
@@ -35,11 +35,11 @@
       "files_translated": 0,
       "files_reviewed": 0,
       "total": 9514,
-      "translated": 347,
-      "reviewed": 327,
+      "translated": 352,
+      "reviewed": 329,
       "hidden": 0,
-      "pct_translated": 3.65,
-      "pct_reviewed": 3.44
+      "pct_translated": 3.7,
+      "pct_reviewed": 3.46
     },
     "Globales": {
       "files_total": 1,
@@ -57,10 +57,10 @@
       "files_translated": 0,
       "files_reviewed": 0,
       "total": 7043,
-      "translated": 3,
+      "translated": 19,
       "reviewed": 2,
       "hidden": 0,
-      "pct_translated": 0.04,
+      "pct_translated": 0.27,
       "pct_reviewed": 0.03
     }
   }
