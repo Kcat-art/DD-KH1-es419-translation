@@ -1029,7 +1029,8 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756BD|cmd=0005|off=15C"
 msgid "とんだ邪魔が入ったな……\nさて……<KSEQ_COLOR:FF8050>ＪｅｗｅＬ<KSEQ_RESET>へ急ぐか"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=900002
 #. kurohyou:container=main_seq02.pack
@@ -1039,7 +1040,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3B0
 msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756BE|speaker_off=3B0"
 msgid "ＪｅｗｅＬ黒服"
-msgstr ""
+msgstr "Empleado del Jewel"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1258,8 +1259,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756BF|cmd=0009|off=18C"
 msgid "もしもし？"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=24
 #. kurohyou:container=main_seq02.pack

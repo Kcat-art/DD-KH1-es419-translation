@@ -6,79 +6,91 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es-419\n"
 
-#. y4:line_status=todo
+#. y4:file_status=untranslated
+#. y4:last_translator=Kcat0
+
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=1
 #. kurohyou:frames=96,118
 msgctxt "kurohyou-scaleform|ca03_01|row=1|frames=96,118"
 msgid "くそっ"
-msgstr ""
+msgstr "Mierda..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=2
 #. kurohyou:frames=214,289
 msgctxt "kurohyou-scaleform|ca03_01|row=2|frames=214,289"
 msgid "音のない時間が こんなにツライって…"
-msgstr ""
+msgstr "No tenía idea de lo doloroso que puede ser estar en completo silencio..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=3
 #. kurohyou:frames=355,438
 msgctxt "kurohyou-scaleform|ca03_01|row=3|frames=355,438"
 msgid "俺は… やっちまった…"
-msgstr ""
+msgstr "Lo arruiné..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=4
 #. kurohyou:frames=542,612
 msgctxt "kurohyou-scaleform|ca03_01|row=4|frames=542,612"
 msgid "真に強い者は"
-msgstr ""
+msgstr "Quien es verdaderamente fuerte"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=5
 #. kurohyou:frames=612,693
 msgctxt "kurohyou-scaleform|ca03_01|row=5|frames=612,693"
 msgid "単に勝ちを目指すのではなく"
-msgstr ""
+msgstr "no busca solo ganar,"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=6
 #. kurohyou:frames=693,783
 msgctxt "kurohyou-scaleform|ca03_01|row=6|frames=693,783"
 msgid "どんな時も,己の哲学を貫くことを目指す"
-msgstr ""
+msgstr "sino seguir su filosofía\npase lo que pase."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=7
 #. kurohyou:frames=849,919
 msgctxt "kurohyou-scaleform|ca03_01|row=7|frames=849,919"
 msgid "お前の哲学は お前の経験こそが"
-msgstr ""
+msgstr "Y esa filosofía la forja"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=8
 #. kurohyou:frames=919,959
 msgctxt "kurohyou-scaleform|ca03_01|row=8|frames=919,959"
 msgid "作っていくものなんだ"
-msgstr ""
+msgstr "tu propia experiencia."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=9
@@ -86,70 +98,77 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca03_01|row=9|frames=-1,-1"
 msgid "哲学か…"
-msgstr ""
+msgstr "¿Filosofía, eh...?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=10
 #. kurohyou:frames=1110,1165
 msgctxt "kurohyou-scaleform|ca03_01|row=10|frames=1110,1165"
 msgid "俺が経験してきたもの…"
-msgstr ""
+msgstr "Todo lo que he vivido..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=11
 #. kurohyou:frames=1194,1257
 msgctxt "kurohyou-scaleform|ca03_01|row=11|frames=1194,1257"
 msgid "俺の… 哲学"
-msgstr ""
+msgstr "Mi... filosofía."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=12
 #. kurohyou:frames=1348,1475
 msgctxt "kurohyou-scaleform|ca03_01|row=12|frames=1348,1475"
 msgid "さて… どうするかな"
-msgstr ""
+msgstr "Bueno... ¿y ahora qué?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=13
 #. kurohyou:frames=1622,1658
 msgctxt "kurohyou-scaleform|ca03_01|row=13|frames=1622,1658"
 msgid "話って何だ？"
-msgstr ""
+msgstr "¿Qué pasa?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=14
 #. kurohyou:frames=1696,1762
 msgctxt "kurohyou-scaleform|ca03_01|row=14|frames=1696,1762"
 msgid "刑事が俺を捜しているらしい…"
-msgstr ""
+msgstr "Parece que un detective anda buscándome..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=15
 #. kurohyou:frames=1762,1782
 msgctxt "kurohyou-scaleform|ca03_01|row=15|frames=1762,1782"
 msgid "どういうことだ"
-msgstr ""
+msgstr "¿Qué significa eso?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca03_01/ca03_01.csv
 #. kurohyou:row=16
 #. kurohyou:frames=1796,1832
 msgctxt "kurohyou-scaleform|ca03_01|row=16|frames=1796,1832"
 msgid "刑事？"
-msgstr ""
+msgstr "¿Un detective?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle

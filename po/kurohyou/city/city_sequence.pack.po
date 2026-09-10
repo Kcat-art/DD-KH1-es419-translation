@@ -27140,7 +27140,8 @@ msgctxt "kurohyou|city|city_sequence.pack|elpk=B3FFF791|cmd=0028|off=448"
 msgid "おい、<KSEQ_ADVANCE_NEXT>てめぇ"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=100403
 #. kurohyou:container=city_sequence.pack
@@ -27150,7 +27151,7 @@ msgstr ""
 #. kurohyou:text_offset=0x1440
 msgctxt "kurohyou|city|city_sequence.pack|elpk=B3FFF791|speaker_off=1440"
 msgid "追っかけチンピラ"
-msgstr ""
+msgstr "Pandillero acosador"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue

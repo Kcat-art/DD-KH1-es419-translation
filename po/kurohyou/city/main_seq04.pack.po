@@ -78,7 +78,8 @@ msgctxt "kurohyou|city|main_seq04.pack|elpk=B2076D59|cmd=0005|off=16C"
 msgid "（めんどくせぇことになったな\n　とりあえず、<KSEQ_ADVANCE_NEXT>警察を振り切らねぇと……）"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=4007
 #. kurohyou:container=main_seq04.pack
@@ -88,7 +89,7 @@ msgstr ""
 #. kurohyou:text_offset=0x624
 msgctxt "kurohyou|city|main_seq04.pack|elpk=B2076D5B|speaker_off=624"
 msgid "神室西高校　安田"
-msgstr ""
+msgstr "Yasuda de la secundaria Kamuro Oeste"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue

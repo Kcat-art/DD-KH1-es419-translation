@@ -1419,7 +1419,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493134|cmd=0014|off=1E0"
 msgid "（<KSEQ_COLOR:FF8050>コンビニのポッポ<KSEQ_RESET>で\n　バイト募集してないか、<KSEQ_ADVANCE_NEXT>聞いてみるか）"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=2002
 #. kurohyou:container=main_seq03.pack
@@ -1429,7 +1431,7 @@ msgstr ""
 #. kurohyou:text_offset=0x4B4
 msgctxt "kurohyou|city|main_seq03.pack|elpk=50493136|speaker_off=4B4"
 msgid "ＤＪ　ＲＩＫＵＯＨ"
-msgstr ""
+msgstr "Dj Rikuoh"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1996,7 +1998,8 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493137|cmd=0034|off=3A8"
 msgid "（どっかで\n　メシでも食っていくか）"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=2002
 #. kurohyou:container=main_seq03.pack
@@ -2006,7 +2009,7 @@ msgstr ""
 #. kurohyou:text_offset=0x980
 msgctxt "kurohyou|city|main_seq03.pack|elpk=50493137|speaker_off=980"
 msgid "ＤＪ　ＲＩＫＵＯＨ"
-msgstr ""
+msgstr "Dj Rikuoh"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
