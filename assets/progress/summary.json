@@ -1,13 +1,13 @@
 {
   "files_total": 104,
-  "files_translated": 1,
+  "files_translated": 49,
   "files_reviewed": 0,
   "entries_total": 32716,
-  "entries_translated": 1202,
+  "entries_translated": 5765,
   "entries_reviewed": 1002,
   "entries_hidden": 0,
   "hidden_terms_count": 0,
-  "pct_translated": 3.67,
+  "pct_translated": 17.62,
   "pct_reviewed": 3.06,
   "textures_total": 1092,
   "textures_translated": 6,
@@ -17,7 +17,7 @@
   "textures_pending": 1086,
   "pct_textures": 0.55,
   "pct_textures_reviewed": 0.0,
-  "pct_global": 3.32,
+  "pct_global": 10.18,
   "areas": {
     "Cabaret": {
       "files_total": 14,
@@ -54,13 +54,13 @@
     },
     "Cinemáticas": {
       "files_total": 78,
-      "files_translated": 1,
+      "files_translated": 49,
       "files_reviewed": 0,
       "total": 7043,
-      "translated": 71,
+      "translated": 4634,
       "reviewed": 3,
       "hidden": 0,
-      "pct_translated": 1.01,
+      "pct_translated": 65.8,
       "pct_reviewed": 0.04
     }
   }
