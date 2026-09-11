@@ -140,4 +140,3 @@ msgstr ""
 msgctxt "kurohyou-scaleform|ca10_04b|row=15|frames=1117,1137"
 msgid "行ってこい！"
 msgstr ""
-

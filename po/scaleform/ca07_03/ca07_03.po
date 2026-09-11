@@ -13,7 +13,7 @@ msgstr ""
 #. kurohyou:frames=141,191
 msgctxt "kurohyou-scaleform|ca07_03|row=1|frames=141,191"
 msgid "九鬼組の連中は"
-msgstr ""
+msgstr "La familia Kuki"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -22,7 +22,7 @@ msgstr ""
 #. kurohyou:frames=191,284
 msgctxt "kurohyou-scaleform|ca07_03|row=2|frames=191,284"
 msgid "俺が九鬼を襲ったと,思っているのか…"
-msgstr ""
+msgstr "¿creen que fui yo quien atacó a Kuki...?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -31,7 +31,7 @@ msgstr ""
 #. kurohyou:frames=284,396
 msgctxt "kurohyou-scaleform|ca07_03|row=3|frames=284,396"
 msgid "誰かが俺を,罠に陥れようとしているのか…"
-msgstr ""
+msgstr "¿o alguien está tratando de tenderme una trampa...?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -40,7 +40,7 @@ msgstr ""
 #. kurohyou:frames=396,498
 msgctxt "kurohyou-scaleform|ca07_03|row=4|frames=396,498"
 msgid "このままだと,戸田殺しも九鬼襲撃も"
-msgstr ""
+msgstr "Si esto sigue así, tanto el asesinato\nde Toda como el ataque a Kuki"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -49,7 +49,7 @@ msgstr ""
 #. kurohyou:frames=498,582
 msgctxt "kurohyou-scaleform|ca07_03|row=5|frames=498,582"
 msgid "全て俺のせいにされちまうぜ"
-msgstr ""
+msgstr "van a echármelos a mí."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -58,7 +58,7 @@ msgstr ""
 #. kurohyou:frames=582,649
 msgctxt "kurohyou-scaleform|ca07_03|row=6|frames=582,649"
 msgid "何とかして真犯人を捕まえねぇと…"
-msgstr ""
+msgstr "Tengo que atrapar al verdadero culpable como sea..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -68,5 +68,4 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca07_03|row=7|frames=-1,-1"
 msgid "戸田殺しと九鬼襲撃。,どちらから調べるべきだ？"
-msgstr ""
-
+msgstr "El asesinato de Toda y el ataque a Kuki.\n¿Por cuál debería empezar a investigar?"

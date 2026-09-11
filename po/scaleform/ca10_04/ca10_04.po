@@ -58,7 +58,7 @@ msgstr ""
 #. kurohyou:frames=472,526
 msgctxt "kurohyou-scaleform|ca10_04|row=6|frames=472,526"
 msgid "そうだ"
-msgstr ""
+msgstr "Así es."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -157,7 +157,7 @@ msgstr ""
 #. kurohyou:frames=1317,1375
 msgctxt "kurohyou-scaleform|ca10_04|row=17|frames=1317,1375"
 msgid "九鬼だ"
-msgstr ""
+msgstr "Kuki."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -256,7 +256,7 @@ msgstr ""
 #. kurohyou:frames=2302,2333
 msgctxt "kurohyou-scaleform|ca10_04|row=28|frames=2302,2333"
 msgid "東城会に"
-msgstr ""
+msgstr "Al parecer en el clan Tojo"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -698,7 +698,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=77|frames=-1,-1"
 msgid "！"
-msgstr ""
+msgstr "¡!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -789,7 +789,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=87|frames=-1,-1"
 msgid "！"
-msgstr ""
+msgstr "¡!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1051,7 +1051,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=116|frames=-1,-1"
 msgid "！"
-msgstr ""
+msgstr "¡!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1168,7 +1168,7 @@ msgstr ""
 #. kurohyou:frames=11169,11234
 msgctxt "kurohyou-scaleform|ca10_04|row=129|frames=11169,11234"
 msgid "あぁ そうだ"
-msgstr ""
+msgstr "Sí."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1213,7 +1213,7 @@ msgstr ""
 #. kurohyou:frames=11583,11605
 msgctxt "kurohyou-scaleform|ca10_04|row=134|frames=11583,11605"
 msgid "なに！"
-msgstr ""
+msgstr "¿Qué?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1331,7 +1331,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=147|frames=-1,-1"
 msgid "……"
-msgstr ""
+msgstr "......"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1368,7 +1368,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=151|frames=-1,-1"
 msgid "！"
-msgstr ""
+msgstr "¡!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1378,7 +1378,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=152|frames=-1,-1"
 msgid "日向のあの眼…"
-msgstr ""
+msgstr "Esos ojos de Hyuga..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1388,7 +1388,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=153|frames=-1,-1"
 msgid "何かにとり付かれた様な…"
-msgstr ""
+msgstr "Es como si algo lo hubiera poseído..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1398,7 +1398,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=154|frames=-1,-1"
 msgid "あの眼は…"
-msgstr ""
+msgstr "Esa mirada..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1444,7 +1444,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=159|frames=-1,-1"
 msgid "……"
-msgstr ""
+msgstr "......"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1544,7 +1544,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=170|frames=-1,-1"
 msgid "？"
-msgstr ""
+msgstr "¿?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1653,7 +1653,7 @@ msgstr ""
 #. kurohyou:frames=15785,15808
 msgctxt "kurohyou-scaleform|ca10_04|row=182|frames=15785,15808"
 msgid "テメェ！"
-msgstr ""
+msgstr "¡Idiota!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1735,7 +1735,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=191|frames=-1,-1"
 msgid "！"
-msgstr ""
+msgstr "¡!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1853,7 +1853,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=204|frames=-1,-1"
 msgid "……"
-msgstr ""
+msgstr "......"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1899,7 +1899,7 @@ msgstr ""
 #. kurohyou:frames=17870,17915
 msgctxt "kurohyou-scaleform|ca10_04|row=209|frames=17870,17915"
 msgid "龍也…"
-msgstr ""
+msgstr "Tatsuya..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1944,7 +1944,7 @@ msgstr ""
 #. kurohyou:frames=18271,18296
 msgctxt "kurohyou-scaleform|ca10_04|row=214|frames=18271,18296"
 msgid "龍也…"
-msgstr ""
+msgstr "Tatsuya..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -2007,7 +2007,7 @@ msgstr ""
 #. kurohyou:frames=19069,19096
 msgctxt "kurohyou-scaleform|ca10_04|row=221|frames=19069,19096"
 msgid "なに！"
-msgstr ""
+msgstr "¿Qué?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -2098,7 +2098,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=231|frames=-1,-1"
 msgid "……"
-msgstr ""
+msgstr "......"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -2144,7 +2144,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca10_04|row=236|frames=-1,-1"
 msgid "……"
-msgstr ""
+msgstr "......"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -2216,7 +2216,7 @@ msgstr ""
 #. kurohyou:frames=20519,20556
 msgctxt "kurohyou-scaleform|ca10_04|row=244|frames=20519,20556"
 msgid "違う"
-msgstr ""
+msgstr "No."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -2315,5 +2315,4 @@ msgstr ""
 #. kurohyou:frames=21468,21539
 msgctxt "kurohyou-scaleform|ca10_04|row=255|frames=21468,21539"
 msgid "は… はい"
-msgstr ""
-
+msgstr "S-sí."

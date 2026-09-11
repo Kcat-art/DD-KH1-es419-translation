@@ -13,7 +13,7 @@ msgstr ""
 #. kurohyou:frames=47,85
 msgctxt "kurohyou-scaleform|ca10_02|row=1|frames=47,85"
 msgid "ありがとう"
-msgstr ""
+msgstr "Gracias."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -67,7 +67,7 @@ msgstr ""
 #. kurohyou:frames=527,543
 msgctxt "kurohyou-scaleform|ca10_02|row=7|frames=527,543"
 msgid "本当か？"
-msgstr ""
+msgstr "¿De verdad?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -256,7 +256,7 @@ msgstr ""
 #. kurohyou:frames=1818,1836
 msgctxt "kurohyou-scaleform|ca10_02|row=28|frames=1818,1836"
 msgid "ん？"
-msgstr ""
+msgstr "¿Mm?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -357,4 +357,3 @@ msgstr ""
 msgctxt "kurohyou-scaleform|ca10_02|row=39|frames=-1,-1"
 msgid "上等じゃねぇか。オッサン 待ってろ"
 msgstr ""
-

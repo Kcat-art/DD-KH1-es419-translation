@@ -13,7 +13,7 @@ msgstr ""
 #. kurohyou:frames=168,251
 msgctxt "kurohyou-scaleform|ca05_10|row=1|frames=168,251"
 msgid "左足 痛えだろ？"
-msgstr ""
+msgstr "Te duele la pierna izquierda, ¿no?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -22,7 +22,7 @@ msgstr ""
 #. kurohyou:frames=258,281
 msgctxt "kurohyou-scaleform|ca05_10|row=2|frames=258,281"
 msgid "左足？"
-msgstr ""
+msgstr "¿La izquierda?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -31,7 +31,7 @@ msgstr ""
 #. kurohyou:frames=310,355
 msgctxt "kurohyou-scaleform|ca05_10|row=3|frames=310,355"
 msgid "どういうことだ…？"
-msgstr ""
+msgstr "¿Qué significa eso...?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -40,7 +40,7 @@ msgstr ""
 #. kurohyou:frames=434,477
 msgctxt "kurohyou-scaleform|ca05_10|row=4|frames=434,477"
 msgid "左だと？"
-msgstr ""
+msgstr "¿La izquierda?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -49,7 +49,7 @@ msgstr ""
 #. kurohyou:frames=506,590
 msgctxt "kurohyou-scaleform|ca05_10|row=5|frames=506,590"
 msgid "話が違うじゃねーかよ…"
-msgstr ""
+msgstr "Eso no es lo que me dijo..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -58,7 +58,7 @@ msgstr ""
 #. kurohyou:frames=590,683
 msgctxt "kurohyou-scaleform|ca05_10|row=6|frames=590,683"
 msgid "あのガキ… ガセネタを…"
-msgstr ""
+msgstr "Ese mocoso... nos pasó información falsa..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -67,7 +67,7 @@ msgstr ""
 #. kurohyou:frames=760,796
 msgctxt "kurohyou-scaleform|ca05_10|row=7|frames=760,796"
 msgid "なぜ 逆の足を…"
-msgstr ""
+msgstr "¿Por qué la pierna contraria...?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -76,7 +76,7 @@ msgstr ""
 #. kurohyou:frames=819,867
 msgctxt "kurohyou-scaleform|ca05_10|row=8|frames=819,867"
 msgid "まさか… 天馬が"
-msgstr ""
+msgstr "No puede ser... ¿Tenma?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -85,7 +85,7 @@ msgstr ""
 #. kurohyou:frames=883,911
 msgctxt "kurohyou-scaleform|ca05_10|row=9|frames=883,911"
 msgid "天馬は どこだ？"
-msgstr ""
+msgstr "¿Dónde está Tenma?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -94,7 +94,7 @@ msgstr ""
 #. kurohyou:frames=920,937
 msgctxt "kurohyou-scaleform|ca05_10|row=10|frames=920,937"
 msgid "天馬？"
-msgstr ""
+msgstr "¿Tenma?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -103,7 +103,7 @@ msgstr ""
 #. kurohyou:frames=951,987
 msgctxt "kurohyou-scaleform|ca05_10|row=11|frames=951,987"
 msgid "リングサイドにいた"
-msgstr ""
+msgstr "Estaba en la orilla del ring,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -112,7 +112,7 @@ msgstr ""
 #. kurohyou:frames=987,1020
 msgctxt "kurohyou-scaleform|ca05_10|row=12|frames=987,1020"
 msgid "白い服の男だ！"
-msgstr ""
+msgstr "¡El tipo de ropa blanca!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -121,7 +121,7 @@ msgstr ""
 #. kurohyou:frames=1025,1073
 msgctxt "kurohyou-scaleform|ca05_10|row=13|frames=1025,1073"
 msgid "ああ その人なら"
-msgstr ""
+msgstr "Ah, si es él,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -130,7 +130,7 @@ msgstr ""
 #. kurohyou:frames=1073,1144
 msgctxt "kurohyou-scaleform|ca05_10|row=14|frames=1073,1144"
 msgid "さっき 二岡組の人たちと一緒に"
-msgstr ""
+msgstr "hace un rato se fue con gente de la familia Nioka"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -139,7 +139,7 @@ msgstr ""
 #. kurohyou:frames=1144,1177
 msgctxt "kurohyou-scaleform|ca05_10|row=15|frames=1144,1177"
 msgid "上に出て行ったわよ"
-msgstr ""
+msgstr "y salieron para arriba."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -149,5 +149,4 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca05_10|row=16|frames=-1,-1"
 msgid "早く天馬を捜さないと！"
-msgstr ""
-
+msgstr "¡Tengo que encontrar a Tenma rápido!"

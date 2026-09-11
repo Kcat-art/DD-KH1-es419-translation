@@ -400,7 +400,7 @@ msgstr ""
 #. kurohyou:frames=3055,3102
 msgctxt "kurohyou-scaleform|ca08_05|row=44|frames=3055,3102"
 msgid "紹介するよ"
-msgstr ""
+msgstr "Alguien capaz de derrotar a Tatsuya..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -436,7 +436,7 @@ msgstr ""
 #. kurohyou:frames=3261,3299
 msgctxt "kurohyou-scaleform|ca08_05|row=48|frames=3261,3299"
 msgid "あぁ"
-msgstr ""
+msgstr "Sí."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -499,7 +499,7 @@ msgstr ""
 #. kurohyou:frames=3919,3959
 msgctxt "kurohyou-scaleform|ca08_05|row=55|frames=3919,3959"
 msgid "由理香"
-msgstr ""
+msgstr "Yurika"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -697,7 +697,7 @@ msgstr ""
 #. kurohyou:frames=5646,5679
 msgctxt "kurohyou-scaleform|ca08_05|row=77|frames=5646,5679"
 msgid "そうだ"
-msgstr ""
+msgstr "Así es."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -797,7 +797,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca08_05|row=88|frames=-1,-1"
 msgid "……"
-msgstr ""
+msgstr "......"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -806,7 +806,7 @@ msgstr ""
 #. kurohyou:frames=6436,6500
 msgctxt "kurohyou-scaleform|ca08_05|row=89|frames=6436,6500"
 msgid "右京龍也…"
-msgstr ""
+msgstr "Tatsuya Ukyo…"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -851,7 +851,7 @@ msgstr ""
 #. kurohyou:frames=6777,6823
 msgctxt "kurohyou-scaleform|ca08_05|row=94|frames=6777,6823"
 msgid "九鬼…"
-msgstr ""
+msgstr "Kuki..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -986,7 +986,7 @@ msgstr ""
 #. kurohyou:frames=7993,8125
 msgctxt "kurohyou-scaleform|ca08_05|row=109|frames=7993,8125"
 msgid "ＯＮ ＴＨＥ ＴＡＩＬ！"
-msgstr ""
+msgstr "ＯＮ ＴＨＥ ＴＡＩＬ！\n¡En la cola!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1040,7 +1040,7 @@ msgstr ""
 #. kurohyou:frames=8682,8703
 msgctxt "kurohyou-scaleform|ca08_05|row=115|frames=8682,8703"
 msgid "あぁ…"
-msgstr ""
+msgstr "Sí..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1148,7 +1148,7 @@ msgstr ""
 #. kurohyou:frames=9528,9652
 msgctxt "kurohyou-scaleform|ca08_05|row=127|frames=9528,9652"
 msgid "ＯＮ ＴＨＥ ＨＥＡＤ！"
-msgstr ""
+msgstr "ＯＮ ＴＨＥ ＨＥＡＤ！\n¡En la cabeza!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1166,7 +1166,7 @@ msgstr ""
 #. kurohyou:frames=9788,10041
 msgctxt "kurohyou-scaleform|ca08_05|row=129|frames=9788,10041"
 msgid "右京～ ＴＡ･ＴＳＵ･ＹＡ！"
-msgstr ""
+msgstr "¡Tatsuya Ukyo!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1256,7 +1256,7 @@ msgstr ""
 #. kurohyou:frames=10872,10907
 msgctxt "kurohyou-scaleform|ca08_05|row=139|frames=10872,10907"
 msgid "右京…"
-msgstr ""
+msgstr "Ukyo..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -1275,4 +1275,3 @@ msgstr ""
 msgctxt "kurohyou-scaleform|ca08_05|row=141|frames=11074,11159"
 msgid "龍也… 頑張ってくれ！"
 msgstr ""
-

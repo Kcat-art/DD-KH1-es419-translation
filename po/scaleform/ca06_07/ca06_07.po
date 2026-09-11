@@ -13,7 +13,7 @@ msgstr ""
 #. kurohyou:frames=98,168
 msgctxt "kurohyou-scaleform|ca06_07|row=1|frames=98,168"
 msgid "おらぁ！ さっさと来い！"
-msgstr ""
+msgstr "¡Oye! ¡Apúrate y ven!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -22,7 +22,7 @@ msgstr ""
 #. kurohyou:frames=170,222
 msgctxt "kurohyou-scaleform|ca06_07|row=2|frames=170,222"
 msgid "は… 放してよ！"
-msgstr ""
+msgstr "¡S-suéltenme!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -31,7 +31,7 @@ msgstr ""
 #. kurohyou:frames=233,263
 msgctxt "kurohyou-scaleform|ca06_07|row=3|frames=233,263"
 msgid "あいつは…"
-msgstr ""
+msgstr "Esa..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -40,7 +40,7 @@ msgstr ""
 #. kurohyou:frames=263,287
 msgctxt "kurohyou-scaleform|ca06_07|row=4|frames=263,287"
 msgid "千秋じゃねぇか!?"
-msgstr ""
+msgstr "¡¿No es Chiaki?!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -49,7 +49,7 @@ msgstr ""
 #. kurohyou:frames=301,347
 msgctxt "kurohyou-scaleform|ca06_07|row=5|frames=301,347"
 msgid "おい！ お前ら…"
-msgstr ""
+msgstr "¡Eh! Ustedes..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -58,7 +58,7 @@ msgstr ""
 #. kurohyou:frames=376,452
 msgctxt "kurohyou-scaleform|ca06_07|row=6|frames=376,452"
 msgid "試合前に厄介事に関わるな！"
-msgstr ""
+msgstr "¡No te metas en problemas antes de la pelea!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -67,7 +67,7 @@ msgstr ""
 #. kurohyou:frames=452,497
 msgctxt "kurohyou-scaleform|ca06_07|row=7|frames=452,497"
 msgid "そんな余裕があるのか？"
-msgstr ""
+msgstr "¿Tienes tanto margen para eso?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -76,7 +76,7 @@ msgstr ""
 #. kurohyou:frames=524,549
 msgctxt "kurohyou-scaleform|ca06_07|row=8|frames=524,549"
 msgid "さぁ 時間だ"
-msgstr ""
+msgstr "Vamos, es la hora."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -85,7 +85,7 @@ msgstr ""
 #. kurohyou:frames=590,681
 msgctxt "kurohyou-scaleform|ca06_07|row=9|frames=590,681"
 msgid "さあ 今夜のメインイベントは"
-msgstr ""
+msgstr "Bien, el evento estelar de esta noche."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -94,7 +94,7 @@ msgstr ""
 #. kurohyou:frames=681,748
 msgctxt "kurohyou-scaleform|ca06_07|row=10|frames=681,748"
 msgid "見逃せないぜ！"
-msgstr ""
+msgstr "¡No se lo pueden perder!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -103,7 +103,7 @@ msgstr ""
 #. kurohyou:frames=748,817
 msgctxt "kurohyou-scaleform|ca06_07|row=11|frames=748,817"
 msgid "『ドラゴンヒート』最強の男を賭けた"
-msgstr ""
+msgstr "con el título del más fuerte del Dragon Heat en juego."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -112,7 +112,7 @@ msgstr ""
 #. kurohyou:frames=817,875
 msgctxt "kurohyou-scaleform|ca06_07|row=12|frames=817,875"
 msgid "因縁のファイトだ！"
-msgstr ""
+msgstr "¡Una pelea con historia detrás!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -121,7 +121,7 @@ msgstr ""
 #. kurohyou:frames=875,926
 msgctxt "kurohyou-scaleform|ca06_07|row=13|frames=875,926"
 msgid "悪いことは 言わねぇ！"
-msgstr ""
+msgstr "¡Y no lo digo en broma,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -130,7 +130,7 @@ msgstr ""
 #. kurohyou:frames=926,977
 msgctxt "kurohyou-scaleform|ca06_07|row=14|frames=926,977"
 msgid "瞬きなんかしないで"
-msgstr ""
+msgstr "no parpadeen,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -139,7 +139,7 @@ msgstr ""
 #. kurohyou:frames=977,1016
 msgctxt "kurohyou-scaleform|ca06_07|row=15|frames=977,1016"
 msgid "世紀のファイトを"
-msgstr ""
+msgstr "tienen que grabarse esta pelea"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -148,7 +148,7 @@ msgstr ""
 #. kurohyou:frames=1016,1091
 msgctxt "kurohyou-scaleform|ca06_07|row=16|frames=1016,1091"
 msgid "目ん玉に焼き付けな！"
-msgstr ""
+msgstr "en sus retinas!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -157,7 +157,7 @@ msgstr ""
 #. kurohyou:frames=1102,1210
 msgctxt "kurohyou-scaleform|ca06_07|row=17|frames=1102,1210"
 msgid "ＯＮ ＴＨＥ ＴＡＩＬ！"
-msgstr ""
+msgstr "ＯＮ ＴＨＥ ＴＡＩＬ！\n¡En la cola!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -166,7 +166,7 @@ msgstr ""
 #. kurohyou:frames=1210,1303
 msgctxt "kurohyou-scaleform|ca06_07|row=18|frames=1210,1303"
 msgid "ストリートが生んだ狂える龍！"
-msgstr ""
+msgstr "¡El dragón loco nacido en la calle!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -175,7 +175,7 @@ msgstr ""
 #. kurohyou:frames=1303,1374
 msgctxt "kurohyou-scaleform|ca06_07|row=19|frames=1303,1374"
 msgid "目下 ５連勝中の勢いは"
-msgstr ""
+msgstr "Con cinco victorias en racha,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -184,7 +184,7 @@ msgstr ""
 #. kurohyou:frames=1374,1443
 msgctxt "kurohyou-scaleform|ca06_07|row=20|frames=1374,1443"
 msgid "止められるのか!?"
-msgstr ""
+msgstr "¡¿alguien podrá detenerlo?!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -193,7 +193,7 @@ msgstr ""
 #. kurohyou:frames=1443,1516
 msgctxt "kurohyou-scaleform|ca06_07|row=21|frames=1443,1516"
 msgid "マッドドラゴン"
-msgstr ""
+msgstr "El dragón loco,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -202,7 +202,7 @@ msgstr ""
 #. kurohyou:frames=1516,1607
 msgctxt "kurohyou-scaleform|ca06_07|row=22|frames=1516,1607"
 msgid "～ＴＡ･ＴＳＵ･ＹＡ!!"
-msgstr ""
+msgstr "¡¡Tatsuya!!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -211,7 +211,7 @@ msgstr ""
 #. kurohyou:frames=1642,1748
 msgctxt "kurohyou-scaleform|ca06_07|row=23|frames=1642,1748"
 msgid "ＯＮ ＴＨＥ ＨＥＡＤ！"
-msgstr ""
+msgstr "ＯＮ ＴＨＥ ＨＥＡＤ！\n¡En la cabeza!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -220,7 +220,7 @@ msgstr ""
 #. kurohyou:frames=1748,1789
 msgctxt "kurohyou-scaleform|ca06_07|row=24|frames=1748,1789"
 msgid "龍也へのリベンジに"
-msgstr ""
+msgstr "¡El hombre que arde en deseos"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -229,7 +229,7 @@ msgstr ""
 #. kurohyou:frames=1789,1879
 msgctxt "kurohyou-scaleform|ca06_07|row=25|frames=1789,1879"
 msgid "燃えるのはこの男！"
-msgstr ""
+msgstr "de vengarse de Tatsuya!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -238,7 +238,7 @@ msgstr ""
 #. kurohyou:frames=1879,1955
 msgctxt "kurohyou-scaleform|ca06_07|row=26|frames=1879,1955"
 msgid "我が『ドラゴンヒート』の至宝"
-msgstr ""
+msgstr "¡El tesoro de nuestro Dragon Heat!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -247,7 +247,7 @@ msgstr ""
 #. kurohyou:frames=1955,2114
 msgctxt "kurohyou-scaleform|ca06_07|row=27|frames=1955,2114"
 msgid "日向翔!!"
-msgstr ""
+msgstr "¡¡Sho Hyuga!!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -256,7 +256,7 @@ msgstr ""
 #. kurohyou:frames=2230,2315
 msgctxt "kurohyou-scaleform|ca06_07|row=28|frames=2230,2315"
 msgid "前回は激しいバトルの末に"
-msgstr ""
+msgstr "¡La vez pasada, tras una batalla feroz"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -265,7 +265,7 @@ msgstr ""
 #. kurohyou:frames=2315,2389
 msgctxt "kurohyou-scaleform|ca06_07|row=29|frames=2315,2389"
 msgid "ギリギリ龍也が勝利！"
-msgstr ""
+msgstr "Tatsuya ganó por poco!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -274,7 +274,7 @@ msgstr ""
 #. kurohyou:frames=2389,2465
 msgctxt "kurohyou-scaleform|ca06_07|row=30|frames=2389,2465"
 msgid "だが今回はチョイと違うぜ！"
-msgstr ""
+msgstr "¡Pero esta vez la cosa es un poco distinta!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -283,7 +283,7 @@ msgstr ""
 #. kurohyou:frames=2465,2532
 msgctxt "kurohyou-scaleform|ca06_07|row=31|frames=2465,2532"
 msgid "あの日向のボディを見てくれ！"
-msgstr ""
+msgstr "¡Miren ese físico de Hyuga!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -292,7 +292,7 @@ msgstr ""
 #. kurohyou:frames=2532,2586
 msgctxt "kurohyou-scaleform|ca06_07|row=32|frames=2532,2586"
 msgid "まさに人間凶器！"
-msgstr ""
+msgstr "¡Una auténtica arma humana!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -301,7 +301,7 @@ msgstr ""
 #. kurohyou:frames=2586,2651
 msgctxt "kurohyou-scaleform|ca06_07|row=33|frames=2586,2651"
 msgid "あんな腕でぶん殴られたら"
-msgstr ""
+msgstr "¡Si te mete un puñetazo con esos brazos"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -310,7 +310,7 @@ msgstr ""
 #. kurohyou:frames=2651,2746
 msgctxt "kurohyou-scaleform|ca06_07|row=34|frames=2651,2746"
 msgid "銀河系の彼方までぶっ飛ぶぜ!!"
-msgstr ""
+msgstr "sales volando hasta el otro lado de la galaxia!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -319,7 +319,7 @@ msgstr ""
 #. kurohyou:frames=2746,2836
 msgctxt "kurohyou-scaleform|ca06_07|row=35|frames=2746,2836"
 msgid "さあ 今回のオッズの発表だ！"
-msgstr ""
+msgstr "¡Veamos como van las apuestas!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -328,7 +328,7 @@ msgstr ""
 #. kurohyou:frames=2863,2920
 msgctxt "kurohyou-scaleform|ca06_07|row=36|frames=2863,2920"
 msgid "勝利の可能性は"
-msgstr ""
+msgstr "Las posibilidades de victoria son"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -337,7 +337,7 @@ msgstr ""
 #. kurohyou:frames=2920,2991
 msgctxt "kurohyou-scaleform|ca06_07|row=37|frames=2920,2991"
 msgid "フィフティー フィフティー！"
-msgstr ""
+msgstr "¡50/50!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -346,7 +346,7 @@ msgstr ""
 #. kurohyou:frames=2991,3060
 msgctxt "kurohyou-scaleform|ca06_07|row=38|frames=2991,3060"
 msgid "この試合の行く末は"
-msgstr ""
+msgstr "¡Ni siquiera Dios sabe"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -355,7 +355,7 @@ msgstr ""
 #. kurohyou:frames=3060,3097
 msgctxt "kurohyou-scaleform|ca06_07|row=39|frames=3060,3097"
 msgid "神様にだって"
-msgstr ""
+msgstr "como terminará"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -364,7 +364,7 @@ msgstr ""
 #. kurohyou:frames=3097,3162
 msgctxt "kurohyou-scaleform|ca06_07|row=40|frames=3097,3162"
 msgid "わかりゃしないぜ！"
-msgstr ""
+msgstr "esta pelea!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -373,7 +373,7 @@ msgstr ""
 #. kurohyou:frames=3223,3266
 msgctxt "kurohyou-scaleform|ca06_07|row=41|frames=3223,3266"
 msgid "いっちょ揺さぶってみっか"
-msgstr ""
+msgstr "A ver si logro persuadirlo un poco."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -382,7 +382,7 @@ msgstr ""
 #. kurohyou:frames=3286,3319
 msgctxt "kurohyou-scaleform|ca06_07|row=42|frames=3286,3319"
 msgid "何だぁ？"
-msgstr ""
+msgstr "¿Qué te pasa?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -391,7 +391,7 @@ msgstr ""
 #. kurohyou:frames=3319,3396
 msgctxt "kurohyou-scaleform|ca06_07|row=43|frames=3319,3396"
 msgid "前とずいぶん様子が違うじゃねぇか"
-msgstr ""
+msgstr "Estás muy distinto de la otra vez, ¿no?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -400,7 +400,7 @@ msgstr ""
 #. kurohyou:frames=3396,3417
 msgctxt "kurohyou-scaleform|ca06_07|row=44|frames=3396,3417"
 msgid "俺に負けて"
-msgstr ""
+msgstr "Después de perder contra mí,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -409,7 +409,7 @@ msgstr ""
 #. kurohyou:frames=3417,3472
 msgctxt "kurohyou-scaleform|ca06_07|row=45|frames=3417,3472"
 msgid "余裕もなくなったってか？"
-msgstr ""
+msgstr "¿se te acabó la confianza o qué?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -418,7 +418,7 @@ msgstr ""
 #. kurohyou:frames=3472,3510
 msgctxt "kurohyou-scaleform|ca06_07|row=46|frames=3472,3510"
 msgid "落ち目のファイターは"
-msgstr ""
+msgstr "Un peleador en decadencia"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -427,7 +427,7 @@ msgstr ""
 #. kurohyou:frames=3510,3539
 msgctxt "kurohyou-scaleform|ca06_07|row=47|frames=3510,3539"
 msgid "辛いねぇ…"
-msgstr ""
+msgstr "qué duro, ¿eh...?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -436,7 +436,7 @@ msgstr ""
 #. kurohyou:frames=3637,3666
 msgctxt "kurohyou-scaleform|ca06_07|row=48|frames=3637,3666"
 msgid "なんだ？"
-msgstr ""
+msgstr "¿Qué?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -445,7 +445,7 @@ msgstr ""
 #. kurohyou:frames=3666,3727
 msgctxt "kurohyou-scaleform|ca06_07|row=49|frames=3666,3727"
 msgid "マジでコイツ,おかしくなったのか？"
-msgstr ""
+msgstr "¿De verdad\neste tipo se volvió loco?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -454,7 +454,7 @@ msgstr ""
 #. kurohyou:frames=3727,3747
 msgctxt "kurohyou-scaleform|ca06_07|row=50|frames=3727,3747"
 msgid "それとも…"
-msgstr ""
+msgstr "¿O...?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -463,7 +463,7 @@ msgstr ""
 #. kurohyou:frames=3888,3944
 msgctxt "kurohyou-scaleform|ca06_07|row=51|frames=3888,3944"
 msgid "もう一回 やってみるか"
-msgstr ""
+msgstr "Voy a intentar de nuevo."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -472,7 +472,7 @@ msgstr ""
 #. kurohyou:frames=3969,4023
 msgctxt "kurohyou-scaleform|ca06_07|row=52|frames=3969,4023"
 msgid "この落ち目野郎が…"
-msgstr ""
+msgstr "Eres un desgraciado en decadencia…"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -481,7 +481,7 @@ msgstr ""
 #. kurohyou:frames=4049,4137
 msgctxt "kurohyou-scaleform|ca06_07|row=53|frames=4049,4137"
 msgid "ん？ この目,本当に俺への怒りなのか？"
-msgstr ""
+msgstr "¿Mm? Esa mirada...\n¿De verdad es ira hacia mí?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -490,7 +490,7 @@ msgstr ""
 #. kurohyou:frames=4212,4259
 msgctxt "kurohyou-scaleform|ca06_07|row=54|frames=4212,4259"
 msgid "なんだ？ いったい？"
-msgstr ""
+msgstr "¿Qué demonios pasa?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -499,7 +499,7 @@ msgstr ""
 #. kurohyou:frames=4259,4301
 msgctxt "kurohyou-scaleform|ca06_07|row=55|frames=4259,4301"
 msgid "とにかく 様子をみるべきだ"
-msgstr ""
+msgstr "En todo caso, mejor observar."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -508,7 +508,7 @@ msgstr ""
 #. kurohyou:frames=4329,4351
 msgctxt "kurohyou-scaleform|ca06_07|row=56|frames=4329,4351"
 msgid "龍也くん！"
-msgstr ""
+msgstr "¡Tatsuya-kun!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -517,7 +517,7 @@ msgstr ""
 #. kurohyou:frames=4371,4459
 msgctxt "kurohyou-scaleform|ca06_07|row=57|frames=4371,4459"
 msgid "いや… ヤツは意外に冷静だ"
-msgstr ""
+msgstr "No... está sorprendentemente sereno."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -526,7 +526,7 @@ msgstr ""
 #. kurohyou:frames=4459,4515
 msgctxt "kurohyou-scaleform|ca06_07|row=58|frames=4459,4515"
 msgid "ちゃんと見えている"
-msgstr ""
+msgstr "Ve con claridad."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -535,7 +535,7 @@ msgstr ""
 #. kurohyou:frames=4515,4556
 msgctxt "kurohyou-scaleform|ca06_07|row=59|frames=4515,4556"
 msgid "しかし… あの眼…"
-msgstr ""
+msgstr "Pero... esos ojos..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -544,7 +544,7 @@ msgstr ""
 #. kurohyou:frames=4568,4577
 msgctxt "kurohyou-scaleform|ca06_07|row=60|frames=4568,4577"
 msgid "え？"
-msgstr ""
+msgstr "¿Eh?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -553,7 +553,7 @@ msgstr ""
 #. kurohyou:frames=4608,4659
 msgctxt "kurohyou-scaleform|ca06_07|row=61|frames=4608,4659"
 msgid "日向のあの眼…"
-msgstr ""
+msgstr "Esos ojos de Hyuga..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -562,7 +562,7 @@ msgstr ""
 #. kurohyou:frames=4676,4751
 msgctxt "kurohyou-scaleform|ca06_07|row=62|frames=4676,4751"
 msgid "何かにとり付かれた様な…"
-msgstr ""
+msgstr "Es como si algo lo hubiera poseído..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -571,5 +571,4 @@ msgstr ""
 #. kurohyou:frames=4759,4783
 msgctxt "kurohyou-scaleform|ca06_07|row=63|frames=4759,4783"
 msgid "あの眼は…"
-msgstr ""
-
+msgstr "Esa mirada..."

@@ -14,7 +14,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca05_07|row=1|frames=-1,-1"
 msgid "（…… 天馬？,どうしてこんなこんなところに）"
-msgstr ""
+msgstr "(¿Tenma? ¿Qué hace en un lugar como este?)"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -23,7 +23,7 @@ msgstr ""
 #. kurohyou:frames=194,237
 msgctxt "kurohyou-scaleform|ca05_07|row=2|frames=194,237"
 msgid "いまさら 関係ねぇ"
-msgstr ""
+msgstr "A estas alturas, ya no importa."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -32,7 +32,7 @@ msgstr ""
 #. kurohyou:frames=252,287
 msgctxt "kurohyou-scaleform|ca05_07|row=3|frames=252,287"
 msgid "またせたな"
-msgstr ""
+msgstr "Te hice esperar."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -41,5 +41,4 @@ msgstr ""
 #. kurohyou:frames=377,443
 msgctxt "kurohyou-scaleform|ca05_07|row=4|frames=377,443"
 msgid "なぜ 天馬が二岡組のヤツと…"
-msgstr ""
-
+msgstr "¿Por qué Tenma está con un tipo de la familia Nioka…?"

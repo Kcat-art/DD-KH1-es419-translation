@@ -13,7 +13,7 @@ msgstr ""
 #. kurohyou:frames=19,47
 msgctxt "kurohyou-scaleform|ca05_08|row=1|frames=19,47"
 msgid "テメェ"
-msgstr ""
+msgstr "Tú..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -22,7 +22,7 @@ msgstr ""
 #. kurohyou:frames=47,135
 msgctxt "kurohyou-scaleform|ca05_08|row=2|frames=47,135"
 msgid "その話マジだろうな？"
-msgstr ""
+msgstr "Esa historia es cierta, ¿verdad?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -31,7 +31,7 @@ msgstr ""
 #. kurohyou:frames=139,232
 msgctxt "kurohyou-scaleform|ca05_08|row=3|frames=139,232"
 msgid "ちゃんと この目で見たんすよ"
-msgstr ""
+msgstr "Lo vi bien con estos ojos."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -40,7 +40,7 @@ msgstr ""
 #. kurohyou:frames=232,306
 msgctxt "kurohyou-scaleform|ca05_08|row=4|frames=232,306"
 msgid "絶対 間違いないっすよ"
-msgstr ""
+msgstr "Estoy seguro, no hay error."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -49,7 +49,7 @@ msgstr ""
 #. kurohyou:frames=306,374
 msgctxt "kurohyou-scaleform|ca05_08|row=5|frames=306,374"
 msgid "アイツ… アイツ…"
-msgstr ""
+msgstr "Ese tipo... ese tipo..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -58,7 +58,7 @@ msgstr ""
 #. kurohyou:frames=374,418
 msgctxt "kurohyou-scaleform|ca05_08|row=6|frames=374,418"
 msgid "足を痛めてんだ！"
-msgstr ""
+msgstr "¡Tiene la pierna jodida!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -68,5 +68,4 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca05_08|row=7|frames=-1,-1"
 msgid "！"
-msgstr ""
-
+msgstr "¡!"

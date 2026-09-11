@@ -13,7 +13,7 @@ msgstr ""
 #. kurohyou:frames=212,278
 msgctxt "kurohyou-scaleform|ca04_06|row=1|frames=212,278"
 msgid "竹中が… 天馬と…"
-msgstr ""
+msgstr "Takenaka... con Tenma..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -22,7 +22,7 @@ msgstr ""
 #. kurohyou:frames=278,318
 msgctxt "kurohyou-scaleform|ca04_06|row=2|frames=278,318"
 msgid "マズイ"
-msgstr ""
+msgstr "Mierda."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -31,7 +31,7 @@ msgstr ""
 #. kurohyou:frames=318,374
 msgctxt "kurohyou-scaleform|ca04_06|row=3|frames=318,374"
 msgid "まさか あいつ,俺を売る気じゃ…"
-msgstr ""
+msgstr "No me digas que... piensa venderme..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -41,5 +41,4 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca04_06|row=4|frames=-1,-1"
 msgid "もう… 試合の時間か…"
-msgstr ""
-
+msgstr "Ya... es hora del combate..."

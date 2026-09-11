@@ -13,7 +13,7 @@ msgstr ""
 #. kurohyou:frames=39,62
 msgctxt "kurohyou-scaleform|ca04_05|row=1|frames=39,62"
 msgid "大丈夫か？"
-msgstr ""
+msgstr "¿Estás bien?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -22,7 +22,7 @@ msgstr ""
 #. kurohyou:frames=113,173
 msgctxt "kurohyou-scaleform|ca04_05|row=2|frames=113,173"
 msgid "く… 首が…"
-msgstr ""
+msgstr "Mi... mi cuello..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -31,7 +31,7 @@ msgstr ""
 #. kurohyou:frames=173,266
 msgctxt "kurohyou-scaleform|ca04_05|row=3|frames=173,266"
 msgid "は… 早く救急車…"
-msgstr ""
+msgstr "Lla... llama una ambulancia, rápido..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -40,7 +40,7 @@ msgstr ""
 #. kurohyou:frames=555,601
 msgctxt "kurohyou-scaleform|ca04_05|row=4|frames=555,601"
 msgid "おっ お前は…"
-msgstr ""
+msgstr "T-tú eres..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -49,7 +49,7 @@ msgstr ""
 #. kurohyou:frames=632,733
 msgctxt "kurohyou-scaleform|ca04_05|row=5|frames=632,733"
 msgid "弱っちい空手なんて やってるから…"
-msgstr ""
+msgstr "Que iba a perder por andar"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -58,7 +58,7 @@ msgstr ""
 #. kurohyou:frames=733,781
 msgctxt "kurohyou-scaleform|ca04_05|row=6|frames=733,781"
 msgid "負けるんだって"
-msgstr ""
+msgstr "practicando un karate tan débil."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -67,7 +67,7 @@ msgstr ""
 #. kurohyou:frames=806,841
 msgctxt "kurohyou-scaleform|ca04_05|row=7|frames=806,841"
 msgid "右京…"
-msgstr ""
+msgstr "Ukyo..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -76,7 +76,7 @@ msgstr ""
 #. kurohyou:frames=841,894
 msgctxt "kurohyou-scaleform|ca04_05|row=8|frames=841,894"
 msgid "なんで居るんだ？"
-msgstr ""
+msgstr "¿Qué haces aquí?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -85,7 +85,7 @@ msgstr ""
 #. kurohyou:frames=902,945
 msgctxt "kurohyou-scaleform|ca04_05|row=9|frames=902,945"
 msgid "ちょっと聞きてえことがある"
-msgstr ""
+msgstr "Quiero preguntarte algo."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -94,7 +94,7 @@ msgstr ""
 #. kurohyou:frames=955,992
 msgctxt "kurohyou-scaleform|ca04_05|row=10|frames=955,992"
 msgid "なんだよ！"
-msgstr ""
+msgstr "¡¿Qué?!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -103,7 +103,7 @@ msgstr ""
 #. kurohyou:frames=992,1039
 msgctxt "kurohyou-scaleform|ca04_05|row=11|frames=992,1039"
 msgid "そ… そうか…"
-msgstr ""
+msgstr "Y-ya veo..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -112,7 +112,7 @@ msgstr ""
 #. kurohyou:frames=1039,1109
 msgctxt "kurohyou-scaleform|ca04_05|row=12|frames=1039,1109"
 msgid "俺も藤本先輩みたいにする気か？"
-msgstr ""
+msgstr "¿Piensas dejarme como al maestro Fujimoto?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -121,7 +121,7 @@ msgstr ""
 #. kurohyou:frames=1121,1160
 msgctxt "kurohyou-scaleform|ca04_05|row=13|frames=1121,1160"
 msgid "チゲーよ！"
-msgstr ""
+msgstr "¡Nada que ver!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -130,7 +130,7 @@ msgstr ""
 #. kurohyou:frames=1160,1195
 msgctxt "kurohyou-scaleform|ca04_05|row=14|frames=1160,1195"
 msgid "そもそもあれは…"
-msgstr ""
+msgstr "Para empezar, eso..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -139,7 +139,7 @@ msgstr ""
 #. kurohyou:frames=1207,1295
 msgctxt "kurohyou-scaleform|ca04_05|row=15|frames=1207,1295"
 msgid "ま… また同じこと繰り返すのか？"
-msgstr ""
+msgstr "¿V-vas a repetir lo mismo otra vez?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -148,7 +148,7 @@ msgstr ""
 #. kurohyou:frames=1295,1367
 msgctxt "kurohyou-scaleform|ca04_05|row=16|frames=1295,1367"
 msgid "この騒ぎもお前の仕業か？"
-msgstr ""
+msgstr "¿Este alboroto también es cosa tuya?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -157,7 +157,7 @@ msgstr ""
 #. kurohyou:frames=1367,1426
 msgctxt "kurohyou-scaleform|ca04_05|row=17|frames=1367,1426"
 msgid "また鑑別所送りだぞ！"
-msgstr ""
+msgstr "¡Te van a mandar otra vez al centro de detención!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -166,5 +166,4 @@ msgstr ""
 #. kurohyou:frames=1426,1483
 msgctxt "kurohyou-scaleform|ca04_05|row=18|frames=1426,1483"
 msgid "警察に通報してやる！"
-msgstr ""
-
+msgstr "¡Voy a avisar a la policía!"

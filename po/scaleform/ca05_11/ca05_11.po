@@ -13,7 +13,7 @@ msgstr ""
 #. kurohyou:frames=114,166
 msgctxt "kurohyou-scaleform|ca05_11|row=1|frames=114,166"
 msgid "テメェ この野郎"
-msgstr ""
+msgstr "Tú, desgraciado."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -22,7 +22,7 @@ msgstr ""
 #. kurohyou:frames=166,234
 msgctxt "kurohyou-scaleform|ca05_11|row=2|frames=166,234"
 msgid "ガセネタつかませやがって"
-msgstr ""
+msgstr "Nos hiciste tragar un información falsa."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -31,7 +31,7 @@ msgstr ""
 #. kurohyou:frames=234,285
 msgctxt "kurohyou-scaleform|ca05_11|row=3|frames=234,285"
 msgid "二岡組なめてんじゃねぇぞ"
-msgstr ""
+msgstr "No subestimes a la familia Nioka."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -40,7 +40,7 @@ msgstr ""
 #. kurohyou:frames=285,312
 msgctxt "kurohyou-scaleform|ca05_11|row=4|frames=285,312"
 msgid "オラァ！"
-msgstr ""
+msgstr "¡Oraaa!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -49,7 +49,7 @@ msgstr ""
 #. kurohyou:frames=347,409
 msgctxt "kurohyou-scaleform|ca05_11|row=5|frames=347,409"
 msgid "うぐぁ！"
-msgstr ""
+msgstr "¡Ugah!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -58,7 +58,7 @@ msgstr ""
 #. kurohyou:frames=409,465
 msgctxt "kurohyou-scaleform|ca05_11|row=6|frames=409,465"
 msgid "テメェら 何してやがる！"
-msgstr ""
+msgstr "¡Qué carajos están haciendo!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -67,7 +67,7 @@ msgstr ""
 #. kurohyou:frames=559,618
 msgctxt "kurohyou-scaleform|ca05_11|row=7|frames=559,618"
 msgid "ちょうど良い"
-msgstr ""
+msgstr "Qué oportuno."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -76,5 +76,4 @@ msgstr ""
 #. kurohyou:frames=618,693
 msgctxt "kurohyou-scaleform|ca05_11|row=8|frames=618,693"
 msgid "お前も ぶっ殺してやる!!"
-msgstr ""
-
+msgstr "¡A ti también te voy a matar!"

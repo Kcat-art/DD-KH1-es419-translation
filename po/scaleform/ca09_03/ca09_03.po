@@ -14,7 +14,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca09_03|row=1|frames=-1,-1"
 msgid "なるほど ガラスを破れば中に入れる。,近所に通報されないように静かにやらないとな"
-msgstr ""
+msgstr "Ya veo. Si rompo el vidrio puedo entrar.\nTengo que hacerlo en silencio para que los vecinos no llamen a la policía."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -23,7 +23,7 @@ msgstr ""
 #. kurohyou:frames=425,458
 msgctxt "kurohyou-scaleform|ca09_03|row=2|frames=425,458"
 msgid "なんだ？"
-msgstr ""
+msgstr "¿Qué pasa?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -32,7 +32,7 @@ msgstr ""
 #. kurohyou:frames=458,505
 msgctxt "kurohyou-scaleform|ca09_03|row=3|frames=458,505"
 msgid "戸田の愛人か…"
-msgstr ""
+msgstr "La amante de Toda..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -41,7 +41,7 @@ msgstr ""
 #. kurohyou:frames=505,605
 msgctxt "kurohyou-scaleform|ca09_03|row=4|frames=505,605"
 msgid "水商売の女って感じだな"
-msgstr ""
+msgstr "Parece una mujer del mundo nocturno."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -50,7 +50,7 @@ msgstr ""
 #. kurohyou:frames=605,711
 msgctxt "kurohyou-scaleform|ca09_03|row=5|frames=605,711"
 msgid "でも ワザワザこんなところに,挟んであるってのも怪しいな"
-msgstr ""
+msgstr "Aunque que la hayan puesto aquí a propósito...\nparece bastante sospechoso."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -59,7 +59,7 @@ msgstr ""
 #. kurohyou:frames=711,751
 msgctxt "kurohyou-scaleform|ca09_03|row=6|frames=711,751"
 msgid "とりあえず頂いとくか"
-msgstr ""
+msgstr "Por ahora me la quedo."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -68,7 +68,7 @@ msgstr ""
 #. kurohyou:frames=814,904
 msgctxt "kurohyou-scaleform|ca09_03|row=7|frames=814,904"
 msgid "この女の名前が,『アン』だったりして…"
-msgstr ""
+msgstr "¿Y si el nombre de esta mujer\nfuera \"An\"...?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -77,7 +77,7 @@ msgstr ""
 #. kurohyou:frames=904,976
 msgctxt "kurohyou-scaleform|ca09_03|row=8|frames=904,976"
 msgid "そんなに都合良く,いかねぇな…"
-msgstr ""
+msgstr "No puede ser tan conveniente..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -86,7 +86,7 @@ msgstr ""
 #. kurohyou:frames=976,1052
 msgctxt "kurohyou-scaleform|ca09_03|row=9|frames=976,1052"
 msgid "でも 大事な手がかりだ"
-msgstr ""
+msgstr "Aun así, es una pista importante."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -95,7 +95,7 @@ msgstr ""
 #. kurohyou:frames=1052,1125
 msgctxt "kurohyou-scaleform|ca09_03|row=10|frames=1052,1125"
 msgid "水商売の女だとしたら…"
-msgstr ""
+msgstr "Si es una mujer que se dedica al mundo del espectáculo nocturno..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -104,5 +104,4 @@ msgstr ""
 #. kurohyou:frames=1125,1176
 msgctxt "kurohyou-scaleform|ca09_03|row=11|frames=1125,1176"
 msgid "ここは 由理香の力を借りるか…"
-msgstr ""
-
+msgstr "Será mejor pedirle ayuda a Yurika..."
