@@ -7843,7 +7843,8 @@ msgctxt "kurohyou|globals|stja|hash=A4FE69EF"
 msgid "フレーム"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=system_text
 #. kurohyou:container=globals.bin
 #. kurohyou:elpk_resource=EC992FCF
@@ -7852,9 +7853,10 @@ msgstr ""
 #. kurohyou:text_offset=0x31522
 msgctxt "kurohyou|globals|stja|hash=A521D5E9"
 msgid "闇金を襲撃しようとしていた龍也\nだが、つるんでいた『雄介』と『天馬』とは、仲たがいして\n一人で襲撃することに……\n『俺に必要なのはチカラだけ』\n龍也は、自分ひとりで闇金を襲撃しようと考える"
-msgstr ""
+msgstr "Tatsuya había estado planeando asaltar una oficina de\npréstamos ilegales. Pero tras una discusión con sus\ncompañeros Yusuke y Tenma, decidió hacerlo todo por su cuenta...\n«Lo único que necesito es poder»."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=system_text
 #. kurohyou:container=globals.bin
 #. kurohyou:elpk_resource=EC992FCF
@@ -7863,9 +7865,10 @@ msgstr ""
 #. kurohyou:text_offset=0x315E0
 msgctxt "kurohyou|globals|stja|hash=A521D5EA"
 msgid "龍也は『東城会』の名をかたり、闇金を襲撃するが\nそこには東城会直系九鬼組の幹部『戸田』がいた\n戸田との闘いに血がたぎった龍也は我を忘れ\nついに戸田を殺してしまう\n龍也は闇金事務所から逃げだし、身を隠すために家へと向かう"
-msgstr ""
+msgstr "Tatsuya, haciéndose pasar por miembro del clan Tojo,\nasalta a unos prestamistas ilegales. Sin embargo, allí se\nencontraba Toda, un alto mando de la familia Kuki, afiliada\na dicho clan. La pelea contra Toda hizo hervir la sangre de Tatsuya,\nquien perdió por completo el control y acabó matándolo.\nTatsuya huye de la oficina de los prestamistas y se dirige a casa para esconderse."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=system_text
 #. kurohyou:container=globals.bin
 #. kurohyou:elpk_resource=EC992FCF
@@ -7874,7 +7877,7 @@ msgstr ""
 #. kurohyou:text_offset=0x316BC
 msgctxt "kurohyou|globals|stja|hash=A521D5EB"
 msgid "龍也は、東城会直系九鬼組組長『九鬼』の元に拉致される\n九鬼は闇金襲撃の一部始終を録画していたことを龍也に話し\n警察に突き出さないことを条件に\n地下格闘技『ドラゴンヒート』への出場を強要する"
-msgstr ""
+msgstr "Tatsuya es secuestrado y llevado ante Kuki, jefe de la familia Kuki,\nuna organización afiliada directamente al clan Tojo. Kuki le revela\nque había grabado todo lo ocurrido durante el asalto a la oficina de\nlos prestamistas y, a cambio de no entregarlo a la policía, lo obliga\na participar en el torneo clandestino de lucha Dragon Heat."
 
 #. y4:line_status=todo
 #. y4:msg_type=system_text
