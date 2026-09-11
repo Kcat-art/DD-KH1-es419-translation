@@ -13,7 +13,7 @@ msgstr ""
 #. kurohyou:frames=34,114
 msgctxt "kurohyou-scaleform|ca02_01|row=1|frames=34,114"
 msgid "テメェらみたいな大人がな…"
-msgstr ""
+msgstr "¡Los adultos como tú..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -22,7 +22,7 @@ msgstr ""
 #. kurohyou:frames=118,193
 msgctxt "kurohyou-scaleform|ca02_01|row=2|frames=118,193"
 msgid "ま… 待て！ 待ってくれ！"
-msgstr ""
+msgstr "¡Espera...! ¡Espera!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -31,7 +31,7 @@ msgstr ""
 #. kurohyou:frames=208,274
 msgctxt "kurohyou-scaleform|ca02_01|row=3|frames=208,274"
 msgid "一番 ムカツクんだよ！"
-msgstr ""
+msgstr "一son los que más me fastidian!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -40,7 +40,7 @@ msgstr ""
 #. kurohyou:frames=730,886
 msgctxt "kurohyou-scaleform|ca02_01|row=4|frames=730,886"
 msgid "ハァハァ… 夢じゃねぇ…"
-msgstr ""
+msgstr "¡Ah ah...! ¿Era solo un sueño?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -49,5 +49,4 @@ msgstr ""
 #. kurohyou:frames=912,1004
 msgctxt "kurohyou-scaleform|ca02_01|row=5|frames=912,1004"
 msgid "ココが 俺の現実だ…"
-msgstr ""
-
+msgstr "Mi realidad es esta aquí..."

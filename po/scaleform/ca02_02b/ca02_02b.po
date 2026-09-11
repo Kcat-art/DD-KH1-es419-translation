@@ -13,7 +13,7 @@ msgstr ""
 #. kurohyou:frames=109,169
 msgctxt "kurohyou-scaleform|ca02_02b|row=1|frames=109,169"
 msgid "あっれえぇぇ～"
-msgstr ""
+msgstr "Ahhhhhh."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -22,7 +22,7 @@ msgstr ""
 #. kurohyou:frames=169,211
 msgctxt "kurohyou-scaleform|ca02_02b|row=2|frames=169,211"
 msgid "どこかで見たと思ったら"
-msgstr ""
+msgstr "Sabía que había visto esa cara en algún lugar."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -31,7 +31,7 @@ msgstr ""
 #. kurohyou:frames=211,281
 msgctxt "kurohyou-scaleform|ca02_02b|row=3|frames=211,281"
 msgid "右京龍也じゃねぇか～？"
-msgstr ""
+msgstr "¿Acaso no es Tatsuya Ukyo?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -40,7 +40,7 @@ msgstr ""
 #. kurohyou:frames=313,362
 msgctxt "kurohyou-scaleform|ca02_02b|row=4|frames=313,362"
 msgid "誰だ… テメェ？"
-msgstr ""
+msgstr "¿Quién eres?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -49,7 +49,7 @@ msgstr ""
 #. kurohyou:frames=372,458
 msgctxt "kurohyou-scaleform|ca02_02b|row=5|frames=372,458"
 msgid "忘れたとは言わせねぇぜ"
-msgstr ""
+msgstr "No me digas que te olvidaste"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -58,7 +58,7 @@ msgstr ""
 #. kurohyou:frames=458,557
 msgctxt "kurohyou-scaleform|ca02_02b|row=6|frames=458,557"
 msgid "テメェが 俺のこの右膝"
-msgstr ""
+msgstr "¡Fuiste tú quien me jodió"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -66,8 +66,8 @@ msgstr ""
 #. kurohyou:row=7
 #. kurohyou:frames=557,619
 msgctxt "kurohyou-scaleform|ca02_02b|row=7|frames=557,619"
-msgid "グチャグチャに,してくれたんだろうがぁ！"
-msgstr ""
+msgid "グチャグチャに"
+msgstr "la rodilla derecha!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -76,7 +76,7 @@ msgstr ""
 #. kurohyou:frames=632,706
 msgctxt "kurohyou-scaleform|ca02_02b|row=8|frames=632,706"
 msgid "遊んでるヒマはねぇんだ！ どけ…"
-msgstr ""
+msgstr "No tengo tiempo para juegos. Fuera de mi camino..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -85,7 +85,7 @@ msgstr ""
 #. kurohyou:frames=733,802
 msgctxt "kurohyou-scaleform|ca02_02b|row=9|frames=733,802"
 msgid "そりゃあ 無理だな"
-msgstr ""
+msgstr "Eso no será posible."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -94,7 +94,7 @@ msgstr ""
 #. kurohyou:frames=802,877
 msgctxt "kurohyou-scaleform|ca02_02b|row=10|frames=802,877"
 msgid "膝が悪いもんでな"
-msgstr ""
+msgstr "Con esta rodilla se me"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -103,7 +103,7 @@ msgstr ""
 #. kurohyou:frames=877,978
 msgctxt "kurohyou-scaleform|ca02_02b|row=11|frames=877,978"
 msgid "簡単には動けねぇんだ…"
-msgstr ""
+msgstr "dificulta moverme..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -112,5 +112,4 @@ msgstr ""
 #. kurohyou:frames=978,1114
 msgctxt "kurohyou-scaleform|ca02_02b|row=12|frames=978,1114"
 msgid "行きたきゃ 無理やり通るんだな"
-msgstr ""
-
+msgstr "Si quieres pasar, tendrás que abrirte paso a la fuerza."

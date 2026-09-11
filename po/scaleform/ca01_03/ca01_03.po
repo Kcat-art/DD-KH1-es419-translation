@@ -13,7 +13,7 @@ msgstr ""
 #. kurohyou:frames=54,104
 msgctxt "kurohyou-scaleform|ca01_03|row=1|frames=54,104"
 msgid "何か用？"
-msgstr ""
+msgstr "¿Necesitas algo?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -22,7 +22,7 @@ msgstr ""
 #. kurohyou:frames=104,149
 msgctxt "kurohyou-scaleform|ca01_03|row=2|frames=104,149"
 msgid "怪我はしてないようだけど？"
-msgstr ""
+msgstr "Parece que no estás herido, ¿eh?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -31,7 +31,7 @@ msgstr ""
 #. kurohyou:frames=176,195
 msgctxt "kurohyou-scaleform|ca01_03|row=3|frames=176,195"
 msgid "ココは？"
-msgstr ""
+msgstr "¿Qué es este lugar?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -40,7 +40,7 @@ msgstr ""
 #. kurohyou:frames=214,245
 msgctxt "kurohyou-scaleform|ca01_03|row=4|frames=214,245"
 msgid "そっか…"
-msgstr ""
+msgstr "Ya veo…"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -49,7 +49,7 @@ msgstr ""
 #. kurohyou:frames=245,312
 msgctxt "kurohyou-scaleform|ca01_03|row=5|frames=245,312"
 msgid "あなたが右京龍也君ね"
-msgstr ""
+msgstr "Así que tú eres Tatsuya Ukyo, ¿no?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -58,7 +58,7 @@ msgstr ""
 #. kurohyou:frames=312,390
 msgctxt "kurohyou-scaleform|ca01_03|row=6|frames=312,390"
 msgid "見ての通り ココは医務室よ"
-msgstr ""
+msgstr "Como ves, esto es la enfermería."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -67,7 +67,7 @@ msgstr ""
 #. kurohyou:frames=406,435
 msgctxt "kurohyou-scaleform|ca01_03|row=7|frames=406,435"
 msgid "医務室？"
-msgstr ""
+msgstr "¿Enfermería?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -76,7 +76,7 @@ msgstr ""
 #. kurohyou:frames=446,485
 msgctxt "kurohyou-scaleform|ca01_03|row=8|frames=446,485"
 msgid "ココで怪我した人間を"
-msgstr ""
+msgstr "Si a los heridos de aquí los"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -85,7 +85,7 @@ msgstr ""
 #. kurohyou:frames=485,536
 msgctxt "kurohyou-scaleform|ca01_03|row=9|frames=485,536"
 msgid "普通の病院に送ったら"
-msgstr ""
+msgstr "mandáramos a un hospital normal,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -94,7 +94,7 @@ msgstr ""
 #. kurohyou:frames=536,659
 msgctxt "kurohyou-scaleform|ca01_03|row=10|frames=536,659"
 msgid "即 警察に通報されるでしょ？"
-msgstr ""
+msgstr "enseguida avisarían a la policía, ¿cierto?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -103,7 +103,7 @@ msgstr ""
 #. kurohyou:frames=659,720
 msgctxt "kurohyou-scaleform|ca01_03|row=11|frames=659,720"
 msgid "私は工藤沙紀"
-msgstr ""
+msgstr "Soy Saki Kudō."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -112,7 +112,7 @@ msgstr ""
 #. kurohyou:frames=809,855
 msgctxt "kurohyou-scaleform|ca01_03|row=12|frames=809,855"
 msgid "あれは…"
-msgstr ""
+msgstr "Eso es…"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -121,7 +121,7 @@ msgstr ""
 #. kurohyou:frames=855,913
 msgctxt "kurohyou-scaleform|ca01_03|row=13|frames=855,913"
 msgid "この医務室のボス"
-msgstr ""
+msgstr "El jefe de esta enfermería,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -130,7 +130,7 @@ msgstr ""
 #. kurohyou:frames=913,953
 msgctxt "kurohyou-scaleform|ca01_03|row=14|frames=913,953"
 msgid "雨宮泰山 先生よ"
-msgstr ""
+msgstr "el doctor Taizan Amamiya."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -140,7 +140,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca01_03|row=15|frames=-1,-1"
 msgid "！"
-msgstr ""
+msgstr "¡!"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -149,7 +149,7 @@ msgstr ""
 #. kurohyou:frames=1060,1141
 msgctxt "kurohyou-scaleform|ca01_03|row=16|frames=1060,1141"
 msgid "ふ～ん あなた"
-msgstr ""
+msgstr "Mmm… tú…"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -158,7 +158,7 @@ msgstr ""
 #. kurohyou:frames=1141,1228
 msgctxt "kurohyou-scaleform|ca01_03|row=17|frames=1141,1228"
 msgid "カラダ 本格的に,鍛えたことないでしょ？"
-msgstr ""
+msgstr "Tu cuerpo… nunca lo has entrenado en serio, ¿no?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -167,7 +167,7 @@ msgstr ""
 #. kurohyou:frames=1228,1329
 msgctxt "kurohyou-scaleform|ca01_03|row=18|frames=1228,1329"
 msgid "でも この柔軟な筋肉…"
-msgstr ""
+msgstr "Pero estos músculos tan flexibles…"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -176,7 +176,7 @@ msgstr ""
 #. kurohyou:frames=1329,1352
 msgctxt "kurohyou-scaleform|ca01_03|row=19|frames=1329,1352"
 msgid "悪くないね"
-msgstr ""
+msgstr "No están mal."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -185,7 +185,7 @@ msgstr ""
 #. kurohyou:frames=1373,1433
 msgctxt "kurohyou-scaleform|ca01_03|row=20|frames=1373,1433"
 msgid "気やすく 触ってんじゃねぇよ"
-msgstr ""
+msgstr "No me andes tocando como si nada."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -194,7 +194,7 @@ msgstr ""
 #. kurohyou:frames=1435,1521
 msgctxt "kurohyou-scaleform|ca01_03|row=21|frames=1435,1521"
 msgid "へ～ 威勢がいいのね"
-msgstr ""
+msgstr "Vaya… sí que tienes carácter."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -203,7 +203,7 @@ msgstr ""
 #. kurohyou:frames=1521,1612
 msgctxt "kurohyou-scaleform|ca01_03|row=22|frames=1521,1612"
 msgid "君の相手 空手家ＴＯＭＯＫＩ"
-msgstr ""
+msgstr "Tu rival es el karateca TOMOKI."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -212,7 +212,7 @@ msgstr ""
 #. kurohyou:frames=1612,1686
 msgctxt "kurohyou-scaleform|ca01_03|row=23|frames=1612,1686"
 msgid "黒学館大の四年生"
-msgstr ""
+msgstr "Estudiante de cuarto año en la Universidad Kurogakukan."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -221,7 +221,7 @@ msgstr ""
 #. kurohyou:frames=1686,1772
 msgctxt "kurohyou-scaleform|ca01_03|row=24|frames=1686,1772"
 msgid "来年には打撃系の格闘家として"
-msgstr ""
+msgstr "El próximo año, como peleador de estilo de golpeo,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -230,7 +230,7 @@ msgstr ""
 #. kurohyou:frames=1772,1815
 msgctxt "kurohyou-scaleform|ca01_03|row=25|frames=1772,1815"
 msgid "プロデビューが決まってるわ"
-msgstr ""
+msgstr "ya tiene asegurado su debut profesional."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -239,7 +239,7 @@ msgstr ""
 #. kurohyou:frames=1854,1903
 msgctxt "kurohyou-scaleform|ca01_03|row=26|frames=1854,1903"
 msgid "デビューが決まってんのに"
-msgstr ""
+msgstr "Si ya tiene el debut asegurado,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -248,7 +248,7 @@ msgstr ""
 #. kurohyou:frames=1903,1938
 msgctxt "kurohyou-scaleform|ca01_03|row=27|frames=1903,1938"
 msgid "何でこんな所に…"
-msgstr ""
+msgstr "¿qué hace en un lugar como este…?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -257,7 +257,7 @@ msgstr ""
 #. kurohyou:frames=1952,2021
 msgctxt "kurohyou-scaleform|ca01_03|row=28|frames=1952,2021"
 msgid "もうアマチュア相手じゃ,物足りなくて"
-msgstr ""
+msgstr "ya no le basta pelear con amateurs,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -266,7 +266,7 @@ msgstr ""
 #. kurohyou:frames=2021,2072
 msgctxt "kurohyou-scaleform|ca01_03|row=29|frames=2021,2072"
 msgid "プロデビュー前の腕試しに"
-msgstr ""
+msgstr "y para probarse antes del debut"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -275,7 +275,7 @@ msgstr ""
 #. kurohyou:frames=2072,2103
 msgctxt "kurohyou-scaleform|ca01_03|row=30|frames=2072,2103"
 msgid "ココに来たってわけ"
-msgstr ""
+msgstr "vino aquí."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -285,7 +285,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca01_03|row=31|frames=-1,-1"
 msgid "……"
-msgstr ""
+msgstr "……"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -294,7 +294,7 @@ msgstr ""
 #. kurohyou:frames=2152,2227
 msgctxt "kurohyou-scaleform|ca01_03|row=32|frames=2152,2227"
 msgid "前の試合で有段者の空手家を"
-msgstr ""
+msgstr "En su pelea anterior, a un karateca con grado,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -303,7 +303,7 @@ msgstr ""
 #. kurohyou:frames=2227,2284
 msgctxt "kurohyou-scaleform|ca01_03|row=33|frames=2227,2284"
 msgid "前蹴り一発で倒したわ"
-msgstr ""
+msgstr "lo tumbó de una sola patada frontal."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -312,7 +312,7 @@ msgstr ""
 #. kurohyou:frames=2284,2331
 msgctxt "kurohyou-scaleform|ca01_03|row=34|frames=2284,2331"
 msgid "正面から撃ち合っても"
-msgstr ""
+msgstr "Si te le plantas de frente"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -321,7 +321,7 @@ msgstr ""
 #. kurohyou:frames=2331,2377
 msgctxt "kurohyou-scaleform|ca01_03|row=35|frames=2331,2377"
 msgid "きっと勝負にならないわよ"
-msgstr ""
+msgstr "seguro ni vas a poder competir."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -330,7 +330,7 @@ msgstr ""
 #. kurohyou:frames=2385,2408
 msgctxt "kurohyou-scaleform|ca01_03|row=36|frames=2385,2408"
 msgid "関係ねぇ"
-msgstr ""
+msgstr "No me importa."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -340,7 +340,7 @@ msgstr ""
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca01_03|row=37|frames=-1,-1"
 msgid "？"
-msgstr ""
+msgstr "¿?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -349,7 +349,7 @@ msgstr ""
 #. kurohyou:frames=2449,2511
 msgctxt "kurohyou-scaleform|ca01_03|row=38|frames=2449,2511"
 msgid "相手が誰だろうと"
-msgstr ""
+msgstr "No importa quién sea el rival,"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -358,7 +358,7 @@ msgstr ""
 #. kurohyou:frames=2511,2551
 msgctxt "kurohyou-scaleform|ca01_03|row=39|frames=2511,2551"
 msgid "俺には関係ねぇ"
-msgstr ""
+msgstr "a mí no me importa."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -367,7 +367,7 @@ msgstr ""
 #. kurohyou:frames=2565,2602
 msgctxt "kurohyou-scaleform|ca01_03|row=40|frames=2565,2602"
 msgid "あっそう…"
-msgstr ""
+msgstr "Ya veo…"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -376,7 +376,7 @@ msgstr ""
 #. kurohyou:frames=2602,2648
 msgctxt "kurohyou-scaleform|ca01_03|row=41|frames=2602,2648"
 msgid "じゃぁ 準備すれば？"
-msgstr ""
+msgstr "Entonces, ¿por qué no te preparas?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -385,5 +385,4 @@ msgstr ""
 #. kurohyou:frames=2648,2678
 msgctxt "kurohyou-scaleform|ca01_03|row=42|frames=2648,2678"
 msgid "ロッカールームで"
-msgstr ""
-
+msgstr "En el vestuario."
