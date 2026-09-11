@@ -1,14 +1,14 @@
 {
   "files_total": 104,
   "files_translated": 67,
-  "files_reviewed": 0,
+  "files_reviewed": 1,
   "entries_total": 32706,
-  "entries_translated": 14838,
-  "entries_reviewed": 1002,
+  "entries_translated": 14887,
+  "entries_reviewed": 1387,
   "entries_hidden": 0,
   "hidden_terms_count": 0,
-  "pct_translated": 45.37,
-  "pct_reviewed": 3.06,
+  "pct_translated": 45.52,
+  "pct_reviewed": 4.24,
   "textures_total": 1092,
   "textures_translated": 6,
   "textures_reviewed": 0,
@@ -17,29 +17,29 @@
   "textures_pending": 1086,
   "pct_textures": 0.55,
   "pct_textures_reviewed": 0.0,
-  "pct_global": 23.83,
+  "pct_global": 24.48,
   "areas": {
     "Cabaret": {
       "files_total": 14,
       "files_translated": 0,
       "files_reviewed": 0,
       "total": 10737,
-      "translated": 775,
-      "reviewed": 669,
+      "translated": 805,
+      "reviewed": 699,
       "hidden": 0,
-      "pct_translated": 7.22,
-      "pct_reviewed": 6.23
+      "pct_translated": 7.5,
+      "pct_reviewed": 6.51
     },
     "Historia / Ciudad": {
       "files_total": 11,
       "files_translated": 4,
-      "files_reviewed": 0,
+      "files_reviewed": 1,
       "total": 9514,
-      "translated": 8368,
-      "reviewed": 329,
+      "translated": 8387,
+      "reviewed": 670,
       "hidden": 0,
-      "pct_translated": 87.95,
-      "pct_reviewed": 3.46
+      "pct_translated": 88.15,
+      "pct_reviewed": 7.04
     },
     "Globales": {
       "files_total": 1,
@@ -47,10 +47,10 @@
       "files_reviewed": 0,
       "total": 5422,
       "translated": 7,
-      "reviewed": 1,
+      "reviewed": 2,
       "hidden": 0,
       "pct_translated": 0.13,
-      "pct_reviewed": 0.02
+      "pct_reviewed": 0.04
     },
     "Cinemáticas": {
       "files_total": 78,
@@ -58,10 +58,10 @@
       "files_reviewed": 0,
       "total": 7033,
       "translated": 5688,
-      "reviewed": 3,
+      "reviewed": 16,
       "hidden": 0,
       "pct_translated": 80.88,
-      "pct_reviewed": 0.04
+      "pct_reviewed": 0.23
     }
   }
 }

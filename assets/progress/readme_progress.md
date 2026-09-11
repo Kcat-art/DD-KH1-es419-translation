@@ -1,13 +1,13 @@
 ## Progreso del proyecto
 
-**Traducción global:** 14838/32706 (45,37%)
-**Revisión global:** 1002/32706 (3,06%)
+**Traducción global:** 14887/32706 (45,52%)
+**Revisión global:** 1387/32706 (4,24%)
 **Texturas:** 6/1092 (0,55%)
-**Progreso global:** 23,83%
+**Progreso global:** 24,48%
 
 | Área | Traducción | Revisión |
 |---|---:|---:|
-| Historia / Ciudad | 8368/9514 (87,95%) | 329/9514 (3,46%) |
-| Cinemáticas | 5688/7033 (80,88%) | 3/7033 (0,04%) |
-| Globales | 7/5422 (0,13%) | 1/5422 (0,02%) |
-| Cabaret | 775/10737 (7,22%) | 669/10737 (6,23%) |
+| Historia / Ciudad | 8387/9514 (88,15%) | 670/9514 (7,04%) |
+| Cinemáticas | 5688/7033 (80,88%) | 16/7033 (0,23%) |
+| Globales | 7/5422 (0,13%) | 2/5422 (0,04%) |
+| Cabaret | 805/10737 (7,50%) | 699/10737 (6,51%) |
