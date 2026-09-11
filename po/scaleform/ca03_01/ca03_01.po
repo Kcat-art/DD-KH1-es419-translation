@@ -28,7 +28,7 @@ msgstr "Mierda..."
 #. kurohyou:frames=214,289
 msgctxt "kurohyou-scaleform|ca03_01|row=2|frames=214,289"
 msgid "音のない時間が こんなにツライって…"
-msgstr "No sabía que un rato sin sonido podía doler tanto..."
+msgstr "No tenía idea de lo doloroso que puede ser estar en completo silencio..."
 
 #. y4:line_status=translated
 #. y4:translated_by=Kcat0
@@ -68,7 +68,8 @@ msgstr "no busca solo ganar,"
 #. kurohyou:frames=693,783
 msgctxt "kurohyou-scaleform|ca03_01|row=6|frames=693,783"
 msgid "どんな時も,己の哲学を貫くことを目指す"
-msgstr "sino sostener su filosofía\npase lo que pase."
+msgstr "sino seguir su filosofía
+pase lo que pase."
 
 #. y4:line_status=translated
 #. y4:translated_by=Kcat0
@@ -78,7 +79,7 @@ msgstr "sino sostener su filosofía\npase lo que pase."
 #. kurohyou:frames=849,919
 msgctxt "kurohyou-scaleform|ca03_01|row=7|frames=849,919"
 msgid "お前の哲学は お前の経験こそが"
-msgstr "Tu filosofía la forja"
+msgstr "Y esa filosofía la forja"
 
 #. y4:line_status=translated
 #. y4:translated_by=Kcat0
@@ -641,4 +642,5 @@ msgstr "toca hacer la limpieza. ¿Lo haces?"
 #. kurohyou:frames=5044,5087
 msgctxt "kurohyou-scaleform|ca03_01|row=68|frames=5044,5087"
 msgid "誰が そんな仕事するか！"
+msgstr "¡Ni loco voy a hacer ese trabajo!"
 msgstr "¡Ni loco voy a hacer ese trabajo!"

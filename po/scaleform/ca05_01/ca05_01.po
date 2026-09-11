@@ -6,6 +6,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es-419\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
+
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca05_01/ca05_01.csv
@@ -215,14 +219,16 @@ msgctxt "kurohyou-scaleform|ca05_01|row=23|frames=1523,1544"
 msgid "それとも…"
 msgstr "¿O...?"
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca05_01/ca05_01.csv
 #. kurohyou:row=24
 #. kurohyou:frames=1693,1736
 msgctxt "kurohyou-scaleform|ca05_01|row=24|frames=1693,1736"
 msgid "龍也"
-msgstr "Tatsuya."
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle

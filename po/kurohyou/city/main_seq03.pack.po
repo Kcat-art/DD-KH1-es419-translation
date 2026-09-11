@@ -4,6 +4,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: es-419\n"
 
+#. y4:file_status=untranslated
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
+
 #. y4:line_status=todo
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
@@ -58,7 +62,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=CF2C9370|cmd=0005|off=18C"
 msgid "あ、<KSEQ_ADVANCE_NEXT>買い物は大丈夫？\n回復薬とか、<KSEQ_ADVANCE_NEXT>ケガを治す応急薬とか\nケガしてるなら、<KSEQ_ADVANCE_NEXT>ボスに診てもらっといたら？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq03.pack
@@ -68,7 +74,7 @@ msgstr ""
 #. kurohyou:text_offset=0x558
 msgctxt "kurohyou|city|main_seq03.pack|elpk=CF2C9370|speaker_off=558"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -360,7 +366,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=F3F26F21|cmd=0006|off=1D8"
 msgid "おい、<KSEQ_ADVANCE_NEXT>右京\n言いがかりつけて悪かったな"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq03.pack
@@ -370,7 +378,7 @@ msgstr ""
 #. kurohyou:text_offset=0x660
 msgctxt "kurohyou|city|main_seq03.pack|elpk=F3F26F21|speaker_off=660"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -687,7 +695,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=F3F26F21|cmd=0024|off=2B0"
 msgid "（まぁ、<KSEQ_ADVANCE_NEXT>俺には関係ねぇし\n　とりあえず、<KSEQ_ADVANCE_NEXT>今は試合のことで手一杯だ）"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq03.pack
@@ -697,7 +707,7 @@ msgstr ""
 #. kurohyou:text_offset=0x3C4
 msgctxt "kurohyou|city|main_seq03.pack|elpk=11FE06DB|speaker_off=3C4"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -774,7 +784,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493130|cmd=0008|off=2C8"
 msgid "闇討ちなんて卑怯なマネしやがって！"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq03.pack
@@ -784,7 +796,7 @@ msgstr ""
 #. kurohyou:text_offset=0x9D0
 msgctxt "kurohyou|city|main_seq03.pack|elpk=50493130|speaker_off=9D0"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1027,7 +1039,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493130|cmd=0035|off=40C"
 msgid "街中に警察官が大量配置されました\n追ってくる警察官に捕まらないよう\nマップに表示された<KSEQ_COLOR:FF8050>目的地<KSEQ_RESET>まで逃げてください"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq03.pack
@@ -1037,7 +1051,7 @@ msgstr ""
 #. kurohyou:text_offset=0x4EC
 msgctxt "kurohyou|city|main_seq03.pack|elpk=50493132|speaker_off=4EC"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1102,7 +1116,8 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493132|cmd=0009|off=1C4"
 msgid "もしもし？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=24
 #. kurohyou:container=main_seq03.pack
@@ -1112,7 +1127,7 @@ msgstr ""
 #. kurohyou:text_offset=0x4F4
 msgctxt "kurohyou|city|main_seq03.pack|elpk=50493132|speaker_off=4F4"
 msgid "九鬼"
-msgstr ""
+msgstr "Kuki"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1217,7 +1232,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493132|cmd=0014|off=200"
 msgid "（しゃあねぇ……\n　<KSEQ_COLOR:FF8050>中道通り入口<KSEQ_RESET>に行くか）"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq03.pack
@@ -1227,7 +1244,7 @@ msgstr ""
 #. kurohyou:text_offset=0x50C
 msgctxt "kurohyou|city|main_seq03.pack|elpk=50493133|speaker_off=50C"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1304,7 +1321,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493133|cmd=0007|off=224"
 msgid "（あいつは……右京龍也……？）"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq03.pack
@@ -1314,7 +1333,7 @@ msgstr ""
 #. kurohyou:text_offset=0x338
 msgctxt "kurohyou|city|main_seq03.pack|elpk=50493134|speaker_off=338"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1400,7 +1419,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493134|cmd=0014|off=1E0"
 msgid "（<KSEQ_COLOR:FF8050>コンビニのポッポ<KSEQ_RESET>で\n　バイト募集してないか、<KSEQ_ADVANCE_NEXT>聞いてみるか）"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=2002
 #. kurohyou:container=main_seq03.pack
@@ -1410,7 +1431,7 @@ msgstr ""
 #. kurohyou:text_offset=0x4B4
 msgctxt "kurohyou|city|main_seq03.pack|elpk=50493136|speaker_off=4B4"
 msgid "ＤＪ　ＲＩＫＵＯＨ"
-msgstr ""
+msgstr "Dj Rikuoh"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1433,7 +1454,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493136|cmd=0003|off=1B4"
 msgid "つれないな～、<KSEQ_ADVANCE_NEXT>龍也ちゃ～ん！\n先に出てっちゃうなんてさ～"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq03.pack
@@ -1443,7 +1466,7 @@ msgstr ""
 #. kurohyou:text_offset=0x4C8
 msgctxt "kurohyou|city|main_seq03.pack|elpk=50493136|speaker_off=4C8"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1667,7 +1690,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493137|cmd=0014|off=2B8"
 msgid "よくも、<KSEQ_ADVANCE_NEXT>俺のダチをボコにしてくれたな\nタダで済むと思うんじゃねぇぞ"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq03.pack
@@ -1677,7 +1702,7 @@ msgstr ""
 #. kurohyou:text_offset=0x978
 msgctxt "kurohyou|city|main_seq03.pack|elpk=50493137|speaker_off=978"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -1973,7 +1998,8 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493137|cmd=0034|off=3A8"
 msgid "（どっかで\n　メシでも食っていくか）"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=2002
 #. kurohyou:container=main_seq03.pack
@@ -1983,7 +2009,7 @@ msgstr ""
 #. kurohyou:text_offset=0x980
 msgctxt "kurohyou|city|main_seq03.pack|elpk=50493137|speaker_off=980"
 msgid "ＤＪ　ＲＩＫＵＯＨ"
-msgstr ""
+msgstr "Dj Rikuoh"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -2006,7 +2032,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493137|cmd=0035|off=3B4"
 msgid "ＹＯ！　龍也ちゃ～ん！"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=1
 #. kurohyou:container=main_seq03.pack
@@ -2016,7 +2044,7 @@ msgstr ""
 #. kurohyou:text_offset=0x1F4
 msgctxt "kurohyou|city|main_seq03.pack|elpk=5049313C|speaker_off=1F4"
 msgid "龍也"
-msgstr ""
+msgstr "Tatsuya"
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
