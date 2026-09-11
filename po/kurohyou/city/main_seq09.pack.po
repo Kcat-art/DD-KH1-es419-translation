@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: es-419\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
 #. y4:last_translator=Kcat0
 #. y4:last_reviewer=Kcat0
 
@@ -152,8 +152,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=AE3D3E70|cmd=0009|off=154"
 msgid "（<KSEQ_COLOR:FF8050>沙紀が行きそうなとこ<KSEQ_RESET>……\n　手当たり次第に行きゃ、<KSEQ_ADVANCE_NEXT>見つかるだろ）"
 msgstr "（<KSEQ_COLOR:FF8050>Lugares a los que Saki podría ir<KSEQ_RESET>…\nSi recorro todos, <KSEQ_ADVANCE_NEXT> seguro la encuentro.）"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq09.pack
@@ -477,8 +478,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=C03A1FFB|cmd=0004|off=210"
 msgid "お前、<KSEQ_ADVANCE_NEXT>なにやってんだよ\n探したぞ"
 msgstr "¿Qué estás haciendo, <KSEQ_ADVANCE_NEXT> tú?\nTe estuve buscando."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq09.pack
@@ -534,8 +536,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=C03A1FFB|cmd=0006|off=228"
 msgid "ホントにアイスが好きだな\nお前のことだから、<KSEQ_ADVANCE_NEXT>ここだと思ったよ"
 msgstr "De verdad te encanta el helado.\nSiendo tú, <KSEQ_ADVANCE_NEXT> pensé que estarías aquí."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=沙紀
 #. y4:msg_speaker_id=35
@@ -688,8 +691,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=C03A1FFB|cmd=0013|off=27C"
 msgid "うん……\n二人きりになれるとこ……行こう"
 msgstr "Sí…\nVamos a un lugar donde podamos estar solos…"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=沙紀
 #. y4:msg_speaker_id=35
@@ -1524,8 +1528,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=C03A1FFB|cmd=0057|off=48C"
 msgid "高校の友だちからもね\n沙紀は親父好きだって、<KSEQ_ADVANCE_NEXT>言われことあるし\nふふふっ……"
 msgstr "Hasta mis amigas del instituto decían\nque a Saki le gustan los tipos mayores… <KSEQ_ADVANCE_NEXT>\nJeje…"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -1676,8 +1681,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=C03A1FFB|cmd=0063|off=4D4"
 msgid "俺、<KSEQ_ADVANCE_NEXT>お前のことが……"
 msgstr "Yo… <KSEQ_ADVANCE_NEXT> tú me…"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=沙紀
 #. y4:msg_speaker_id=35
@@ -1742,8 +1748,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=C03A1FFB|cmd=0066|off=4F8"
 msgid "ダメ……\nこんな時に、<KSEQ_ADVANCE_NEXT>そんなこと言うのは……卑怯だよ"
 msgstr "No…\ndecir algo así ahora, <KSEQ_ADVANCE_NEXT> es… injusto."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -1896,8 +1903,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=C03A1FFB|cmd=0074|off=558"
 msgid "逃げるわけにはいかねぇ\n闘うしかねぇんだよ、<KSEQ_ADVANCE_NEXT>俺たちには"
 msgstr "No podemos huir.\nA nosotros, <KSEQ_ADVANCE_NEXT> solo nos queda pelear."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=沙紀
 #. y4:msg_speaker_id=35
@@ -2028,8 +2036,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=C03A1FFB|cmd=0081|off=5AC"
 msgid "もう、<KSEQ_ADVANCE_NEXT>九鬼もいねぇし……\n胴元が二岡に移ったばかりで、<KSEQ_ADVANCE_NEXT>まだ混乱している\n今なら、<KSEQ_ADVANCE_NEXT>逃げることもできるはずだ"
 msgstr "Kuki ya no está…\nel organizador pasó recién a Nioka y <KSEQ_ADVANCE_NEXT> todavía hay confusión.\nAhora, <KSEQ_ADVANCE_NEXT> deberíamos poder escapar."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=沙紀
 #. y4:msg_speaker_id=35
@@ -2160,8 +2169,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=C03A1FFB|cmd=0087|off=5F4"
 msgid "沙紀……お前ならわかるはずだ\n拳の意味ってのがさ"
 msgstr "Saki… tú deberías entenderlo:\nlo que significan los puños."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=沙紀
 #. y4:msg_speaker_id=35
@@ -2438,8 +2448,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=2F59DC30|cmd=0005|off=13C"
 msgid "（何だったんだ、<KSEQ_ADVANCE_NEXT>あの女\n　急に……キスなんかしやがって）"
 msgstr "（¿Qué le pasaba, <KSEQ_ADVANCE_NEXT> a esa mujer?\nDe la nada… fue y me besó.）"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -2793,8 +2804,9 @@ msgctxt "kurohyou|city|main_seq09.pack|elpk=2F59DC36|speaker_off=5EC"
 msgid "龍也"
 msgstr "Tatsuya"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -3662,3 +3674,4 @@ msgstr "Perdona, <KSEQ_ADVANCE_NEXT> hermano.\nPor andarte probando.\nPor ahora,
 msgctxt "kurohyou|city|main_seq09.pack|elpk=2F59DC3F|cmd=0037|off=40C"
 msgid "（なんだったんだ、<KSEQ_ADVANCE_NEXT>アイツら……\n　余計な手間、<KSEQ_ADVANCE_NEXT>かけさせやがって）"
 msgstr "（¿Y esos qué…?\nVaya <KSEQ_ADVANCE_NEXT> pérdida de tiempo me hicieron pasar.）"
+

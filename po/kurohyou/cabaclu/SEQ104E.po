@@ -202,7 +202,9 @@ msgctxt "kurohyou|cabaclu|SEQ104E|elpk=29B2DF56|cmd=0014|off=2B0"
 msgid "……わかった\n大丈夫　お父さんも元気でね\n帰ってきたら、<KSEQ_ADVANCE_NEXT>電話ちょうだいね"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -221,7 +223,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ104E|elpk=29B2DF56|cmd=0015|off=2BC"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -307,7 +309,9 @@ msgctxt "kurohyou|cabaclu|SEQ104E|elpk=29B2DF56|cmd=0019|off=2EC"
 msgid "そうか……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=ジョウ
 #. y4:msg_speaker_id=0
@@ -326,7 +330,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165E
 msgctxt "kurohyou|cabaclu|SEQ104E|elpk=29B2DF56|cmd=0020|off=2F8"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue

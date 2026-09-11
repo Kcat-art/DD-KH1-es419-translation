@@ -6,6 +6,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es-419\n"
 
+#. y4:file_status=translated
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
+
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01/ca01_01.csv
@@ -15,7 +19,7 @@ msgctxt "kurohyou-scaleform|ca01_01|row=1|frames=542,596"
 msgid "マジでヤル気なのかよ？"
 msgstr "¿En serio vamos a hacerlo?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01/ca01_01.csv
 #. kurohyou:row=2
@@ -33,14 +37,15 @@ msgctxt "kurohyou-scaleform|ca01_01|row=3|frames=821,877"
 msgid "ち… チゲーよ"
 msgstr "¡P-Por supuesto que no!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01/ca01_01.csv
 #. kurohyou:row=4
 #. kurohyou:frames=892,951
 msgctxt "kurohyou-scaleform|ca01_01|row=4|frames=892,951"
 msgid "怖いんなら 降りろ"
-msgstr "Si tienes miedo,vete de aquí..."
+msgstr "Si tienes miedo, vete de aquí..."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -60,14 +65,15 @@ msgctxt "kurohyou-scaleform|ca01_01|row=6|frames=1022,1091"
 msgid "おい！ 今なんつった!?"
 msgstr "¡Eh! ¡¿Cómo me dijiste?!"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01/ca01_01.csv
 #. kurohyou:row=7
 #. kurohyou:frames=1109,1174
 msgctxt "kurohyou-scaleform|ca01_01|row=7|frames=1109,1174"
 msgid "なんだ！ やんのかよ？"
-msgstr "¿Qué pasa? ¿Quieres pelear?"
+msgstr "¿Qué? ¿Quieres pelear?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -87,14 +93,15 @@ msgctxt "kurohyou-scaleform|ca01_01|row=9|frames=1373,1413"
 msgid "天馬…"
 msgstr "Tenma..."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01/ca01_01.csv
 #. kurohyou:row=10
 #. kurohyou:frames=1413,1473
 msgctxt "kurohyou-scaleform|ca01_01|row=10|frames=1413,1473"
 msgid "オメェもビビッてんなら降りろよ"
-msgstr "Si también tienes miedo, lárgate."
+msgstr "Si tienes miedo también, lárgate."
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -303,7 +310,8 @@ msgctxt "kurohyou-scaleform|ca01_01|row=33|frames=2881,2926"
 msgid "辞めさせられたじゃねぇか"
 msgstr "que te echaron del instituto?"
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01/ca01_01.csv
 #. kurohyou:row=34
@@ -311,7 +319,7 @@ msgstr "que te echaron del instituto?"
 #. kurohyou:untimed-event=1
 msgctxt "kurohyou-scaleform|ca01_01|row=34|frames=-1,-1"
 msgid "……"
-msgstr "……"
+msgstr "......"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -402,3 +410,4 @@ msgstr "Lo único que necesito..."
 msgctxt "kurohyou-scaleform|ca01_01|row=44|frames=3813,3851"
 msgid "チカラだけだ"
 msgstr "es poder."
+

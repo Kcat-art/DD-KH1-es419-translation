@@ -412,8 +412,9 @@ msgctxt "kurohyou|city|main_seq04.pack|elpk=B2076D5F|cmd=0014|off=2D8"
 msgid "もしもし？"
 msgstr "¿Aló?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq04.pack
@@ -1520,8 +1521,9 @@ msgctxt "kurohyou|city|main_seq04.pack|elpk=B2076D5F|cmd=0096|off=6B0"
 msgid "龍也くん、<KSEQ_ADVANCE_NEXT>次の試合もがんばってね！\n応援してるよ"
 msgstr "¡Tatsuya, ánimo en el próximo combate! Te apoyaré."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -2051,8 +2053,9 @@ msgctxt "kurohyou|city|main_seq04.pack|elpk=33240B02|cmd=0008|off=190"
 msgid "（この時間なら、<KSEQ_ADVANCE_NEXT>まだやってんだろ\n　ちょっと行ってみるか）"
 msgstr "(A esta hora debería seguir abierto.\nIré a saludar)."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq04.pack
@@ -2579,8 +2582,9 @@ msgctxt "kurohyou|city|main_seq04.pack|elpk=7A3E62AC|cmd=0030|off=458"
 msgid "……でさァ\nえ、<KSEQ_ADVANCE_NEXT>ちょ、<KSEQ_ADVANCE_NEXT>ちょっと、<KSEQ_ADVANCE_NEXT>ちょっと……！"
 msgstr "…Y entonces…\n¿Eh? Oye, <KSEQ_ADVANCE_NEXT>e-<KSEQ_ADVANCE_NEXT>espera, <KSEQ_ADVANCE_NEXT>un momento…!"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -5157,8 +5161,9 @@ msgctxt "kurohyou|city|main_seq04.pack|elpk=7A3E62AE|cmd=0018|off=398"
 msgid "（……マズイ！）"
 msgstr "（…Esto es malo!）"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -5177,7 +5182,7 @@ msgstr "（…Esto es malo!）"
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|city|main_seq04.pack|elpk=7A3E62AE|cmd=0021|off=3BC"
 msgid "…………"
-msgstr "........."
+msgstr "......."
 
 #. y4:line_status=translated
 #. y4:translated_by=Kcat0
@@ -6725,3 +6730,4 @@ msgstr "（¿Osamu…?\nEl lamebotas de Fujimoto, el capitán del club de kárat
 msgctxt "kurohyou|city|main_seq04.pack|elpk=7A3E62AE|cmd=0146|off=998"
 msgid "（西高の安田……\n　<KSEQ_COLOR:FF8050>第三公園<KSEQ_RESET>にいるのか\n　ぜってーに逃がさねぇからな）"
 msgstr "（Yasuda de Kamuro Oeste…\n¿Está en el <KSEQ_COLOR:FF8050>Tercer Parque<KSEQ_RESET>?\nNo lo dejaré escapar.）"
+

@@ -2858,7 +2858,9 @@ msgctxt "kurohyou|cabaclu|SEQ105N|elpk=A4045186|cmd=0036|off=3A0"
 msgid "龍也って\n女心がわかってないんだよね……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -2877,7 +2879,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ105N|elpk=A4045186|cmd=0037|off=3AC"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=speaker_name

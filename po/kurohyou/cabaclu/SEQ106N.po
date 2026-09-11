@@ -5921,7 +5921,9 @@ msgctxt "kurohyou|cabaclu|SEQ106N|elpk=C5A294AC|cmd=0017|off=2BC"
 msgid "そんなこと言われても……\n決められないよ……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -5940,7 +5942,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ106N|elpk=C5A294AC|cmd=0018|off=2C8"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -8197,7 +8199,9 @@ msgctxt "kurohyou|cabaclu|SEQ106N|elpk=C6393617|cmd=0029|off=34C"
 msgid "しかも、<KSEQ_ADVANCE_NEXT>ケンカっぱやい\n出来の悪い弟"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -8216,7 +8220,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ106N|elpk=C6393617|cmd=0030|off=358"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -13954,7 +13958,9 @@ msgctxt "kurohyou|cabaclu|SEQ106N|elpk=275A2B31|cmd=0006|off=220"
 msgid "ああ……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=優
 #. y4:msg_speaker_id=0
@@ -13973,9 +13979,11 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165E
 msgctxt "kurohyou|cabaclu|SEQ106N|elpk=275A2B31|cmd=0007|off=22C"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -13994,7 +14002,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ106N|elpk=275A2B31|cmd=0008|off=238"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=speaker_name
@@ -14955,7 +14963,9 @@ msgctxt "kurohyou|cabaclu|SEQ106N|elpk=275A2B3B|cmd=0004|off=208"
 msgid "まあ……色だけならいいか……\n……黒"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -14974,7 +14984,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ106N|elpk=275A2B3B|cmd=0005|off=214"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -18909,7 +18919,9 @@ msgctxt "kurohyou|cabaclu|SEQ106N|elpk=3B5D42EC|cmd=0021|off=2EC"
 msgid "だってしょうがないじゃん\n酒癖は直せないでしょ？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -18928,7 +18940,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ106N|elpk=3B5D42EC|cmd=0022|off=2F8"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -19187,7 +19199,9 @@ msgctxt "kurohyou|cabaclu|SEQ106N|elpk=3B5D42EE|cmd=0007|off=244"
 msgid "で、<KSEQ_ADVANCE_NEXT>それが家に届いたから\n休みの日にボ～っと木目をながめてたら……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -19206,7 +19220,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ106N|elpk=3B5D42EE|cmd=0008|off=250"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -21388,7 +21402,9 @@ msgctxt "kurohyou|cabaclu|SEQ106N|elpk=4755D3DC|cmd=0007|off=22C"
 msgid "まさに私の理想の生活だよ！"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -21407,7 +21423,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ106N|elpk=4755D3DC|cmd=0008|off=238"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=speaker_name
@@ -26501,7 +26517,9 @@ msgctxt "kurohyou|cabaclu|SEQ106N|elpk=7A40014F|cmd=0028|off=340"
 msgid "よし！\nそれなら俺がその根性叩き直してやる！"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=優
 #. y4:msg_speaker_id=0
@@ -26520,5 +26538,5 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165E
 msgctxt "kurohyou|cabaclu|SEQ106N|elpk=7A40014F|cmd=0029|off=34C"
 msgid "…………"
-msgstr ""
+msgstr "......."
 

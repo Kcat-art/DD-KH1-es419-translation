@@ -4,12 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: es-419\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
 #. y4:last_translator=Kcat0
 #. y4:last_reviewer=Kcat0
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=99001
 #. kurohyou:container=main_seq02.pack
@@ -282,8 +283,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756B1|cmd=0004|off=F8"
 msgid "（俺はどこでも闘えるんだ\n　ドラゴンヒートだろうが関係ねぇ\n　ケンカだ……勝てばいいんだ、<KSEQ_ADVANCE_NEXT>勝てば）"
 msgstr "(Es solo una pelea, no importa si es en\nel Dragón Heat o en otro lugar, solo\nnecesito ganar...)."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -326,8 +328,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756B1|cmd=0006|off=110"
 msgid "（疲れたな……\n　地下格闘場の<KSEQ_COLOR:FF8050>簡易宿泊所<KSEQ_RESET>に戻るか\n　めんどくせぇし……今日はもう寝てぇ）"
 msgstr "（Qué cansancio…\n　¿Regreso al <KSEQ_COLOR:FF8050>albergue temporal<KSEQ_RESET> del ring subterráneo?\n　Qué pereza… hoy quiero dormir。）"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=99001
 #. kurohyou:container=main_seq02.pack
@@ -637,8 +640,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756B9|cmd=0022|off=280"
 msgid "携帯電話のＧＰＳもあるし\n俺たち、<KSEQ_ADVANCE_NEXT>九鬼組の構成員もお前を見張っている\n……手ぇ焼かすんじゃねぇぞ"
 msgstr "El celular tiene GPS, además te estaremos\nvigilando. No nos des problemas."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -747,8 +751,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756B9|cmd=0027|off=2BC"
 msgid "お前たち、<KSEQ_ADVANCE_NEXT>ドラゴンヒートの選手は\nタダで試合が見られるからな"
 msgstr "Los participantes del Dragon Heat pueden\nver los combates gratis."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=99001
 #. kurohyou:container=main_seq02.pack
@@ -1245,8 +1250,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756BF|speaker_off=528"
 msgid "龍也"
 msgstr "Tatsuya"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -1586,8 +1592,9 @@ msgctxt "kurohyou|city|main_seq02.pack|elpk=C7E756BF|cmd=0021|off=21C"
 msgid "（<KSEQ_COLOR:FF8050>九鬼組の事務所<KSEQ_RESET>……\n　地下格闘場のビルに行くか）"
 msgstr "（La <KSEQ_COLOR:FF8050>oficina del 九鬼組<KSEQ_RESET>…\n　¿ir al edificio del ring subterráneo?）"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq02.pack
@@ -2100,3 +2107,4 @@ msgstr "（¿Hoy es la pelea contra 日向…?\n　No hay de otra… iré al <KS
 msgctxt "kurohyou|city|main_seq02.pack|elpk=4903F47D|cmd=0015|off=21C"
 msgid "（いや……\n　もうちょっと時間をつぶすか）"
 msgstr "(Nah... Aún tengo cosas que hacer)."
+

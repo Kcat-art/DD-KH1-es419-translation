@@ -3937,8 +3937,9 @@ msgctxt "kurohyou|city|main_seq07.pack|elpk=D66BF9C9|cmd=0093|off=76C"
 msgid "そうか……\n邪魔したな"
 msgstr "Ya veo…\nPerdón por molestarte."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=怪しい中国人
 #. y4:msg_speaker_id=7030
@@ -3957,7 +3958,7 @@ msgstr "Ya veo…\nPerdón por molestarte."
 #. kurohyou:message_se=0x98CC1658
 msgctxt "kurohyou|city|main_seq07.pack|elpk=D66BF9C9|cmd=0094|off=778"
 msgid "…………"
-msgstr "……"
+msgstr "......."
 
 #. y4:line_status=translated
 #. y4:translated_by=Kcat0
@@ -4469,8 +4470,9 @@ msgctxt "kurohyou|city|main_seq07.pack|elpk=D66BF9C9|cmd=0136|off=970"
 msgid "お前には関係ない\n張にもしものことあったら……\n俺、<KSEQ_ADVANCE_NEXT>お前のこと殺すからな"
 msgstr "No es asunto tuyo.\nSi le pasa algo a Zhang…\nte mataré."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -4489,7 +4491,7 @@ msgstr "No es asunto tuyo.\nSi le pasa algo a Zhang…\nte mataré."
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|city|main_seq07.pack|elpk=D66BF9C9|cmd=0137|off=97C"
 msgid "…………"
-msgstr "……"
+msgstr "......."
 
 #. y4:line_status=translated
 #. y4:translated_by=Kcat0
@@ -5149,8 +5151,9 @@ msgctxt "kurohyou|city|main_seq07.pack|elpk=554F5C1C|cmd=0025|off=304"
 msgid "（孤狼会のことは天馬に任せて\n　明日の試合に備えて休むか\n　よし……<KSEQ_COLOR:FF8050>地下格闘場<KSEQ_RESET>の<KSEQ_COLOR:FF8050>宿泊所<KSEQ_RESET>に戻ろう）"
 msgstr "（Dejaré lo del Korōkai a Tenma.\n　Voy a descansar para prepararme para la pelea de mañana.\n　Bien… volveré al <KSEQ_COLOR:FF8050>coliseo subterráneo<KSEQ_RESET> y su <KSEQ_COLOR:FF8050>alojamiento<KSEQ_RESET>.）"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=message
 #. y4:msg_speaker_id=1048575
 #. kurohyou:container=main_seq07.pack
@@ -5167,10 +5170,11 @@ msgstr "（Dejaré lo del Korōkai a Tenma.\n　Voy a descansar para prepararme 
 #. kurohyou:message_se=0x98CC165F
 msgctxt "kurohyou|city|main_seq07.pack|elpk=554F5C1C|cmd=0029|off=334"
 msgid "…………"
-msgstr "........"
+msgstr "......."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq07.pack
@@ -7320,3 +7324,4 @@ msgstr "（Parece que tampoco hay noticias de Tenma…\n　Ni modo… iré al <K
 msgctxt "kurohyou|city|main_seq07.pack|elpk=6DC364BE|cmd=0016|off=220"
 msgid "（もう少し、<KSEQ_ADVANCE_NEXT>街をぶらつくか……）"
 msgstr "（Daré otra vuelta por la ciudad un rato…）"
+

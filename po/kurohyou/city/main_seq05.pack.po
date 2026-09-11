@@ -80,8 +80,9 @@ msgctxt "kurohyou|city|main_seq05.pack|elpk=DCE062F3|cmd=0009|off=19C"
 msgid "天馬!!"
 msgstr "¡Tenma!"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=message
 #. y4:msg_speaker_id=1048575
 #. kurohyou:container=main_seq05.pack
@@ -114,8 +115,9 @@ msgctxt "kurohyou|city|main_seq05.pack|elpk=DCE062F4|speaker_off=508"
 msgid "龍也"
 msgstr "Tatsuya"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -180,8 +182,9 @@ msgctxt "kurohyou|city|main_seq05.pack|elpk=DCE062F4|cmd=0009|off=1C4"
 msgid "……はい"
 msgstr "……Sí"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq05.pack
@@ -433,8 +436,9 @@ msgctxt "kurohyou|city|main_seq05.pack|elpk=DCE062F4|cmd=0020|off=248"
 msgid "（<KSEQ_COLOR:FF8050>医務室<KSEQ_RESET>に行くか……）"
 msgstr "（Iré a la <KSEQ_COLOR:FF8050>enfermería<KSEQ_RESET>…）"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq05.pack
@@ -819,8 +823,9 @@ msgctxt "kurohyou|city|main_seq05.pack|elpk=DCE062F6|cmd=0037|off=414"
 msgid "（しまった!!\n　尾行に失敗した\n　天馬を見失っちまったか……）"
 msgstr "（¡Rayos!\nFallé en el seguimiento.\n¿Perdí de vista a Tenma…?）"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=message
 #. y4:msg_speaker_id=1048575
 #. kurohyou:container=main_seq05.pack
@@ -976,8 +981,9 @@ msgctxt "kurohyou|city|main_seq05.pack|elpk=5DFD00B9|cmd=0012|off=210"
 msgid "（よし……戸田のことを確かめに\n　九鬼の事務所へ行くか）"
 msgstr "（Perfecto… Voy a la oficina de Kuki\n　para confirmar lo de Toda.）"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq05.pack
@@ -1361,8 +1367,9 @@ msgctxt "kurohyou|city|main_seq05.pack|elpk=5DFD00B9|cmd=0037|off=33C"
 msgid "いや……何でもねぇよ"
 msgstr "No… no es nada."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=99001
 #. kurohyou:container=main_seq05.pack
@@ -3923,3 +3930,4 @@ msgstr "Tatsuya"
 msgctxt "kurohyou|city|main_seq05.pack|elpk=5DFD00BF|cmd=0006|off=180"
 msgid "（もう一度……<KSEQ_COLOR:FF8050>趙楽<KSEQ_RESET>に行ってみるか）"
 msgstr "（Una vez más… iré a <KSEQ_COLOR:FF8050>Chōraku<KSEQ_RESET>.）"
+

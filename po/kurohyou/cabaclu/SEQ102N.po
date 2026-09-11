@@ -6485,7 +6485,9 @@ msgctxt "kurohyou|cabaclu|SEQ102N|elpk=C5A294AF|cmd=0009|off=25C"
 msgid "さーやは、<KSEQ_ADVANCE_NEXT>たっちゃんに\n行くなって言って欲しかったのにな……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -6504,7 +6506,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ102N|elpk=C5A294AF|cmd=0010|off=268"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue

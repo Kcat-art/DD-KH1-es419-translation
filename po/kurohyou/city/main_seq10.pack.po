@@ -4,7 +4,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: es-419\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
 #. y4:last_translator=Kcat0
 #. y4:last_reviewer=Kcat0
 
@@ -44,8 +44,9 @@ msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE0|cmd=0011|off=1A4"
 msgid "（ここで……\n　すべてのケリをつける）"
 msgstr "（Aquí…\n　pondré fin a todo.）"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq10.pack
@@ -352,8 +353,9 @@ msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE1|cmd=0010|off=280"
 msgid "ああ、<KSEQ_ADVANCE_NEXT>そうだ"
 msgstr "Sí, <KSEQ_ADVANCE_NEXT>así es."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq10.pack
@@ -772,8 +774,9 @@ msgctxt "kurohyou|city|main_seq10.pack|elpk=F30E9BE2|cmd=0018|off=2B8"
 msgid "（警察にかまってる暇はねぇ！\n　急がねぇと！）"
 msgstr "（¡No tengo tiempo para lidiar con la policía!\n　¡Tengo que apurarme!）"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=message
 #. y4:msg_speaker_id=1048575
 #. kurohyou:container=main_seq10.pack
@@ -1188,8 +1191,9 @@ msgctxt "kurohyou|city|main_seq10.pack|elpk=27DD9CB7|cmd=0018|off=378"
 msgid "そのシャトー・シャノワールというワインに\n戸田の残した録音データが\n隠されているに違いない"
 msgstr "En ese vino llamado Château Chat Noir\ndebe de estar oculto el audio\nque dejó Toda."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq10.pack
@@ -1565,3 +1569,4 @@ msgstr "Basuras…\nvan a morir <KSEQ_ADVANCE_NEXT>juntitos, como buen padre e h
 msgctxt "kurohyou|city|main_seq10.pack|elpk=27DD9CB7|cmd=0041|off=48C"
 msgid "上等だ！\n身の程ってヤツ……教えてやらぁっ!!"
 msgstr "¡Perfecto!\nLes voy a enseñar… <KSEQ_ADVANCE_NEXT>cuál es su lugar!!"
+

@@ -559,7 +559,9 @@ msgctxt "kurohyou|cabaclu|SEQ107E|elpk=29B2DF56|cmd=0035|off=3AC"
 msgid "じっとしてて……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -578,7 +580,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ107E|elpk=29B2DF56|cmd=0036|off=3B8"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -643,7 +645,9 @@ msgctxt "kurohyou|cabaclu|SEQ107E|elpk=29B2DF56|cmd=0039|off=3DC"
 msgid "由理香……"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=由理香
 #. y4:msg_speaker_id=0
@@ -662,7 +666,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165E
 msgctxt "kurohyou|cabaclu|SEQ107E|elpk=29B2DF56|cmd=0043|off=40C"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue

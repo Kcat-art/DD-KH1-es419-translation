@@ -6,7 +6,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Language: es-419\n"
 
-#. y4:line_status=todo
+#. y4:file_status=translated
+#. y4:last_translator=Kcat0
+#. y4:last_reviewer=Kcat0
+
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=1
@@ -15,7 +20,8 @@ msgctxt "kurohyou-scaleform|ca01_01b|row=1|frames=19,63"
 msgid "お願いです"
 msgstr "¡Se lo suplico!"
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=2
@@ -24,16 +30,19 @@ msgctxt "kurohyou-scaleform|ca01_01b|row=2|frames=63,111"
 msgid "もう少し待ってください"
 msgstr "¡Deme un poco más de tiempo!"
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=3
 #. kurohyou:frames=136,232
 msgctxt "kurohyou-scaleform|ca01_01b|row=3|frames=136,232"
 msgid "オカネ 借リテ返サナイ"
-msgstr "Pedir prestado y no pagar..."
+msgstr "Pedir dinero y no pagar..."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=4
@@ -42,7 +51,8 @@ msgctxt "kurohyou-scaleform|ca01_01b|row=4|frames=232,274"
 msgid "悪イコトネ"
 msgstr "es algo terrible."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=5
@@ -51,7 +61,8 @@ msgctxt "kurohyou-scaleform|ca01_01b|row=5|frames=282,357"
 msgid "か… 必ず返します"
 msgstr "P-pero... ¡lo juro!"
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=6
@@ -60,7 +71,8 @@ msgctxt "kurohyou-scaleform|ca01_01b|row=6|frames=357,395"
 msgid "あと３日"
 msgstr "Tres días más..."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=7
@@ -69,16 +81,19 @@ msgctxt "kurohyou-scaleform|ca01_01b|row=7|frames=395,484"
 msgid "イヤ あと２日待って頂ければ…"
 msgstr "No... ¡Dos días bastarán!"
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=8
 #. kurohyou:frames=576,692
 msgctxt "kurohyou-scaleform|ca01_01b|row=8|frames=576,692"
 msgid "デモ 嘘ツクノ… モット悪イ"
-msgstr "Mentir es aun peor que no pagar tus deudas."
+msgstr "Mentir es aún peor que no pagar tus deudas."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=9
@@ -87,7 +102,8 @@ msgctxt "kurohyou-scaleform|ca01_01b|row=9|frames=708,754"
 msgid "ダイジョウブヨ"
 msgstr "Pero no te preocupes..."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=10
@@ -96,7 +112,8 @@ msgctxt "kurohyou-scaleform|ca01_01b|row=10|frames=754,819"
 msgid "腎臓ヒトツ売レバ"
 msgstr "Si vendes un riñón"
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=11
@@ -105,32 +122,37 @@ msgctxt "kurohyou-scaleform|ca01_01b|row=11|frames=819,901"
 msgid "５００万クライ スグ返セルネ"
 msgstr "podrás pagar los cinco millones enseguida."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=12
 #. kurohyou:frames=997,1057
 msgctxt "kurohyou-scaleform|ca01_01b|row=12|frames=997,1057"
 msgid "黙って商売"
-msgstr "Vender a escondidas..."
+msgstr "Hacer negocios a escondidas..."
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=13
 #. kurohyou:frames=1057,1117
 msgctxt "kurohyou-scaleform|ca01_01b|row=13|frames=1057,1117"
 msgid "もっともっと悪いアルよ"
-msgstr "eso es imperdonable, ¿no?"
+msgstr "es mucho peor."
 
-#. y4:line_status=todo
+#. y4:line_status=translated
+#. y4:translated_by=Kcat0
 #. y4:msg_type=subtitle
 #. kurohyou:source_csv=scaleform/ca01_01b/ca01_01b.csv
 #. kurohyou:row=14
 #. kurohyou:frames=1433,1466
 msgctxt "kurohyou-scaleform|ca01_01b|row=14|frames=1433,1466"
 msgid "誰に断って"
-msgstr "¿Con permiso de quién…?"
+msgstr "¿Quién les dio permiso?"
 
 #. y4:line_status=todo
 #. y4:msg_type=subtitle
@@ -583,3 +605,4 @@ msgstr "Está muerto…"
 msgctxt "kurohyou-scaleform|ca01_01b|row=64|frames=8220,8263"
 msgid "マジかよ"
 msgstr "¿En serio…?"
+

@@ -7853,7 +7853,7 @@ msgstr ""
 #. kurohyou:text_offset=0x31522
 msgctxt "kurohyou|globals|stja|hash=A521D5E9"
 msgid "闇金を襲撃しようとしていた龍也\nだが、つるんでいた『雄介』と『天馬』とは、仲たがいして\n一人で襲撃することに……\n『俺に必要なのはチカラだけ』\n龍也は、自分ひとりで闇金を襲撃しようと考える"
-msgstr "Tatsuya había estado planeando asaltar una oficina de\npréstamos ilegales. Pero tras una discusión con sus\ncompañeros Yusuke y Tenma, decidió hacerlo todo por su cuenta...\n«Lo único que necesito es poder»."
+msgstr "Tatsuya planeaba asaltar a unos prestamistas ilegales.\nPero tras enemistarse con Yusuke y Tenma, decide llevar\na cabo el asalto por su cuenta…\n\"Lo único que necesito es poder\".\nTatsuya se dispone a asaltar él solo la oficina de los prestamistas."
 
 #. y4:line_status=translated
 #. y4:translated_by=Kcat0
@@ -34918,8 +34918,9 @@ msgctxt "kurohyou|globals|stja|hash=1C5917F8"
 msgid "九鬼組若衆"
 msgstr ""
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=system_text
 #. kurohyou:container=globals.bin
 #. kurohyou:elpk_resource=EC992FCF

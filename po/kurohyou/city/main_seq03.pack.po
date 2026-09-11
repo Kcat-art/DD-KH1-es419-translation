@@ -4,12 +4,13 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Language: es-419\n"
 
-#. y4:file_status=untranslated
+#. y4:file_status=translated
 #. y4:last_translator=Kcat0
 #. y4:last_reviewer=Kcat0
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq03.pack
@@ -1102,8 +1103,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493132|speaker_off=4EC"
 msgid "龍也"
 msgstr "Tatsuya"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -2023,8 +2025,9 @@ msgctxt "kurohyou|city|main_seq03.pack|elpk=50493137|cmd=0031|off=384"
 msgid "闇討ち……？\nマジでなんのことだかわかんねぇな\n知らねぇっつってんのによ……"
 msgstr "¿Atacar por sorpresa...? De verdad no entiendo nada...\nYa te dije que no sé de qué hablas..."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -2181,3 +2184,4 @@ msgstr "(Ya casi es hora de la lucha...\nSerá mejor ir al <KSEQ_COLOR:FF8050>ve
 msgctxt "kurohyou|city|main_seq03.pack|elpk=5049313C|cmd=0005|off=114"
 msgid "（それにしても\n　Ｍ．ＹＵＫＩ……何者なんだ？）"
 msgstr "(Pero... ¿Quién diablos es M. Yuki?)."
+

@@ -6229,7 +6229,9 @@ msgctxt "kurohyou|cabaclu|SEQ104N|elpk=C5A294AB|cmd=0032|off=370"
 msgid "も～、<KSEQ_ADVANCE_NEXT>すぐそういう発想して～\nみんな龍也くんみたいな人じゃないんだよ？"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -6248,7 +6250,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ104N|elpk=C5A294AB|cmd=0033|off=37C"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -20887,7 +20889,9 @@ msgctxt "kurohyou|cabaclu|SEQ104N|elpk=3B5D42EC|cmd=0034|off=388"
 msgid "あのね、<KSEQ_ADVANCE_NEXT>マッサージしてあげるって\n言う男はたいてい、<KSEQ_ADVANCE_NEXT>エッチしたいだけって\nママが言ってたの！"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -20906,7 +20910,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ104N|elpk=3B5D42EC|cmd=0035|off=394"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
@@ -30495,7 +30499,9 @@ msgctxt "kurohyou|cabaclu|SEQ104N|elpk=7A40014F|cmd=0042|off=3E8"
 msgid "ほらね！　龍也くんが納豆とオクラを\n食べられるようになったら\n私もお魚食べるよ"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -30514,5 +30520,5 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ104N|elpk=7A40014F|cmd=0043|off=3F4"
 msgid "…………"
-msgstr ""
+msgstr "......."
 

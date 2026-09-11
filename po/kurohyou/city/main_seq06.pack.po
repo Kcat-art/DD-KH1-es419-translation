@@ -2646,8 +2646,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=9C27846D|speaker_off=444"
 msgid "龍也"
 msgstr "Tatsuya"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -2712,8 +2713,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=9C27846D|cmd=0009|off=1C4"
 msgid "……なんだよ"
 msgstr "…¿Qué sucede?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=99001
 #. kurohyou:container=main_seq06.pack
@@ -3129,8 +3131,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=1D442229|cmd=0006|off=168"
 msgid "何だよ……"
 msgstr "¿Qué es…?"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=35
 #. kurohyou:container=main_seq06.pack
@@ -3360,8 +3363,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=1D44222B|cmd=0011|off=2CC"
 msgid "わかった……\nそれじゃ、<KSEQ_ADVANCE_NEXT>着替えるから"
 msgstr "Entendido…\nEntonces, <KSEQ_ADVANCE_NEXT>voy a cambiarme."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=39
 #. kurohyou:container=main_seq06.pack
@@ -3866,8 +3870,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=46172B1C|cmd=0032|off=310"
 msgid "<KSEQ_COLOR:FF8050>コンビニ<KSEQ_RESET>だな\nわかった、<KSEQ_ADVANCE_NEXT>あとよろしく頼んだ"
 msgstr "Así que en el <KSEQ_COLOR:FF8050>convenience store<KSEQ_RESET>.\nEntendido, <KSEQ_ADVANCE_NEXT>te dejo el resto."
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=天馬
 #. y4:msg_speaker_id=27
@@ -3932,8 +3937,9 @@ msgctxt "kurohyou|city|main_seq06.pack|elpk=46172B1C|cmd=0040|off=370"
 msgid "九鬼はどこだ\n九鬼に会わせろ！"
 msgstr "¿Dónde está Kuki?\n¡Déjenme verlo!"
 
-#. y4:line_status=translated
+#. y4:line_status=reviewed
 #. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=speaker_name
 #. y4:msg_speaker_id=99001
 #. kurohyou:container=main_seq06.pack
@@ -4098,3 +4104,4 @@ msgstr "Ahora mismo, el jefe está con una visita.\nVuelve después."
 msgctxt "kurohyou|city|main_seq06.pack|elpk=46172B1C|cmd=0054|off=418"
 msgid "おい、<KSEQ_ADVANCE_NEXT>ここはお前の家じゃねぇんだ\n勝手にウロチョロしてんじゃねぇ"
 msgstr "Oye, esta no es tu casa.\nDeja de andar merodeando por tu cuenta."
+

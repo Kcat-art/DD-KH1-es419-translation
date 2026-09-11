@@ -21781,7 +21781,9 @@ msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A409F|cmd=0017|off=5A4"
 msgid "いや、<KSEQ_ADVANCE_NEXT>前の方が良かったかな……\n悪くないけどな"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=美佳
 #. y4:msg_speaker_id=0
@@ -21800,7 +21802,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165E
 msgctxt "kurohyou|cabaclu|SEQ101N|elpk=559A409F|cmd=0018|off=5B0"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=reviewed
 #. y4:translated_by=Kcat0

@@ -328,7 +328,9 @@ msgctxt "kurohyou|cabaclu|SEQ106E|elpk=29B2DF56|cmd=0020|off=2F8"
 msgid "お見合いのとき\n勝手に龍也君の名前使ったことに"
 msgstr ""
 
-#. y4:line_status=todo
+#. y4:line_status=reviewed
+#. y4:translated_by=Kcat0
+#. y4:reviewed_by=Kcat0
 #. y4:msg_type=dialogue
 #. y4:msg_speaker=龍也
 #. y4:msg_speaker_id=1
@@ -347,7 +349,7 @@ msgstr ""
 #. kurohyou:message_se=0x98CC165C
 msgctxt "kurohyou|cabaclu|SEQ106E|elpk=29B2DF56|cmd=0021|off=304"
 msgid "…………"
-msgstr ""
+msgstr "......."
 
 #. y4:line_status=todo
 #. y4:msg_type=dialogue
